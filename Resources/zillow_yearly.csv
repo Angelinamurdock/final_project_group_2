@@ -1,0 +1,1977 @@
+,RegionID,Neighborhood,City,Year,Value
+0,6018,Montbello,Denver,2000,134737.0
+1,6018,Montbello,Denver,2001,155990.0
+2,6018,Montbello,Denver,2002,167373.0
+3,6018,Montbello,Denver,2003,169344.0
+4,6018,Montbello,Denver,2004,170715.0
+5,6018,Montbello,Denver,2005,171012.0
+6,6018,Montbello,Denver,2006,168225.0
+7,6018,Montbello,Denver,2007,160938.0
+8,6018,Montbello,Denver,2008,134205.0
+9,6018,Montbello,Denver,2009,119202.0
+10,6018,Montbello,Denver,2010,123873.0
+11,6018,Montbello,Denver,2011,112676.0
+12,6018,Montbello,Denver,2012,118087.0
+13,6018,Montbello,Denver,2013,141687.0
+14,6018,Montbello,Denver,2014,165298.0
+15,6018,Montbello,Denver,2015,201808.0
+16,6018,Montbello,Denver,2016,240279.0
+17,6018,Montbello,Denver,2017,268027.0
+18,6018,Montbello,Denver,2018,296224.0
+19,6018,Montbello,Denver,2019,314528.0
+20,6018,Montbello,Denver,2020,338943.0
+21,6018,Montbello,Denver,2021,390656.0
+22,6018,Montbello,Denver,2022,442289.0
+23,6018,Montbello,Denver,2023,433477.0
+24,6018,Montbello,Denver,2024,438896.0
+25,6018,Montbello,Denver,2025,434678.0
+26,12803,Montclair,Denver,2000,237205.0
+27,12803,Montclair,Denver,2001,269018.0
+28,12803,Montclair,Denver,2002,281819.0
+29,12803,Montclair,Denver,2003,282207.0
+30,12803,Montclair,Denver,2004,286922.0
+31,12803,Montclair,Denver,2005,301260.0
+32,12803,Montclair,Denver,2006,316433.0
+33,12803,Montclair,Denver,2007,320850.0
+34,12803,Montclair,Denver,2008,317873.0
+35,12803,Montclair,Denver,2009,308110.0
+36,12803,Montclair,Denver,2010,307469.0
+37,12803,Montclair,Denver,2011,291396.0
+38,12803,Montclair,Denver,2012,294982.0
+39,12803,Montclair,Denver,2013,328026.0
+40,12803,Montclair,Denver,2014,356598.0
+41,12803,Montclair,Denver,2015,401257.0
+42,12803,Montclair,Denver,2016,437966.0
+43,12803,Montclair,Denver,2017,467446.0
+44,12803,Montclair,Denver,2018,504293.0
+45,12803,Montclair,Denver,2019,527183.0
+46,12803,Montclair,Denver,2020,556664.0
+47,12803,Montclair,Denver,2021,635951.0
+48,12803,Montclair,Denver,2022,715095.0
+49,12803,Montclair,Denver,2023,694637.0
+50,12803,Montclair,Denver,2024,688950.0
+51,12803,Montclair,Denver,2025,681470.0
+52,40932,Skyland,Denver,2000,145859.0
+53,40932,Skyland,Denver,2001,171162.0
+54,40932,Skyland,Denver,2002,188622.0
+55,40932,Skyland,Denver,2003,192209.0
+56,40932,Skyland,Denver,2004,194054.0
+57,40932,Skyland,Denver,2005,202736.0
+58,40932,Skyland,Denver,2006,209028.0
+59,40932,Skyland,Denver,2007,209878.0
+60,40932,Skyland,Denver,2008,197065.0
+61,40932,Skyland,Denver,2009,193822.0
+62,40932,Skyland,Denver,2010,199822.0
+63,40932,Skyland,Denver,2011,192693.0
+64,40932,Skyland,Denver,2012,204005.0
+65,40932,Skyland,Denver,2013,242243.0
+66,40932,Skyland,Denver,2014,278562.0
+67,40932,Skyland,Denver,2015,330069.0
+68,40932,Skyland,Denver,2016,369106.0
+69,40932,Skyland,Denver,2017,403337.0
+70,40932,Skyland,Denver,2018,441891.0
+71,40932,Skyland,Denver,2019,464819.0
+72,40932,Skyland,Denver,2020,492785.0
+73,40932,Skyland,Denver,2021,558747.0
+74,40932,Skyland,Denver,2022,625057.0
+75,40932,Skyland,Denver,2023,602959.0
+76,40932,Skyland,Denver,2024,599998.0
+77,40932,Skyland,Denver,2025,591824.0
+78,42385,Indian Creek,Denver,2000,163801.0
+79,42385,Indian Creek,Denver,2001,185234.0
+80,42385,Indian Creek,Denver,2002,197516.0
+81,42385,Indian Creek,Denver,2003,196948.0
+82,42385,Indian Creek,Denver,2004,198324.0
+83,42385,Indian Creek,Denver,2005,202311.0
+84,42385,Indian Creek,Denver,2006,203002.0
+85,42385,Indian Creek,Denver,2007,197883.0
+86,42385,Indian Creek,Denver,2008,182440.0
+87,42385,Indian Creek,Denver,2009,159199.0
+88,42385,Indian Creek,Denver,2010,152987.0
+89,42385,Indian Creek,Denver,2011,157176.0
+90,42385,Indian Creek,Denver,2012,163558.0
+91,42385,Indian Creek,Denver,2013,174893.0
+92,42385,Indian Creek,Denver,2014,192038.0
+93,42385,Indian Creek,Denver,2015,218464.0
+94,42385,Indian Creek,Denver,2016,248546.0
+95,42385,Indian Creek,Denver,2017,275810.0
+96,42385,Indian Creek,Denver,2018,298066.0
+97,42385,Indian Creek,Denver,2019,307315.0
+98,42385,Indian Creek,Denver,2020,316375.0
+99,42385,Indian Creek,Denver,2021,352055.0
+100,42385,Indian Creek,Denver,2022,409866.0
+101,42385,Indian Creek,Denver,2023,404074.0
+102,42385,Indian Creek,Denver,2024,387955.0
+103,42385,Indian Creek,Denver,2025,377420.0
+104,45614,Hale,Denver,2000,198455.0
+105,45614,Hale,Denver,2001,229598.0
+106,45614,Hale,Denver,2002,241127.0
+107,45614,Hale,Denver,2003,243001.0
+108,45614,Hale,Denver,2004,250122.0
+109,45614,Hale,Denver,2005,262138.0
+110,45614,Hale,Denver,2006,272171.0
+111,45614,Hale,Denver,2007,276113.0
+112,45614,Hale,Denver,2008,271758.0
+113,45614,Hale,Denver,2009,264623.0
+114,45614,Hale,Denver,2010,264424.0
+115,45614,Hale,Denver,2011,251617.0
+116,45614,Hale,Denver,2012,260480.0
+117,45614,Hale,Denver,2013,294949.0
+118,45614,Hale,Denver,2014,325218.0
+119,45614,Hale,Denver,2015,373788.0
+120,45614,Hale,Denver,2016,414566.0
+121,45614,Hale,Denver,2017,447563.0
+122,45614,Hale,Denver,2018,476847.0
+123,45614,Hale,Denver,2019,497849.0
+124,45614,Hale,Denver,2020,526809.0
+125,45614,Hale,Denver,2021,595441.0
+126,45614,Hale,Denver,2022,669519.0
+127,45614,Hale,Denver,2023,646046.0
+128,45614,Hale,Denver,2024,640801.0
+129,45614,Hale,Denver,2025,630254.0
+130,52070,Fort Logan,Denver,2000,192023.0
+131,52070,Fort Logan,Denver,2001,217283.0
+132,52070,Fort Logan,Denver,2002,231375.0
+133,52070,Fort Logan,Denver,2003,231663.0
+134,52070,Fort Logan,Denver,2004,236306.0
+135,52070,Fort Logan,Denver,2005,239897.0
+136,52070,Fort Logan,Denver,2006,240646.0
+137,52070,Fort Logan,Denver,2007,237549.0
+138,52070,Fort Logan,Denver,2008,228408.0
+139,52070,Fort Logan,Denver,2009,220318.0
+140,52070,Fort Logan,Denver,2010,219828.0
+141,52070,Fort Logan,Denver,2011,210475.0
+142,52070,Fort Logan,Denver,2012,214789.0
+143,52070,Fort Logan,Denver,2013,239494.0
+144,52070,Fort Logan,Denver,2014,262320.0
+145,52070,Fort Logan,Denver,2015,300699.0
+146,52070,Fort Logan,Denver,2016,335967.0
+147,52070,Fort Logan,Denver,2017,366015.0
+148,52070,Fort Logan,Denver,2018,392921.0
+149,52070,Fort Logan,Denver,2019,411705.0
+150,52070,Fort Logan,Denver,2020,440760.0
+151,52070,Fort Logan,Denver,2021,505964.0
+152,52070,Fort Logan,Denver,2022,575114.0
+153,52070,Fort Logan,Denver,2023,567639.0
+154,52070,Fort Logan,Denver,2024,570516.0
+155,52070,Fort Logan,Denver,2025,573099.0
+156,119221,Berkley,Denver,2000,
+157,119221,Berkley,Denver,2001,
+158,119221,Berkley,Denver,2002,
+159,119221,Berkley,Denver,2003,
+160,119221,Berkley,Denver,2004,
+161,119221,Berkley,Denver,2005,
+162,119221,Berkley,Denver,2006,
+163,119221,Berkley,Denver,2007,
+164,119221,Berkley,Denver,2008,
+165,119221,Berkley,Denver,2009,
+166,119221,Berkley,Denver,2010,
+167,119221,Berkley,Denver,2011,
+168,119221,Berkley,Denver,2012,
+169,119221,Berkley,Denver,2013,
+170,119221,Berkley,Denver,2014,
+171,119221,Berkley,Denver,2015,
+172,119221,Berkley,Denver,2016,258204.0
+173,119221,Berkley,Denver,2017,292020.0
+174,119221,Berkley,Denver,2018,327127.0
+175,119221,Berkley,Denver,2019,350062.0
+176,119221,Berkley,Denver,2020,376433.0
+177,119221,Berkley,Denver,2021,431390.0
+178,119221,Berkley,Denver,2022,494597.0
+179,119221,Berkley,Denver,2023,485469.0
+180,119221,Berkley,Denver,2024,489168.0
+181,119221,Berkley,Denver,2025,483544.0
+182,119762,Hilltop,Denver,2000,460254.0
+183,119762,Hilltop,Denver,2001,526663.0
+184,119762,Hilltop,Denver,2002,566133.0
+185,119762,Hilltop,Denver,2003,568613.0
+186,119762,Hilltop,Denver,2004,581979.0
+187,119762,Hilltop,Denver,2005,609567.0
+188,119762,Hilltop,Denver,2006,646676.0
+189,119762,Hilltop,Denver,2007,659103.0
+190,119762,Hilltop,Denver,2008,643777.0
+191,119762,Hilltop,Denver,2009,612000.0
+192,119762,Hilltop,Denver,2010,582594.0
+193,119762,Hilltop,Denver,2011,552672.0
+194,119762,Hilltop,Denver,2012,578671.0
+195,119762,Hilltop,Denver,2013,648330.0
+196,119762,Hilltop,Denver,2014,706194.0
+197,119762,Hilltop,Denver,2015,783353.0
+198,119762,Hilltop,Denver,2016,835756.0
+199,119762,Hilltop,Denver,2017,882287.0
+200,119762,Hilltop,Denver,2018,945396.0
+201,119762,Hilltop,Denver,2019,1001001.0
+202,119762,Hilltop,Denver,2020,1057597.0
+203,119762,Hilltop,Denver,2021,1215819.0
+204,119762,Hilltop,Denver,2022,1453086.0
+205,119762,Hilltop,Denver,2023,1498504.0
+206,119762,Hilltop,Denver,2024,1511206.0
+207,119762,Hilltop,Denver,2025,1507194.0
+208,268612,Athmar Park,Denver,2000,137236.0
+209,268612,Athmar Park,Denver,2001,156998.0
+210,268612,Athmar Park,Denver,2002,169529.0
+211,268612,Athmar Park,Denver,2003,172386.0
+212,268612,Athmar Park,Denver,2004,174402.0
+213,268612,Athmar Park,Denver,2005,175951.0
+214,268612,Athmar Park,Denver,2006,175688.0
+215,268612,Athmar Park,Denver,2007,166059.0
+216,268612,Athmar Park,Denver,2008,141743.0
+217,268612,Athmar Park,Denver,2009,128796.0
+218,268612,Athmar Park,Denver,2010,131171.0
+219,268612,Athmar Park,Denver,2011,120362.0
+220,268612,Athmar Park,Denver,2012,126092.0
+221,268612,Athmar Park,Denver,2013,150476.0
+222,268612,Athmar Park,Denver,2014,176080.0
+223,268612,Athmar Park,Denver,2015,216723.0
+224,268612,Athmar Park,Denver,2016,258099.0
+225,268612,Athmar Park,Denver,2017,289032.0
+226,268612,Athmar Park,Denver,2018,322209.0
+227,268612,Athmar Park,Denver,2019,343361.0
+228,268612,Athmar Park,Denver,2020,365343.0
+229,268612,Athmar Park,Denver,2021,418572.0
+230,268612,Athmar Park,Denver,2022,467774.0
+231,268612,Athmar Park,Denver,2023,457093.0
+232,268612,Athmar Park,Denver,2024,458700.0
+233,268612,Athmar Park,Denver,2025,455667.0
+234,268613,Baker,Denver,2000,171430.0
+235,268613,Baker,Denver,2001,200280.0
+236,268613,Baker,Denver,2002,212794.0
+237,268613,Baker,Denver,2003,216650.0
+238,268613,Baker,Denver,2004,224275.0
+239,268613,Baker,Denver,2005,234807.0
+240,268613,Baker,Denver,2006,242740.0
+241,268613,Baker,Denver,2007,248862.0
+242,268613,Baker,Denver,2008,242131.0
+243,268613,Baker,Denver,2009,241553.0
+244,268613,Baker,Denver,2010,249172.0
+245,268613,Baker,Denver,2011,243218.0
+246,268613,Baker,Denver,2012,250538.0
+247,268613,Baker,Denver,2013,280789.0
+248,268613,Baker,Denver,2014,312260.0
+249,268613,Baker,Denver,2015,366594.0
+250,268613,Baker,Denver,2016,405162.0
+251,268613,Baker,Denver,2017,438090.0
+252,268613,Baker,Denver,2018,471168.0
+253,268613,Baker,Denver,2019,493406.0
+254,268613,Baker,Denver,2020,520914.0
+255,268613,Baker,Denver,2021,575183.0
+256,268613,Baker,Denver,2022,642211.0
+257,268613,Baker,Denver,2023,612837.0
+258,268613,Baker,Denver,2024,596943.0
+259,268613,Baker,Denver,2025,589649.0
+260,268614,Barnum,Denver,2000,119179.0
+261,268614,Barnum,Denver,2001,138210.0
+262,268614,Barnum,Denver,2002,149520.0
+263,268614,Barnum,Denver,2003,151178.0
+264,268614,Barnum,Denver,2004,151212.0
+265,268614,Barnum,Denver,2005,152196.0
+266,268614,Barnum,Denver,2006,149188.0
+267,268614,Barnum,Denver,2007,138469.0
+268,268614,Barnum,Denver,2008,109925.0
+269,268614,Barnum,Denver,2009,101347.0
+270,268614,Barnum,Denver,2010,105191.0
+271,268614,Barnum,Denver,2011,100515.0
+272,268614,Barnum,Denver,2012,108760.0
+273,268614,Barnum,Denver,2013,130762.0
+274,268614,Barnum,Denver,2014,150668.0
+275,268614,Barnum,Denver,2015,185422.0
+276,268614,Barnum,Denver,2016,224960.0
+277,268614,Barnum,Denver,2017,260538.0
+278,268614,Barnum,Denver,2018,291005.0
+279,268614,Barnum,Denver,2019,310371.0
+280,268614,Barnum,Denver,2020,332102.0
+281,268614,Barnum,Denver,2021,377281.0
+282,268614,Barnum,Denver,2022,424532.0
+283,268614,Barnum,Denver,2023,415034.0
+284,268614,Barnum,Denver,2024,416592.0
+285,268614,Barnum,Denver,2025,417307.0
+286,268615,Barnum West,Denver,2000,113338.0
+287,268615,Barnum West,Denver,2001,131153.0
+288,268615,Barnum West,Denver,2002,141186.0
+289,268615,Barnum West,Denver,2003,142783.0
+290,268615,Barnum West,Denver,2004,144280.0
+291,268615,Barnum West,Denver,2005,144589.0
+292,268615,Barnum West,Denver,2006,140358.0
+293,268615,Barnum West,Denver,2007,135164.0
+294,268615,Barnum West,Denver,2008,121876.0
+295,268615,Barnum West,Denver,2009,112164.0
+296,268615,Barnum West,Denver,2010,114433.0
+297,268615,Barnum West,Denver,2011,107006.0
+298,268615,Barnum West,Denver,2012,117059.0
+299,268615,Barnum West,Denver,2013,137767.0
+300,268615,Barnum West,Denver,2014,158649.0
+301,268615,Barnum West,Denver,2015,193792.0
+302,268615,Barnum West,Denver,2016,231483.0
+303,268615,Barnum West,Denver,2017,263813.0
+304,268615,Barnum West,Denver,2018,293684.0
+305,268615,Barnum West,Denver,2019,312325.0
+306,268615,Barnum West,Denver,2020,337119.0
+307,268615,Barnum West,Denver,2021,385291.0
+308,268615,Barnum West,Denver,2022,432958.0
+309,268615,Barnum West,Denver,2023,426376.0
+310,268615,Barnum West,Denver,2024,428569.0
+311,268615,Barnum West,Denver,2025,425434.0
+312,268617,Bear Valley,Denver,2000,172560.0
+313,268617,Bear Valley,Denver,2001,194789.0
+314,268617,Bear Valley,Denver,2002,206748.0
+315,268617,Bear Valley,Denver,2003,208023.0
+316,268617,Bear Valley,Denver,2004,213242.0
+317,268617,Bear Valley,Denver,2005,217434.0
+318,268617,Bear Valley,Denver,2006,218309.0
+319,268617,Bear Valley,Denver,2007,215935.0
+320,268617,Bear Valley,Denver,2008,208321.0
+321,268617,Bear Valley,Denver,2009,199554.0
+322,268617,Bear Valley,Denver,2010,205119.0
+323,268617,Bear Valley,Denver,2011,199217.0
+324,268617,Bear Valley,Denver,2012,203905.0
+325,268617,Bear Valley,Denver,2013,226732.0
+326,268617,Bear Valley,Denver,2014,248259.0
+327,268617,Bear Valley,Denver,2015,283910.0
+328,268617,Bear Valley,Denver,2016,316746.0
+329,268617,Bear Valley,Denver,2017,346679.0
+330,268617,Bear Valley,Denver,2018,373653.0
+331,268617,Bear Valley,Denver,2019,394147.0
+332,268617,Bear Valley,Denver,2020,420408.0
+333,268617,Bear Valley,Denver,2021,477473.0
+334,268617,Bear Valley,Denver,2022,541502.0
+335,268617,Bear Valley,Denver,2023,534382.0
+336,268617,Bear Valley,Denver,2024,538189.0
+337,268617,Bear Valley,Denver,2025,540717.0
+338,268618,Belcaro,Denver,2000,469081.0
+339,268618,Belcaro,Denver,2001,530964.0
+340,268618,Belcaro,Denver,2002,561943.0
+341,268618,Belcaro,Denver,2003,563408.0
+342,268618,Belcaro,Denver,2004,577894.0
+343,268618,Belcaro,Denver,2005,603246.0
+344,268618,Belcaro,Denver,2006,633127.0
+345,268618,Belcaro,Denver,2007,649264.0
+346,268618,Belcaro,Denver,2008,633620.0
+347,268618,Belcaro,Denver,2009,609302.0
+348,268618,Belcaro,Denver,2010,588961.0
+349,268618,Belcaro,Denver,2011,560324.0
+350,268618,Belcaro,Denver,2012,576673.0
+351,268618,Belcaro,Denver,2013,642266.0
+352,268618,Belcaro,Denver,2014,703094.0
+353,268618,Belcaro,Denver,2015,765952.0
+354,268618,Belcaro,Denver,2016,814075.0
+355,268618,Belcaro,Denver,2017,865382.0
+356,268618,Belcaro,Denver,2018,929907.0
+357,268618,Belcaro,Denver,2019,995817.0
+358,268618,Belcaro,Denver,2020,1058762.0
+359,268618,Belcaro,Denver,2021,1177151.0
+360,268618,Belcaro,Denver,2022,1393229.0
+361,268618,Belcaro,Denver,2023,1396236.0
+362,268618,Belcaro,Denver,2024,1409264.0
+363,268618,Belcaro,Denver,2025,1424640.0
+364,268628,Capitol Hill,Denver,2000,136333.0
+365,268628,Capitol Hill,Denver,2001,159880.0
+366,268628,Capitol Hill,Denver,2002,170698.0
+367,268628,Capitol Hill,Denver,2003,170641.0
+368,268628,Capitol Hill,Denver,2004,174425.0
+369,268628,Capitol Hill,Denver,2005,179121.0
+370,268628,Capitol Hill,Denver,2006,181560.0
+371,268628,Capitol Hill,Denver,2007,181075.0
+372,268628,Capitol Hill,Denver,2008,174349.0
+373,268628,Capitol Hill,Denver,2009,169731.0
+374,268628,Capitol Hill,Denver,2010,167156.0
+375,268628,Capitol Hill,Denver,2011,156014.0
+376,268628,Capitol Hill,Denver,2012,157010.0
+377,268628,Capitol Hill,Denver,2013,173335.0
+378,268628,Capitol Hill,Denver,2014,193324.0
+379,268628,Capitol Hill,Denver,2015,225147.0
+380,268628,Capitol Hill,Denver,2016,257498.0
+381,268628,Capitol Hill,Denver,2017,283072.0
+382,268628,Capitol Hill,Denver,2018,303398.0
+383,268628,Capitol Hill,Denver,2019,305050.0
+384,268628,Capitol Hill,Denver,2020,306752.0
+385,268628,Capitol Hill,Denver,2021,329147.0
+386,268628,Capitol Hill,Denver,2022,360745.0
+387,268628,Capitol Hill,Denver,2023,354792.0
+388,268628,Capitol Hill,Denver,2024,343494.0
+389,268628,Capitol Hill,Denver,2025,330939.0
+390,268632,Central Business District,Denver,2000,226099.0
+391,268632,Central Business District,Denver,2001,253599.0
+392,268632,Central Business District,Denver,2002,266866.0
+393,268632,Central Business District,Denver,2003,264628.0
+394,268632,Central Business District,Denver,2004,267786.0
+395,268632,Central Business District,Denver,2005,276867.0
+396,268632,Central Business District,Denver,2006,285796.0
+397,268632,Central Business District,Denver,2007,291526.0
+398,268632,Central Business District,Denver,2008,283208.0
+399,268632,Central Business District,Denver,2009,281828.0
+400,268632,Central Business District,Denver,2010,254904.0
+401,268632,Central Business District,Denver,2011,243117.0
+402,268632,Central Business District,Denver,2012,248896.0
+403,268632,Central Business District,Denver,2013,276044.0
+404,268632,Central Business District,Denver,2014,301674.0
+405,268632,Central Business District,Denver,2015,343572.0
+406,268632,Central Business District,Denver,2016,373330.0
+407,268632,Central Business District,Denver,2017,391889.0
+408,268632,Central Business District,Denver,2018,407120.0
+409,268632,Central Business District,Denver,2019,408359.0
+410,268632,Central Business District,Denver,2020,405058.0
+411,268632,Central Business District,Denver,2021,419749.0
+412,268632,Central Business District,Denver,2022,447878.0
+413,268632,Central Business District,Denver,2023,435161.0
+414,268632,Central Business District,Denver,2024,423333.0
+415,268632,Central Business District,Denver,2025,407624.0
+416,268633,Chaffee Park,Denver,2000,111137.0
+417,268633,Chaffee Park,Denver,2001,129620.0
+418,268633,Chaffee Park,Denver,2002,138904.0
+419,268633,Chaffee Park,Denver,2003,141433.0
+420,268633,Chaffee Park,Denver,2004,144742.0
+421,268633,Chaffee Park,Denver,2005,146621.0
+422,268633,Chaffee Park,Denver,2006,143183.0
+423,268633,Chaffee Park,Denver,2007,140550.0
+424,268633,Chaffee Park,Denver,2008,130498.0
+425,268633,Chaffee Park,Denver,2009,134938.0
+426,268633,Chaffee Park,Denver,2010,141125.0
+427,268633,Chaffee Park,Denver,2011,134994.0
+428,268633,Chaffee Park,Denver,2012,146361.0
+429,268633,Chaffee Park,Denver,2013,174693.0
+430,268633,Chaffee Park,Denver,2014,200735.0
+431,268633,Chaffee Park,Denver,2015,247470.0
+432,268633,Chaffee Park,Denver,2016,285931.0
+433,268633,Chaffee Park,Denver,2017,318711.0
+434,268633,Chaffee Park,Denver,2018,348128.0
+435,268633,Chaffee Park,Denver,2019,360258.0
+436,268633,Chaffee Park,Denver,2020,376435.0
+437,268633,Chaffee Park,Denver,2021,432076.0
+438,268633,Chaffee Park,Denver,2022,488689.0
+439,268633,Chaffee Park,Denver,2023,477337.0
+440,268633,Chaffee Park,Denver,2024,479194.0
+441,268633,Chaffee Park,Denver,2025,478184.0
+442,268635,Cherry Creek,Denver,2000,461234.0
+443,268635,Cherry Creek,Denver,2001,519324.0
+444,268635,Cherry Creek,Denver,2002,547051.0
+445,268635,Cherry Creek,Denver,2003,550489.0
+446,268635,Cherry Creek,Denver,2004,562973.0
+447,268635,Cherry Creek,Denver,2005,586185.0
+448,268635,Cherry Creek,Denver,2006,619048.0
+449,268635,Cherry Creek,Denver,2007,635831.0
+450,268635,Cherry Creek,Denver,2008,617759.0
+451,268635,Cherry Creek,Denver,2009,580117.0
+452,268635,Cherry Creek,Denver,2010,552034.0
+453,268635,Cherry Creek,Denver,2011,525644.0
+454,268635,Cherry Creek,Denver,2012,538546.0
+455,268635,Cherry Creek,Denver,2013,598835.0
+456,268635,Cherry Creek,Denver,2014,656508.0
+457,268635,Cherry Creek,Denver,2015,731765.0
+458,268635,Cherry Creek,Denver,2016,776965.0
+459,268635,Cherry Creek,Denver,2017,818346.0
+460,268635,Cherry Creek,Denver,2018,870859.0
+461,268635,Cherry Creek,Denver,2019,894753.0
+462,268635,Cherry Creek,Denver,2020,918288.0
+463,268635,Cherry Creek,Denver,2021,1006146.0
+464,268635,Cherry Creek,Denver,2022,1160540.0
+465,268635,Cherry Creek,Denver,2023,1150082.0
+466,268635,Cherry Creek,Denver,2024,1147871.0
+467,268635,Cherry Creek,Denver,2025,1146420.0
+468,268636,City Park,Denver,2000,244860.0
+469,268636,City Park,Denver,2001,281337.0
+470,268636,City Park,Denver,2002,301035.0
+471,268636,City Park,Denver,2003,301004.0
+472,268636,City Park,Denver,2004,317680.0
+473,268636,City Park,Denver,2005,331024.0
+474,268636,City Park,Denver,2006,351339.0
+475,268636,City Park,Denver,2007,354535.0
+476,268636,City Park,Denver,2008,352234.0
+477,268636,City Park,Denver,2009,347164.0
+478,268636,City Park,Denver,2010,345764.0
+479,268636,City Park,Denver,2011,329159.0
+480,268636,City Park,Denver,2012,335333.0
+481,268636,City Park,Denver,2013,374953.0
+482,268636,City Park,Denver,2014,410125.0
+483,268636,City Park,Denver,2015,460803.0
+484,268636,City Park,Denver,2016,501930.0
+485,268636,City Park,Denver,2017,541367.0
+486,268636,City Park,Denver,2018,583187.0
+487,268636,City Park,Denver,2019,602554.0
+488,268636,City Park,Denver,2020,627957.0
+489,268636,City Park,Denver,2021,699516.0
+490,268636,City Park,Denver,2022,780312.0
+491,268636,City Park,Denver,2023,754516.0
+492,268636,City Park,Denver,2024,745135.0
+493,268636,City Park,Denver,2025,734070.0
+494,268637,City Park West,Denver,2000,220700.0
+495,268637,City Park West,Denver,2001,254248.0
+496,268637,City Park West,Denver,2002,268082.0
+497,268637,City Park West,Denver,2003,270443.0
+498,268637,City Park West,Denver,2004,282615.0
+499,268637,City Park West,Denver,2005,298082.0
+500,268637,City Park West,Denver,2006,310312.0
+501,268637,City Park West,Denver,2007,312779.0
+502,268637,City Park West,Denver,2008,303869.0
+503,268637,City Park West,Denver,2009,296864.0
+504,268637,City Park West,Denver,2010,288897.0
+505,268637,City Park West,Denver,2011,276591.0
+506,268637,City Park West,Denver,2012,287876.0
+507,268637,City Park West,Denver,2013,325497.0
+508,268637,City Park West,Denver,2014,362224.0
+509,268637,City Park West,Denver,2015,411681.0
+510,268637,City Park West,Denver,2016,457095.0
+511,268637,City Park West,Denver,2017,487617.0
+512,268637,City Park West,Denver,2018,518552.0
+513,268637,City Park West,Denver,2019,535975.0
+514,268637,City Park West,Denver,2020,549858.0
+515,268637,City Park West,Denver,2021,606475.0
+516,268637,City Park West,Denver,2022,674988.0
+517,268637,City Park West,Denver,2023,650919.0
+518,268637,City Park West,Denver,2024,638786.0
+519,268637,City Park West,Denver,2025,624289.0
+520,268638,Civic Center,Denver,2000,
+521,268638,Civic Center,Denver,2001,
+522,268638,Civic Center,Denver,2002,363506.0
+523,268638,Civic Center,Denver,2003,360412.0
+524,268638,Civic Center,Denver,2004,366439.0
+525,268638,Civic Center,Denver,2005,373454.0
+526,268638,Civic Center,Denver,2006,386773.0
+527,268638,Civic Center,Denver,2007,388124.0
+528,268638,Civic Center,Denver,2008,376799.0
+529,268638,Civic Center,Denver,2009,365320.0
+530,268638,Civic Center,Denver,2010,344975.0
+531,268638,Civic Center,Denver,2011,329344.0
+532,268638,Civic Center,Denver,2012,336681.0
+533,268638,Civic Center,Denver,2013,375650.0
+534,268638,Civic Center,Denver,2014,407431.0
+535,268638,Civic Center,Denver,2015,454151.0
+536,268638,Civic Center,Denver,2016,490239.0
+537,268638,Civic Center,Denver,2017,511276.0
+538,268638,Civic Center,Denver,2018,533467.0
+539,268638,Civic Center,Denver,2019,553550.0
+540,268638,Civic Center,Denver,2020,565829.0
+541,268638,Civic Center,Denver,2021,585023.0
+542,268638,Civic Center,Denver,2022,634649.0
+543,268638,Civic Center,Denver,2023,607152.0
+544,268638,Civic Center,Denver,2024,595870.0
+545,268638,Civic Center,Denver,2025,581450.0
+546,268643,Congress Park,Denver,2000,262716.0
+547,268643,Congress Park,Denver,2001,298901.0
+548,268643,Congress Park,Denver,2002,312299.0
+549,268643,Congress Park,Denver,2003,314440.0
+550,268643,Congress Park,Denver,2004,322203.0
+551,268643,Congress Park,Denver,2005,336981.0
+552,268643,Congress Park,Denver,2006,356340.0
+553,268643,Congress Park,Denver,2007,358897.0
+554,268643,Congress Park,Denver,2008,350464.0
+555,268643,Congress Park,Denver,2009,340821.0
+556,268643,Congress Park,Denver,2010,343583.0
+557,268643,Congress Park,Denver,2011,334704.0
+558,268643,Congress Park,Denver,2012,350391.0
+559,268643,Congress Park,Denver,2013,394832.0
+560,268643,Congress Park,Denver,2014,433364.0
+561,268643,Congress Park,Denver,2015,486498.0
+562,268643,Congress Park,Denver,2016,524721.0
+563,268643,Congress Park,Denver,2017,560317.0
+564,268643,Congress Park,Denver,2018,602451.0
+565,268643,Congress Park,Denver,2019,631768.0
+566,268643,Congress Park,Denver,2020,660411.0
+567,268643,Congress Park,Denver,2021,743546.0
+568,268643,Congress Park,Denver,2022,838093.0
+569,268643,Congress Park,Denver,2023,816031.0
+570,268643,Congress Park,Denver,2024,808248.0
+571,268643,Congress Park,Denver,2025,804884.0
+572,268644,Cory - Merrill,Denver,2000,315223.0
+573,268644,Cory - Merrill,Denver,2001,357512.0
+574,268644,Cory - Merrill,Denver,2002,369293.0
+575,268644,Cory - Merrill,Denver,2003,376341.0
+576,268644,Cory - Merrill,Denver,2004,390114.0
+577,268644,Cory - Merrill,Denver,2005,416545.0
+578,268644,Cory - Merrill,Denver,2006,447944.0
+579,268644,Cory - Merrill,Denver,2007,456102.0
+580,268644,Cory - Merrill,Denver,2008,432656.0
+581,268644,Cory - Merrill,Denver,2009,419576.0
+582,268644,Cory - Merrill,Denver,2010,411664.0
+583,268644,Cory - Merrill,Denver,2011,398971.0
+584,268644,Cory - Merrill,Denver,2012,412341.0
+585,268644,Cory - Merrill,Denver,2013,454283.0
+586,268644,Cory - Merrill,Denver,2014,494279.0
+587,268644,Cory - Merrill,Denver,2015,542657.0
+588,268644,Cory - Merrill,Denver,2016,580227.0
+589,268644,Cory - Merrill,Denver,2017,620668.0
+590,268644,Cory - Merrill,Denver,2018,655275.0
+591,268644,Cory - Merrill,Denver,2019,677828.0
+592,268644,Cory - Merrill,Denver,2020,712490.0
+593,268644,Cory - Merrill,Denver,2021,797939.0
+594,268644,Cory - Merrill,Denver,2022,914886.0
+595,268644,Cory - Merrill,Denver,2023,907582.0
+596,268644,Cory - Merrill,Denver,2024,900418.0
+597,268644,Cory - Merrill,Denver,2025,901874.0
+598,268646,Country Club,Denver,2000,538953.0
+599,268646,Country Club,Denver,2001,615651.0
+600,268646,Country Club,Denver,2002,652465.0
+601,268646,Country Club,Denver,2003,652318.0
+602,268646,Country Club,Denver,2004,674430.0
+603,268646,Country Club,Denver,2005,706481.0
+604,268646,Country Club,Denver,2006,746074.0
+605,268646,Country Club,Denver,2007,768478.0
+606,268646,Country Club,Denver,2008,761574.0
+607,268646,Country Club,Denver,2009,734743.0
+608,268646,Country Club,Denver,2010,724100.0
+609,268646,Country Club,Denver,2011,695621.0
+610,268646,Country Club,Denver,2012,708070.0
+611,268646,Country Club,Denver,2013,783371.0
+612,268646,Country Club,Denver,2014,844008.0
+613,268646,Country Club,Denver,2015,926338.0
+614,268646,Country Club,Denver,2016,978264.0
+615,268646,Country Club,Denver,2017,1027936.0
+616,268646,Country Club,Denver,2018,1111996.0
+617,268646,Country Club,Denver,2019,1174368.0
+618,268646,Country Club,Denver,2020,1227706.0
+619,268646,Country Club,Denver,2021,1393701.0
+620,268646,Country Club,Denver,2022,1602831.0
+621,268646,Country Club,Denver,2023,1615392.0
+622,268646,Country Club,Denver,2024,1634301.0
+623,268646,Country Club,Denver,2025,1637875.0
+624,268652,Denver International Airport,Denver,2000,
+625,268652,Denver International Airport,Denver,2001,
+626,268652,Denver International Airport,Denver,2002,
+627,268652,Denver International Airport,Denver,2003,
+628,268652,Denver International Airport,Denver,2004,
+629,268652,Denver International Airport,Denver,2005,
+630,268652,Denver International Airport,Denver,2006,
+631,268652,Denver International Airport,Denver,2007,
+632,268652,Denver International Airport,Denver,2008,125802.0
+633,268652,Denver International Airport,Denver,2009,120376.0
+634,268652,Denver International Airport,Denver,2010,121340.0
+635,268652,Denver International Airport,Denver,2011,108521.0
+636,268652,Denver International Airport,Denver,2012,110872.0
+637,268652,Denver International Airport,Denver,2013,133636.0
+638,268652,Denver International Airport,Denver,2014,152352.0
+639,268652,Denver International Airport,Denver,2015,176958.0
+640,268652,Denver International Airport,Denver,2016,203792.0
+641,268652,Denver International Airport,Denver,2017,235645.0
+642,268652,Denver International Airport,Denver,2018,265393.0
+643,268652,Denver International Airport,Denver,2019,279359.0
+644,268652,Denver International Airport,Denver,2020,294688.0
+645,268652,Denver International Airport,Denver,2021,335068.0
+646,268652,Denver International Airport,Denver,2022,392181.0
+647,268652,Denver International Airport,Denver,2023,387721.0
+648,268652,Denver International Airport,Denver,2024,389720.0
+649,268652,Denver International Airport,Denver,2025,387062.0
+650,268657,East Colfax,Denver,2000,122593.0
+651,268657,East Colfax,Denver,2001,142212.0
+652,268657,East Colfax,Denver,2002,152839.0
+653,268657,East Colfax,Denver,2003,157151.0
+654,268657,East Colfax,Denver,2004,158265.0
+655,268657,East Colfax,Denver,2005,163293.0
+656,268657,East Colfax,Denver,2006,164023.0
+657,268657,East Colfax,Denver,2007,158995.0
+658,268657,East Colfax,Denver,2008,147335.0
+659,268657,East Colfax,Denver,2009,144145.0
+660,268657,East Colfax,Denver,2010,145083.0
+661,268657,East Colfax,Denver,2011,134287.0
+662,268657,East Colfax,Denver,2012,137418.0
+663,268657,East Colfax,Denver,2013,157337.0
+664,268657,East Colfax,Denver,2014,180030.0
+665,268657,East Colfax,Denver,2015,217234.0
+666,268657,East Colfax,Denver,2016,256175.0
+667,268657,East Colfax,Denver,2017,284577.0
+668,268657,East Colfax,Denver,2018,316018.0
+669,268657,East Colfax,Denver,2019,332486.0
+670,268657,East Colfax,Denver,2020,351974.0
+671,268657,East Colfax,Denver,2021,399701.0
+672,268657,East Colfax,Denver,2022,445993.0
+673,268657,East Colfax,Denver,2023,435054.0
+674,268657,East Colfax,Denver,2024,431281.0
+675,268657,East Colfax,Denver,2025,427030.0
+676,268659,Elyria Swansea,Denver,2000,121403.0
+677,268659,Elyria Swansea,Denver,2001,146008.0
+678,268659,Elyria Swansea,Denver,2002,157902.0
+679,268659,Elyria Swansea,Denver,2003,159003.0
+680,268659,Elyria Swansea,Denver,2004,161405.0
+681,268659,Elyria Swansea,Denver,2005,158961.0
+682,268659,Elyria Swansea,Denver,2006,155168.0
+683,268659,Elyria Swansea,Denver,2007,138733.0
+684,268659,Elyria Swansea,Denver,2008,112193.0
+685,268659,Elyria Swansea,Denver,2009,99600.0
+686,268659,Elyria Swansea,Denver,2010,101434.0
+687,268659,Elyria Swansea,Denver,2011,87971.0
+688,268659,Elyria Swansea,Denver,2012,81291.0
+689,268659,Elyria Swansea,Denver,2013,102722.0
+690,268659,Elyria Swansea,Denver,2014,126814.0
+691,268659,Elyria Swansea,Denver,2015,161111.0
+692,268659,Elyria Swansea,Denver,2016,192886.0
+693,268659,Elyria Swansea,Denver,2017,221717.0
+694,268659,Elyria Swansea,Denver,2018,250865.0
+695,268659,Elyria Swansea,Denver,2019,274615.0
+696,268659,Elyria Swansea,Denver,2020,293415.0
+697,268659,Elyria Swansea,Denver,2021,336134.0
+698,268659,Elyria Swansea,Denver,2022,377428.0
+699,268659,Elyria Swansea,Denver,2023,368894.0
+700,268659,Elyria Swansea,Denver,2024,367321.0
+701,268659,Elyria Swansea,Denver,2025,361405.0
+702,268662,Five Points,Denver,2000,207295.0
+703,268662,Five Points,Denver,2001,243894.0
+704,268662,Five Points,Denver,2002,261825.0
+705,268662,Five Points,Denver,2003,262718.0
+706,268662,Five Points,Denver,2004,273273.0
+707,268662,Five Points,Denver,2005,286079.0
+708,268662,Five Points,Denver,2006,296855.0
+709,268662,Five Points,Denver,2007,303094.0
+710,268662,Five Points,Denver,2008,294911.0
+711,268662,Five Points,Denver,2009,285605.0
+712,268662,Five Points,Denver,2010,278435.0
+713,268662,Five Points,Denver,2011,266157.0
+714,268662,Five Points,Denver,2012,272696.0
+715,268662,Five Points,Denver,2013,309497.0
+716,268662,Five Points,Denver,2014,343059.0
+717,268662,Five Points,Denver,2015,391291.0
+718,268662,Five Points,Denver,2016,430780.0
+719,268662,Five Points,Denver,2017,456980.0
+720,268662,Five Points,Denver,2018,489802.0
+721,268662,Five Points,Denver,2019,510940.0
+722,268662,Five Points,Denver,2020,527633.0
+723,268662,Five Points,Denver,2021,578046.0
+724,268662,Five Points,Denver,2022,644166.0
+725,268662,Five Points,Denver,2023,625697.0
+726,268662,Five Points,Denver,2024,612446.0
+727,268662,Five Points,Denver,2025,603234.0
+728,268664,Globeville,Denver,2000,72495.0
+729,268664,Globeville,Denver,2001,88172.0
+730,268664,Globeville,Denver,2002,97840.0
+731,268664,Globeville,Denver,2003,100150.0
+732,268664,Globeville,Denver,2004,99856.0
+733,268664,Globeville,Denver,2005,100035.0
+734,268664,Globeville,Denver,2006,94266.0
+735,268664,Globeville,Denver,2007,86311.0
+736,268664,Globeville,Denver,2008,78175.0
+737,268664,Globeville,Denver,2009,73590.0
+738,268664,Globeville,Denver,2010,81170.0
+739,268664,Globeville,Denver,2011,77105.0
+740,268664,Globeville,Denver,2012,85846.0
+741,268664,Globeville,Denver,2013,106076.0
+742,268664,Globeville,Denver,2014,133603.0
+743,268664,Globeville,Denver,2015,173725.0
+744,268664,Globeville,Denver,2016,207957.0
+745,268664,Globeville,Denver,2017,238894.0
+746,268664,Globeville,Denver,2018,270296.0
+747,268664,Globeville,Denver,2019,294098.0
+748,268664,Globeville,Denver,2020,319309.0
+749,268664,Globeville,Denver,2021,361593.0
+750,268664,Globeville,Denver,2022,404718.0
+751,268664,Globeville,Denver,2023,390144.0
+752,268664,Globeville,Denver,2024,383938.0
+753,268664,Globeville,Denver,2025,382247.0
+754,268666,Goldsmith,Denver,2000,152673.0
+755,268666,Goldsmith,Denver,2001,175161.0
+756,268666,Goldsmith,Denver,2002,184324.0
+757,268666,Goldsmith,Denver,2003,187306.0
+758,268666,Goldsmith,Denver,2004,189599.0
+759,268666,Goldsmith,Denver,2005,195355.0
+760,268666,Goldsmith,Denver,2006,201445.0
+761,268666,Goldsmith,Denver,2007,199955.0
+762,268666,Goldsmith,Denver,2008,193822.0
+763,268666,Goldsmith,Denver,2009,187287.0
+764,268666,Goldsmith,Denver,2010,188294.0
+765,268666,Goldsmith,Denver,2011,184005.0
+766,268666,Goldsmith,Denver,2012,192072.0
+767,268666,Goldsmith,Denver,2013,216603.0
+768,268666,Goldsmith,Denver,2014,237204.0
+769,268666,Goldsmith,Denver,2015,272534.0
+770,268666,Goldsmith,Denver,2016,307187.0
+771,268666,Goldsmith,Denver,2017,337098.0
+772,268666,Goldsmith,Denver,2018,360890.0
+773,268666,Goldsmith,Denver,2019,374557.0
+774,268666,Goldsmith,Denver,2020,395307.0
+775,268666,Goldsmith,Denver,2021,441505.0
+776,268666,Goldsmith,Denver,2022,496509.0
+777,268666,Goldsmith,Denver,2023,491164.0
+778,268666,Goldsmith,Denver,2024,486842.0
+779,268666,Goldsmith,Denver,2025,484783.0
+780,268671,Hampden,Denver,2000,176613.0
+781,268671,Hampden,Denver,2001,200290.0
+782,268671,Hampden,Denver,2002,211264.0
+783,268671,Hampden,Denver,2003,213224.0
+784,268671,Hampden,Denver,2004,216293.0
+785,268671,Hampden,Denver,2005,223085.0
+786,268671,Hampden,Denver,2006,227608.0
+787,268671,Hampden,Denver,2007,226612.0
+788,268671,Hampden,Denver,2008,218141.0
+789,268671,Hampden,Denver,2009,210434.0
+790,268671,Hampden,Denver,2010,213273.0
+791,268671,Hampden,Denver,2011,204803.0
+792,268671,Hampden,Denver,2012,207889.0
+793,268671,Hampden,Denver,2013,230854.0
+794,268671,Hampden,Denver,2014,253615.0
+795,268671,Hampden,Denver,2015,289491.0
+796,268671,Hampden,Denver,2016,324609.0
+797,268671,Hampden,Denver,2017,353171.0
+798,268671,Hampden,Denver,2018,377006.0
+799,268671,Hampden,Denver,2019,393291.0
+800,268671,Hampden,Denver,2020,417469.0
+801,268671,Hampden,Denver,2021,470448.0
+802,268671,Hampden,Denver,2022,532373.0
+803,268671,Hampden,Denver,2023,522284.0
+804,268671,Hampden,Denver,2024,523697.0
+805,268671,Hampden,Denver,2025,521377.0
+806,268672,Hampden South,Denver,2000,192998.0
+807,268672,Hampden South,Denver,2001,219142.0
+808,268672,Hampden South,Denver,2002,230487.0
+809,268672,Hampden South,Denver,2003,231312.0
+810,268672,Hampden South,Denver,2004,235880.0
+811,268672,Hampden South,Denver,2005,242661.0
+812,268672,Hampden South,Denver,2006,246635.0
+813,268672,Hampden South,Denver,2007,247528.0
+814,268672,Hampden South,Denver,2008,238752.0
+815,268672,Hampden South,Denver,2009,227612.0
+816,268672,Hampden South,Denver,2010,230578.0
+817,268672,Hampden South,Denver,2011,221865.0
+818,268672,Hampden South,Denver,2012,225243.0
+819,268672,Hampden South,Denver,2013,247066.0
+820,268672,Hampden South,Denver,2014,268264.0
+821,268672,Hampden South,Denver,2015,303999.0
+822,268672,Hampden South,Denver,2016,334753.0
+823,268672,Hampden South,Denver,2017,361339.0
+824,268672,Hampden South,Denver,2018,384041.0
+825,268672,Hampden South,Denver,2019,398985.0
+826,268672,Hampden South,Denver,2020,417209.0
+827,268672,Hampden South,Denver,2021,468166.0
+828,268672,Hampden South,Denver,2022,529309.0
+829,268672,Hampden South,Denver,2023,517519.0
+830,268672,Hampden South,Denver,2024,512599.0
+831,268672,Hampden South,Denver,2025,509404.0
+832,268673,Harvey Park,Denver,2000,137006.0
+833,268673,Harvey Park,Denver,2001,156242.0
+834,268673,Harvey Park,Denver,2002,167960.0
+835,268673,Harvey Park,Denver,2003,170700.0
+836,268673,Harvey Park,Denver,2004,173320.0
+837,268673,Harvey Park,Denver,2005,175221.0
+838,268673,Harvey Park,Denver,2006,176478.0
+839,268673,Harvey Park,Denver,2007,171890.0
+840,268673,Harvey Park,Denver,2008,157765.0
+841,268673,Harvey Park,Denver,2009,150777.0
+842,268673,Harvey Park,Denver,2010,159836.0
+843,268673,Harvey Park,Denver,2011,151706.0
+844,268673,Harvey Park,Denver,2012,155572.0
+845,268673,Harvey Park,Denver,2013,175803.0
+846,268673,Harvey Park,Denver,2014,199420.0
+847,268673,Harvey Park,Denver,2015,242266.0
+848,268673,Harvey Park,Denver,2016,281159.0
+849,268673,Harvey Park,Denver,2017,313079.0
+850,268673,Harvey Park,Denver,2018,340590.0
+851,268673,Harvey Park,Denver,2019,358932.0
+852,268673,Harvey Park,Denver,2020,385717.0
+853,268673,Harvey Park,Denver,2021,441856.0
+854,268673,Harvey Park,Denver,2022,495918.0
+855,268673,Harvey Park,Denver,2023,488913.0
+856,268673,Harvey Park,Denver,2024,492198.0
+857,268673,Harvey Park,Denver,2025,490617.0
+858,268674,Harvey Park South,Denver,2000,171063.0
+859,268674,Harvey Park South,Denver,2001,193494.0
+860,268674,Harvey Park South,Denver,2002,205597.0
+861,268674,Harvey Park South,Denver,2003,210035.0
+862,268674,Harvey Park South,Denver,2004,213417.0
+863,268674,Harvey Park South,Denver,2005,216241.0
+864,268674,Harvey Park South,Denver,2006,214764.0
+865,268674,Harvey Park South,Denver,2007,213375.0
+866,268674,Harvey Park South,Denver,2008,200826.0
+867,268674,Harvey Park South,Denver,2009,194453.0
+868,268674,Harvey Park South,Denver,2010,195179.0
+869,268674,Harvey Park South,Denver,2011,186016.0
+870,268674,Harvey Park South,Denver,2012,194367.0
+871,268674,Harvey Park South,Denver,2013,218609.0
+872,268674,Harvey Park South,Denver,2014,240488.0
+873,268674,Harvey Park South,Denver,2015,280272.0
+874,268674,Harvey Park South,Denver,2016,317169.0
+875,268674,Harvey Park South,Denver,2017,346494.0
+876,268674,Harvey Park South,Denver,2018,376826.0
+877,268674,Harvey Park South,Denver,2019,401053.0
+878,268674,Harvey Park South,Denver,2020,434382.0
+879,268674,Harvey Park South,Denver,2021,498008.0
+880,268674,Harvey Park South,Denver,2022,558928.0
+881,268674,Harvey Park South,Denver,2023,541990.0
+882,268674,Harvey Park South,Denver,2024,541785.0
+883,268674,Harvey Park South,Denver,2025,540132.0
+884,268683,Jefferson Park,Denver,2000,163343.0
+885,268683,Jefferson Park,Denver,2001,189426.0
+886,268683,Jefferson Park,Denver,2002,204052.0
+887,268683,Jefferson Park,Denver,2003,212258.0
+888,268683,Jefferson Park,Denver,2004,224019.0
+889,268683,Jefferson Park,Denver,2005,229479.0
+890,268683,Jefferson Park,Denver,2006,236998.0
+891,268683,Jefferson Park,Denver,2007,247573.0
+892,268683,Jefferson Park,Denver,2008,247257.0
+893,268683,Jefferson Park,Denver,2009,242734.0
+894,268683,Jefferson Park,Denver,2010,237530.0
+895,268683,Jefferson Park,Denver,2011,222201.0
+896,268683,Jefferson Park,Denver,2012,237514.0
+897,268683,Jefferson Park,Denver,2013,276856.0
+898,268683,Jefferson Park,Denver,2014,325608.0
+899,268683,Jefferson Park,Denver,2015,387914.0
+900,268683,Jefferson Park,Denver,2016,430806.0
+901,268683,Jefferson Park,Denver,2017,463482.0
+902,268683,Jefferson Park,Denver,2018,498727.0
+903,268683,Jefferson Park,Denver,2019,521645.0
+904,268683,Jefferson Park,Denver,2020,543324.0
+905,268683,Jefferson Park,Denver,2021,607202.0
+906,268683,Jefferson Park,Denver,2022,703164.0
+907,268683,Jefferson Park,Denver,2023,686895.0
+908,268683,Jefferson Park,Denver,2024,681164.0
+909,268683,Jefferson Park,Denver,2025,666738.0
+910,268688,Lowry Field,Denver,2000,
+911,268688,Lowry Field,Denver,2001,
+912,268688,Lowry Field,Denver,2002,
+913,268688,Lowry Field,Denver,2003,416299.0
+914,268688,Lowry Field,Denver,2004,431570.0
+915,268688,Lowry Field,Denver,2005,458740.0
+916,268688,Lowry Field,Denver,2006,481053.0
+917,268688,Lowry Field,Denver,2007,489407.0
+918,268688,Lowry Field,Denver,2008,468767.0
+919,268688,Lowry Field,Denver,2009,440961.0
+920,268688,Lowry Field,Denver,2010,426010.0
+921,268688,Lowry Field,Denver,2011,413029.0
+922,268688,Lowry Field,Denver,2012,419859.0
+923,268688,Lowry Field,Denver,2013,449552.0
+924,268688,Lowry Field,Denver,2014,479788.0
+925,268688,Lowry Field,Denver,2015,516083.0
+926,268688,Lowry Field,Denver,2016,552070.0
+927,268688,Lowry Field,Denver,2017,588294.0
+928,268688,Lowry Field,Denver,2018,617051.0
+929,268688,Lowry Field,Denver,2019,636563.0
+930,268688,Lowry Field,Denver,2020,663124.0
+931,268688,Lowry Field,Denver,2021,744573.0
+932,268688,Lowry Field,Denver,2022,858409.0
+933,268688,Lowry Field,Denver,2023,831441.0
+934,268688,Lowry Field,Denver,2024,809304.0
+935,268688,Lowry Field,Denver,2025,794948.0
+936,268689,Mar Lee,Denver,2000,136780.0
+937,268689,Mar Lee,Denver,2001,156077.0
+938,268689,Mar Lee,Denver,2002,167013.0
+939,268689,Mar Lee,Denver,2003,169558.0
+940,268689,Mar Lee,Denver,2004,171936.0
+941,268689,Mar Lee,Denver,2005,171776.0
+942,268689,Mar Lee,Denver,2006,169110.0
+943,268689,Mar Lee,Denver,2007,162450.0
+944,268689,Mar Lee,Denver,2008,145779.0
+945,268689,Mar Lee,Denver,2009,134900.0
+946,268689,Mar Lee,Denver,2010,141274.0
+947,268689,Mar Lee,Denver,2011,131644.0
+948,268689,Mar Lee,Denver,2012,129934.0
+949,268689,Mar Lee,Denver,2013,147915.0
+950,268689,Mar Lee,Denver,2014,168645.0
+951,268689,Mar Lee,Denver,2015,206682.0
+952,268689,Mar Lee,Denver,2016,247231.0
+953,268689,Mar Lee,Denver,2017,277192.0
+954,268689,Mar Lee,Denver,2018,306473.0
+955,268689,Mar Lee,Denver,2019,324062.0
+956,268689,Mar Lee,Denver,2020,346469.0
+957,268689,Mar Lee,Denver,2021,395205.0
+958,268689,Mar Lee,Denver,2022,444955.0
+959,268689,Mar Lee,Denver,2023,437305.0
+960,268689,Mar Lee,Denver,2024,439610.0
+961,268689,Mar Lee,Denver,2025,434867.0
+962,268702,North Capitol Hill,Denver,2000,225038.0
+963,268702,North Capitol Hill,Denver,2001,264510.0
+964,268702,North Capitol Hill,Denver,2002,277624.0
+965,268702,North Capitol Hill,Denver,2003,274795.0
+966,268702,North Capitol Hill,Denver,2004,279792.0
+967,268702,North Capitol Hill,Denver,2005,292197.0
+968,268702,North Capitol Hill,Denver,2006,298348.0
+969,268702,North Capitol Hill,Denver,2007,297983.0
+970,268702,North Capitol Hill,Denver,2008,289913.0
+971,268702,North Capitol Hill,Denver,2009,282560.0
+972,268702,North Capitol Hill,Denver,2010,276207.0
+973,268702,North Capitol Hill,Denver,2011,264982.0
+974,268702,North Capitol Hill,Denver,2012,268856.0
+975,268702,North Capitol Hill,Denver,2013,293675.0
+976,268702,North Capitol Hill,Denver,2014,316822.0
+977,268702,North Capitol Hill,Denver,2015,353011.0
+978,268702,North Capitol Hill,Denver,2016,387989.0
+979,268702,North Capitol Hill,Denver,2017,411329.0
+980,268702,North Capitol Hill,Denver,2018,433717.0
+981,268702,North Capitol Hill,Denver,2019,442792.0
+982,268702,North Capitol Hill,Denver,2020,449195.0
+983,268702,North Capitol Hill,Denver,2021,470326.0
+984,268702,North Capitol Hill,Denver,2022,520526.0
+985,268702,North Capitol Hill,Denver,2023,507510.0
+986,268702,North Capitol Hill,Denver,2024,499588.0
+987,268702,North Capitol Hill,Denver,2025,486823.0
+988,268703,North Park Hill,Denver,2000,190099.0
+989,268703,North Park Hill,Denver,2001,219644.0
+990,268703,North Park Hill,Denver,2002,235887.0
+991,268703,North Park Hill,Denver,2003,241707.0
+992,268703,North Park Hill,Denver,2004,249533.0
+993,268703,North Park Hill,Denver,2005,259610.0
+994,268703,North Park Hill,Denver,2006,269178.0
+995,268703,North Park Hill,Denver,2007,272611.0
+996,268703,North Park Hill,Denver,2008,262521.0
+997,268703,North Park Hill,Denver,2009,255286.0
+998,268703,North Park Hill,Denver,2010,259887.0
+999,268703,North Park Hill,Denver,2011,249855.0
+1000,268703,North Park Hill,Denver,2012,255818.0
+1001,268703,North Park Hill,Denver,2013,292930.0
+1002,268703,North Park Hill,Denver,2014,329343.0
+1003,268703,North Park Hill,Denver,2015,378295.0
+1004,268703,North Park Hill,Denver,2016,419340.0
+1005,268703,North Park Hill,Denver,2017,455589.0
+1006,268703,North Park Hill,Denver,2018,490854.0
+1007,268703,North Park Hill,Denver,2019,514078.0
+1008,268703,North Park Hill,Denver,2020,542037.0
+1009,268703,North Park Hill,Denver,2021,614552.0
+1010,268703,North Park Hill,Denver,2022,692909.0
+1011,268703,North Park Hill,Denver,2023,674740.0
+1012,268703,North Park Hill,Denver,2024,674698.0
+1013,268703,North Park Hill,Denver,2025,674347.0
+1014,268704,Northeast Park Hill,Denver,2000,126227.0
+1015,268704,Northeast Park Hill,Denver,2001,146157.0
+1016,268704,Northeast Park Hill,Denver,2002,161817.0
+1017,268704,Northeast Park Hill,Denver,2003,163864.0
+1018,268704,Northeast Park Hill,Denver,2004,167279.0
+1019,268704,Northeast Park Hill,Denver,2005,172693.0
+1020,268704,Northeast Park Hill,Denver,2006,175766.0
+1021,268704,Northeast Park Hill,Denver,2007,173216.0
+1022,268704,Northeast Park Hill,Denver,2008,154608.0
+1023,268704,Northeast Park Hill,Denver,2009,145418.0
+1024,268704,Northeast Park Hill,Denver,2010,151880.0
+1025,268704,Northeast Park Hill,Denver,2011,150281.0
+1026,268704,Northeast Park Hill,Denver,2012,157645.0
+1027,268704,Northeast Park Hill,Denver,2013,181412.0
+1028,268704,Northeast Park Hill,Denver,2014,210044.0
+1029,268704,Northeast Park Hill,Denver,2015,257901.0
+1030,268704,Northeast Park Hill,Denver,2016,301574.0
+1031,268704,Northeast Park Hill,Denver,2017,335499.0
+1032,268704,Northeast Park Hill,Denver,2018,364004.0
+1033,268704,Northeast Park Hill,Denver,2019,377438.0
+1034,268704,Northeast Park Hill,Denver,2020,394927.0
+1035,268704,Northeast Park Hill,Denver,2021,447853.0
+1036,268704,Northeast Park Hill,Denver,2022,496937.0
+1037,268704,Northeast Park Hill,Denver,2023,485618.0
+1038,268704,Northeast Park Hill,Denver,2024,480922.0
+1039,268704,Northeast Park Hill,Denver,2025,478699.0
+1040,268712,Overland,Denver,2000,155996.0
+1041,268712,Overland,Denver,2001,168861.0
+1042,268712,Overland,Denver,2002,180323.0
+1043,268712,Overland,Denver,2003,183658.0
+1044,268712,Overland,Denver,2004,184767.0
+1045,268712,Overland,Denver,2005,191647.0
+1046,268712,Overland,Denver,2006,196395.0
+1047,268712,Overland,Denver,2007,194196.0
+1048,268712,Overland,Denver,2008,183000.0
+1049,268712,Overland,Denver,2009,172586.0
+1050,268712,Overland,Denver,2010,172394.0
+1051,268712,Overland,Denver,2011,161177.0
+1052,268712,Overland,Denver,2012,163607.0
+1053,268712,Overland,Denver,2013,189009.0
+1054,268712,Overland,Denver,2014,218079.0
+1055,268712,Overland,Denver,2015,260030.0
+1056,268712,Overland,Denver,2016,299537.0
+1057,268712,Overland,Denver,2017,341044.0
+1058,268712,Overland,Denver,2018,372200.0
+1059,268712,Overland,Denver,2019,393969.0
+1060,268712,Overland,Denver,2020,423678.0
+1061,268712,Overland,Denver,2021,472905.0
+1062,268712,Overland,Denver,2022,530639.0
+1063,268712,Overland,Denver,2023,526559.0
+1064,268712,Overland,Denver,2024,521052.0
+1065,268712,Overland,Denver,2025,513236.0
+1066,268720,Platt Park,Denver,2000,250707.0
+1067,268720,Platt Park,Denver,2001,287323.0
+1068,268720,Platt Park,Denver,2002,302773.0
+1069,268720,Platt Park,Denver,2003,306050.0
+1070,268720,Platt Park,Denver,2004,314415.0
+1071,268720,Platt Park,Denver,2005,334469.0
+1072,268720,Platt Park,Denver,2006,355415.0
+1073,268720,Platt Park,Denver,2007,362884.0
+1074,268720,Platt Park,Denver,2008,355797.0
+1075,268720,Platt Park,Denver,2009,352890.0
+1076,268720,Platt Park,Denver,2010,357106.0
+1077,268720,Platt Park,Denver,2011,345720.0
+1078,268720,Platt Park,Denver,2012,358154.0
+1079,268720,Platt Park,Denver,2013,402110.0
+1080,268720,Platt Park,Denver,2014,434455.0
+1081,268720,Platt Park,Denver,2015,486205.0
+1082,268720,Platt Park,Denver,2016,528904.0
+1083,268720,Platt Park,Denver,2017,566971.0
+1084,268720,Platt Park,Denver,2018,603170.0
+1085,268720,Platt Park,Denver,2019,641837.0
+1086,268720,Platt Park,Denver,2020,678497.0
+1087,268720,Platt Park,Denver,2021,758420.0
+1088,268720,Platt Park,Denver,2022,853928.0
+1089,268720,Platt Park,Denver,2023,834149.0
+1090,268720,Platt Park,Denver,2024,831601.0
+1091,268720,Platt Park,Denver,2025,831010.0
+1092,268731,Regis,Denver,2000,156947.0
+1093,268731,Regis,Denver,2001,177949.0
+1094,268731,Regis,Denver,2002,187582.0
+1095,268731,Regis,Denver,2003,191837.0
+1096,268731,Regis,Denver,2004,197478.0
+1097,268731,Regis,Denver,2005,204677.0
+1098,268731,Regis,Denver,2006,212311.0
+1099,268731,Regis,Denver,2007,213462.0
+1100,268731,Regis,Denver,2008,203005.0
+1101,268731,Regis,Denver,2009,206167.0
+1102,268731,Regis,Denver,2010,207629.0
+1103,268731,Regis,Denver,2011,200941.0
+1104,268731,Regis,Denver,2012,217606.0
+1105,268731,Regis,Denver,2013,244907.0
+1106,268731,Regis,Denver,2014,270170.0
+1107,268731,Regis,Denver,2015,318427.0
+1108,268731,Regis,Denver,2016,358917.0
+1109,268731,Regis,Denver,2017,392560.0
+1110,268731,Regis,Denver,2018,424404.0
+1111,268731,Regis,Denver,2019,442910.0
+1112,268731,Regis,Denver,2020,469328.0
+1113,268731,Regis,Denver,2021,526487.0
+1114,268731,Regis,Denver,2022,595483.0
+1115,268731,Regis,Denver,2023,592044.0
+1116,268731,Regis,Denver,2024,595743.0
+1117,268731,Regis,Denver,2025,594333.0
+1118,268740,South Park Hill,Denver,2000,304100.0
+1119,268740,South Park Hill,Denver,2001,345773.0
+1120,268740,South Park Hill,Denver,2002,366054.0
+1121,268740,South Park Hill,Denver,2003,367812.0
+1122,268740,South Park Hill,Denver,2004,375873.0
+1123,268740,South Park Hill,Denver,2005,395414.0
+1124,268740,South Park Hill,Denver,2006,415834.0
+1125,268740,South Park Hill,Denver,2007,423346.0
+1126,268740,South Park Hill,Denver,2008,412565.0
+1127,268740,South Park Hill,Denver,2009,399838.0
+1128,268740,South Park Hill,Denver,2010,395346.0
+1129,268740,South Park Hill,Denver,2011,385136.0
+1130,268740,South Park Hill,Denver,2012,398152.0
+1131,268740,South Park Hill,Denver,2013,445293.0
+1132,268740,South Park Hill,Denver,2014,480813.0
+1133,268740,South Park Hill,Denver,2015,530899.0
+1134,268740,South Park Hill,Denver,2016,571054.0
+1135,268740,South Park Hill,Denver,2017,612088.0
+1136,268740,South Park Hill,Denver,2018,660180.0
+1137,268740,South Park Hill,Denver,2019,696932.0
+1138,268740,South Park Hill,Denver,2020,732001.0
+1139,268740,South Park Hill,Denver,2021,825995.0
+1140,268740,South Park Hill,Denver,2022,945018.0
+1141,268740,South Park Hill,Denver,2023,932854.0
+1142,268740,South Park Hill,Denver,2024,935912.0
+1143,268740,South Park Hill,Denver,2025,935146.0
+1144,268742,Southmoor Park,Denver,2000,256829.0
+1145,268742,Southmoor Park,Denver,2001,287315.0
+1146,268742,Southmoor Park,Denver,2002,298032.0
+1147,268742,Southmoor Park,Denver,2003,305828.0
+1148,268742,Southmoor Park,Denver,2004,313664.0
+1149,268742,Southmoor Park,Denver,2005,318015.0
+1150,268742,Southmoor Park,Denver,2006,330179.0
+1151,268742,Southmoor Park,Denver,2007,339006.0
+1152,268742,Southmoor Park,Denver,2008,331090.0
+1153,268742,Southmoor Park,Denver,2009,313209.0
+1154,268742,Southmoor Park,Denver,2010,312155.0
+1155,268742,Southmoor Park,Denver,2011,302762.0
+1156,268742,Southmoor Park,Denver,2012,314356.0
+1157,268742,Southmoor Park,Denver,2013,349078.0
+1158,268742,Southmoor Park,Denver,2014,375405.0
+1159,268742,Southmoor Park,Denver,2015,413323.0
+1160,268742,Southmoor Park,Denver,2016,450069.0
+1161,268742,Southmoor Park,Denver,2017,480693.0
+1162,268742,Southmoor Park,Denver,2018,509959.0
+1163,268742,Southmoor Park,Denver,2019,533235.0
+1164,268742,Southmoor Park,Denver,2020,556463.0
+1165,268742,Southmoor Park,Denver,2021,631271.0
+1166,268742,Southmoor Park,Denver,2022,715678.0
+1167,268742,Southmoor Park,Denver,2023,709730.0
+1168,268742,Southmoor Park,Denver,2024,719632.0
+1169,268742,Southmoor Park,Denver,2025,723746.0
+1170,268743,Speer,Denver,2000,187407.0
+1171,268743,Speer,Denver,2001,218059.0
+1172,268743,Speer,Denver,2002,230585.0
+1173,268743,Speer,Denver,2003,228514.0
+1174,268743,Speer,Denver,2004,235258.0
+1175,268743,Speer,Denver,2005,245843.0
+1176,268743,Speer,Denver,2006,256344.0
+1177,268743,Speer,Denver,2007,259038.0
+1178,268743,Speer,Denver,2008,254245.0
+1179,268743,Speer,Denver,2009,249913.0
+1180,268743,Speer,Denver,2010,250271.0
+1181,268743,Speer,Denver,2011,240573.0
+1182,268743,Speer,Denver,2012,247305.0
+1183,268743,Speer,Denver,2013,274020.0
+1184,268743,Speer,Denver,2014,299222.0
+1185,268743,Speer,Denver,2015,342767.0
+1186,268743,Speer,Denver,2016,377034.0
+1187,268743,Speer,Denver,2017,404876.0
+1188,268743,Speer,Denver,2018,431752.0
+1189,268743,Speer,Denver,2019,444849.0
+1190,268743,Speer,Denver,2020,461064.0
+1191,268743,Speer,Denver,2021,511217.0
+1192,268743,Speer,Denver,2022,570072.0
+1193,268743,Speer,Denver,2023,547207.0
+1194,268743,Speer,Denver,2024,534598.0
+1195,268743,Speer,Denver,2025,528262.0
+1196,268759,Union Station,Denver,2000,343003.0
+1197,268759,Union Station,Denver,2001,385456.0
+1198,268759,Union Station,Denver,2002,405796.0
+1199,268759,Union Station,Denver,2003,406502.0
+1200,268759,Union Station,Denver,2004,412350.0
+1201,268759,Union Station,Denver,2005,429704.0
+1202,268759,Union Station,Denver,2006,444264.0
+1203,268759,Union Station,Denver,2007,455577.0
+1204,268759,Union Station,Denver,2008,455222.0
+1205,268759,Union Station,Denver,2009,451821.0
+1206,268759,Union Station,Denver,2010,424611.0
+1207,268759,Union Station,Denver,2011,398898.0
+1208,268759,Union Station,Denver,2012,406241.0
+1209,268759,Union Station,Denver,2013,442477.0
+1210,268759,Union Station,Denver,2014,473367.0
+1211,268759,Union Station,Denver,2015,516427.0
+1212,268759,Union Station,Denver,2016,550169.0
+1213,268759,Union Station,Denver,2017,566576.0
+1214,268759,Union Station,Denver,2018,590349.0
+1215,268759,Union Station,Denver,2019,609764.0
+1216,268759,Union Station,Denver,2020,634554.0
+1217,268759,Union Station,Denver,2021,667533.0
+1218,268759,Union Station,Denver,2022,715724.0
+1219,268759,Union Station,Denver,2023,676474.0
+1220,268759,Union Station,Denver,2024,667195.0
+1221,268759,Union Station,Denver,2025,653397.0
+1222,268760,University,Denver,2000,199617.0
+1223,268760,University,Denver,2001,229126.0
+1224,268760,University,Denver,2002,242928.0
+1225,268760,University,Denver,2003,246982.0
+1226,268760,University,Denver,2004,254630.0
+1227,268760,University,Denver,2005,264749.0
+1228,268760,University,Denver,2006,282277.0
+1229,268760,University,Denver,2007,289882.0
+1230,268760,University,Denver,2008,281118.0
+1231,268760,University,Denver,2009,278987.0
+1232,268760,University,Denver,2010,274784.0
+1233,268760,University,Denver,2011,263826.0
+1234,268760,University,Denver,2012,276443.0
+1235,268760,University,Denver,2013,313883.0
+1236,268760,University,Denver,2014,347803.0
+1237,268760,University,Denver,2015,394131.0
+1238,268760,University,Denver,2016,428551.0
+1239,268760,University,Denver,2017,463814.0
+1240,268760,University,Denver,2018,498359.0
+1241,268760,University,Denver,2019,521659.0
+1242,268760,University,Denver,2020,551577.0
+1243,268760,University,Denver,2021,626008.0
+1244,268760,University,Denver,2022,705754.0
+1245,268760,University,Denver,2023,678929.0
+1246,268760,University,Denver,2024,673017.0
+1247,268760,University,Denver,2025,669890.0
+1248,268761,University Hills,Denver,2000,183002.0
+1249,268761,University Hills,Denver,2001,206780.0
+1250,268761,University Hills,Denver,2002,217881.0
+1251,268761,University Hills,Denver,2003,222270.0
+1252,268761,University Hills,Denver,2004,227569.0
+1253,268761,University Hills,Denver,2005,238054.0
+1254,268761,University Hills,Denver,2006,248860.0
+1255,268761,University Hills,Denver,2007,253215.0
+1256,268761,University Hills,Denver,2008,245999.0
+1257,268761,University Hills,Denver,2009,237358.0
+1258,268761,University Hills,Denver,2010,238284.0
+1259,268761,University Hills,Denver,2011,227442.0
+1260,268761,University Hills,Denver,2012,228947.0
+1261,268761,University Hills,Denver,2013,254317.0
+1262,268761,University Hills,Denver,2014,280648.0
+1263,268761,University Hills,Denver,2015,322140.0
+1264,268761,University Hills,Denver,2016,359890.0
+1265,268761,University Hills,Denver,2017,389570.0
+1266,268761,University Hills,Denver,2018,416490.0
+1267,268761,University Hills,Denver,2019,435889.0
+1268,268761,University Hills,Denver,2020,461247.0
+1269,268761,University Hills,Denver,2021,522934.0
+1270,268761,University Hills,Denver,2022,587212.0
+1271,268761,University Hills,Denver,2023,577110.0
+1272,268761,University Hills,Denver,2024,579953.0
+1273,268761,University Hills,Denver,2025,577417.0
+1274,268762,University Park,Denver,2000,361136.0
+1275,268762,University Park,Denver,2001,409469.0
+1276,268762,University Park,Denver,2002,431117.0
+1277,268762,University Park,Denver,2003,440371.0
+1278,268762,University Park,Denver,2004,456534.0
+1279,268762,University Park,Denver,2005,485096.0
+1280,268762,University Park,Denver,2006,520413.0
+1281,268762,University Park,Denver,2007,536433.0
+1282,268762,University Park,Denver,2008,514558.0
+1283,268762,University Park,Denver,2009,492006.0
+1284,268762,University Park,Denver,2010,478668.0
+1285,268762,University Park,Denver,2011,448521.0
+1286,268762,University Park,Denver,2012,455626.0
+1287,268762,University Park,Denver,2013,507444.0
+1288,268762,University Park,Denver,2014,550279.0
+1289,268762,University Park,Denver,2015,599861.0
+1290,268762,University Park,Denver,2016,638320.0
+1291,268762,University Park,Denver,2017,678697.0
+1292,268762,University Park,Denver,2018,723837.0
+1293,268762,University Park,Denver,2019,756117.0
+1294,268762,University Park,Denver,2020,793262.0
+1295,268762,University Park,Denver,2021,901114.0
+1296,268762,University Park,Denver,2022,1048896.0
+1297,268762,University Park,Denver,2023,1039329.0
+1298,268762,University Park,Denver,2024,1041026.0
+1299,268762,University Park,Denver,2025,1045973.0
+1300,268768,Villa Park,Denver,2000,103252.0
+1301,268768,Villa Park,Denver,2001,120088.0
+1302,268768,Villa Park,Denver,2002,130535.0
+1303,268768,Villa Park,Denver,2003,133228.0
+1304,268768,Villa Park,Denver,2004,134457.0
+1305,268768,Villa Park,Denver,2005,136775.0
+1306,268768,Villa Park,Denver,2006,133012.0
+1307,268768,Villa Park,Denver,2007,127482.0
+1308,268768,Villa Park,Denver,2008,109221.0
+1309,268768,Villa Park,Denver,2009,101738.0
+1310,268768,Villa Park,Denver,2010,106551.0
+1311,268768,Villa Park,Denver,2011,102106.0
+1312,268768,Villa Park,Denver,2012,110232.0
+1313,268768,Villa Park,Denver,2013,129667.0
+1314,268768,Villa Park,Denver,2014,152612.0
+1315,268768,Villa Park,Denver,2015,193955.0
+1316,268768,Villa Park,Denver,2016,232689.0
+1317,268768,Villa Park,Denver,2017,266728.0
+1318,268768,Villa Park,Denver,2018,300395.0
+1319,268768,Villa Park,Denver,2019,322347.0
+1320,268768,Villa Park,Denver,2020,346166.0
+1321,268768,Villa Park,Denver,2021,394136.0
+1322,268768,Villa Park,Denver,2022,444803.0
+1323,268768,Villa Park,Denver,2023,437051.0
+1324,268768,Villa Park,Denver,2024,432720.0
+1325,268768,Villa Park,Denver,2025,426669.0
+1326,268771,Virginia Village,Denver,2000,183746.0
+1327,268771,Virginia Village,Denver,2001,210090.0
+1328,268771,Virginia Village,Denver,2002,223523.0
+1329,268771,Virginia Village,Denver,2003,226578.0
+1330,268771,Virginia Village,Denver,2004,232938.0
+1331,268771,Virginia Village,Denver,2005,242571.0
+1332,268771,Virginia Village,Denver,2006,247815.0
+1333,268771,Virginia Village,Denver,2007,247918.0
+1334,268771,Virginia Village,Denver,2008,240700.0
+1335,268771,Virginia Village,Denver,2009,236203.0
+1336,268771,Virginia Village,Denver,2010,239820.0
+1337,268771,Virginia Village,Denver,2011,234404.0
+1338,268771,Virginia Village,Denver,2012,241692.0
+1339,268771,Virginia Village,Denver,2013,272933.0
+1340,268771,Virginia Village,Denver,2014,301583.0
+1341,268771,Virginia Village,Denver,2015,346056.0
+1342,268771,Virginia Village,Denver,2016,384107.0
+1343,268771,Virginia Village,Denver,2017,419271.0
+1344,268771,Virginia Village,Denver,2018,451000.0
+1345,268771,Virginia Village,Denver,2019,469047.0
+1346,268771,Virginia Village,Denver,2020,491246.0
+1347,268771,Virginia Village,Denver,2021,561193.0
+1348,268771,Virginia Village,Denver,2022,630844.0
+1349,268771,Virginia Village,Denver,2023,620188.0
+1350,268771,Virginia Village,Denver,2024,621484.0
+1351,268771,Virginia Village,Denver,2025,626639.0
+1352,268772,Washington Park,Denver,2000,358071.0
+1353,268772,Washington Park,Denver,2001,408444.0
+1354,268772,Washington Park,Denver,2002,430234.0
+1355,268772,Washington Park,Denver,2003,434764.0
+1356,268772,Washington Park,Denver,2004,450968.0
+1357,268772,Washington Park,Denver,2005,480126.0
+1358,268772,Washington Park,Denver,2006,512480.0
+1359,268772,Washington Park,Denver,2007,534207.0
+1360,268772,Washington Park,Denver,2008,525455.0
+1361,268772,Washington Park,Denver,2009,513362.0
+1362,268772,Washington Park,Denver,2010,499346.0
+1363,268772,Washington Park,Denver,2011,486728.0
+1364,268772,Washington Park,Denver,2012,516602.0
+1365,268772,Washington Park,Denver,2013,567565.0
+1366,268772,Washington Park,Denver,2014,608104.0
+1367,268772,Washington Park,Denver,2015,674697.0
+1368,268772,Washington Park,Denver,2016,722228.0
+1369,268772,Washington Park,Denver,2017,761814.0
+1370,268772,Washington Park,Denver,2018,809595.0
+1371,268772,Washington Park,Denver,2019,860349.0
+1372,268772,Washington Park,Denver,2020,914492.0
+1373,268772,Washington Park,Denver,2021,1017817.0
+1374,268772,Washington Park,Denver,2022,1192283.0
+1375,268772,Washington Park,Denver,2023,1189445.0
+1376,268772,Washington Park,Denver,2024,1201571.0
+1377,268772,Washington Park,Denver,2025,1218464.0
+1378,268773,Washington Park West,Denver,2000,278306.0
+1379,268773,Washington Park West,Denver,2001,316476.0
+1380,268773,Washington Park West,Denver,2002,331768.0
+1381,268773,Washington Park West,Denver,2003,336635.0
+1382,268773,Washington Park West,Denver,2004,347705.0
+1383,268773,Washington Park West,Denver,2005,371317.0
+1384,268773,Washington Park West,Denver,2006,393802.0
+1385,268773,Washington Park West,Denver,2007,402285.0
+1386,268773,Washington Park West,Denver,2008,393905.0
+1387,268773,Washington Park West,Denver,2009,382028.0
+1388,268773,Washington Park West,Denver,2010,380421.0
+1389,268773,Washington Park West,Denver,2011,375006.0
+1390,268773,Washington Park West,Denver,2012,394317.0
+1391,268773,Washington Park West,Denver,2013,441802.0
+1392,268773,Washington Park West,Denver,2014,475043.0
+1393,268773,Washington Park West,Denver,2015,524591.0
+1394,268773,Washington Park West,Denver,2016,563613.0
+1395,268773,Washington Park West,Denver,2017,598653.0
+1396,268773,Washington Park West,Denver,2018,638301.0
+1397,268773,Washington Park West,Denver,2019,664689.0
+1398,268773,Washington Park West,Denver,2020,696643.0
+1399,268773,Washington Park West,Denver,2021,782462.0
+1400,268773,Washington Park West,Denver,2022,882235.0
+1401,268773,Washington Park West,Denver,2023,862450.0
+1402,268773,Washington Park West,Denver,2024,870501.0
+1403,268773,Washington Park West,Denver,2025,870188.0
+1404,268774,Washington Virginia Vale,Denver,2000,145576.0
+1405,268774,Washington Virginia Vale,Denver,2001,165259.0
+1406,268774,Washington Virginia Vale,Denver,2002,175896.0
+1407,268774,Washington Virginia Vale,Denver,2003,178465.0
+1408,268774,Washington Virginia Vale,Denver,2004,181549.0
+1409,268774,Washington Virginia Vale,Denver,2005,187126.0
+1410,268774,Washington Virginia Vale,Denver,2006,191295.0
+1411,268774,Washington Virginia Vale,Denver,2007,190489.0
+1412,268774,Washington Virginia Vale,Denver,2008,182915.0
+1413,268774,Washington Virginia Vale,Denver,2009,177889.0
+1414,268774,Washington Virginia Vale,Denver,2010,176906.0
+1415,268774,Washington Virginia Vale,Denver,2011,171066.0
+1416,268774,Washington Virginia Vale,Denver,2012,180255.0
+1417,268774,Washington Virginia Vale,Denver,2013,204063.0
+1418,268774,Washington Virginia Vale,Denver,2014,225893.0
+1419,268774,Washington Virginia Vale,Denver,2015,261819.0
+1420,268774,Washington Virginia Vale,Denver,2016,295337.0
+1421,268774,Washington Virginia Vale,Denver,2017,324550.0
+1422,268774,Washington Virginia Vale,Denver,2018,349485.0
+1423,268774,Washington Virginia Vale,Denver,2019,364887.0
+1424,268774,Washington Virginia Vale,Denver,2020,386635.0
+1425,268774,Washington Virginia Vale,Denver,2021,438268.0
+1426,268774,Washington Virginia Vale,Denver,2022,492763.0
+1427,268774,Washington Virginia Vale,Denver,2023,485468.0
+1428,268774,Washington Virginia Vale,Denver,2024,482760.0
+1429,268774,Washington Virginia Vale,Denver,2025,481331.0
+1430,268775,Wellshire,Denver,2000,334546.0
+1431,268775,Wellshire,Denver,2001,379477.0
+1432,268775,Wellshire,Denver,2002,408408.0
+1433,268775,Wellshire,Denver,2003,413805.0
+1434,268775,Wellshire,Denver,2004,416020.0
+1435,268775,Wellshire,Denver,2005,448880.0
+1436,268775,Wellshire,Denver,2006,470460.0
+1437,268775,Wellshire,Denver,2007,479610.0
+1438,268775,Wellshire,Denver,2008,478372.0
+1439,268775,Wellshire,Denver,2009,459812.0
+1440,268775,Wellshire,Denver,2010,447827.0
+1441,268775,Wellshire,Denver,2011,438843.0
+1442,268775,Wellshire,Denver,2012,455944.0
+1443,268775,Wellshire,Denver,2013,502974.0
+1444,268775,Wellshire,Denver,2014,549567.0
+1445,268775,Wellshire,Denver,2015,606386.0
+1446,268775,Wellshire,Denver,2016,648870.0
+1447,268775,Wellshire,Denver,2017,684241.0
+1448,268775,Wellshire,Denver,2018,725480.0
+1449,268775,Wellshire,Denver,2019,768514.0
+1450,268775,Wellshire,Denver,2020,822395.0
+1451,268775,Wellshire,Denver,2021,929059.0
+1452,268775,Wellshire,Denver,2022,1086263.0
+1453,268775,Wellshire,Denver,2023,1099427.0
+1454,268775,Wellshire,Denver,2024,1124698.0
+1455,268775,Wellshire,Denver,2025,1137442.0
+1456,268776,West Colfax,Denver,2000,152859.0
+1457,268776,West Colfax,Denver,2001,177499.0
+1458,268776,West Colfax,Denver,2002,192760.0
+1459,268776,West Colfax,Denver,2003,199990.0
+1460,268776,West Colfax,Denver,2004,204628.0
+1461,268776,West Colfax,Denver,2005,206722.0
+1462,268776,West Colfax,Denver,2006,211232.0
+1463,268776,West Colfax,Denver,2007,206364.0
+1464,268776,West Colfax,Denver,2008,199138.0
+1465,268776,West Colfax,Denver,2009,193995.0
+1466,268776,West Colfax,Denver,2010,202983.0
+1467,268776,West Colfax,Denver,2011,195804.0
+1468,268776,West Colfax,Denver,2012,211675.0
+1469,268776,West Colfax,Denver,2013,242293.0
+1470,268776,West Colfax,Denver,2014,278196.0
+1471,268776,West Colfax,Denver,2015,348198.0
+1472,268776,West Colfax,Denver,2016,405490.0
+1473,268776,West Colfax,Denver,2017,447760.0
+1474,268776,West Colfax,Denver,2018,488247.0
+1475,268776,West Colfax,Denver,2019,521999.0
+1476,268776,West Colfax,Denver,2020,552311.0
+1477,268776,West Colfax,Denver,2021,627303.0
+1478,268776,West Colfax,Denver,2022,718246.0
+1479,268776,West Colfax,Denver,2023,692066.0
+1480,268776,West Colfax,Denver,2024,683301.0
+1481,268776,West Colfax,Denver,2025,670109.0
+1482,268777,West Highland,Denver,2000,224155.0
+1483,268777,West Highland,Denver,2001,263110.0
+1484,268777,West Highland,Denver,2002,279236.0
+1485,268777,West Highland,Denver,2003,282905.0
+1486,268777,West Highland,Denver,2004,287317.0
+1487,268777,West Highland,Denver,2005,304305.0
+1488,268777,West Highland,Denver,2006,318582.0
+1489,268777,West Highland,Denver,2007,329017.0
+1490,268777,West Highland,Denver,2008,327968.0
+1491,268777,West Highland,Denver,2009,326916.0
+1492,268777,West Highland,Denver,2010,333636.0
+1493,268777,West Highland,Denver,2011,328852.0
+1494,268777,West Highland,Denver,2012,341088.0
+1495,268777,West Highland,Denver,2013,381671.0
+1496,268777,West Highland,Denver,2014,414787.0
+1497,268777,West Highland,Denver,2015,464279.0
+1498,268777,West Highland,Denver,2016,502294.0
+1499,268777,West Highland,Denver,2017,538036.0
+1500,268777,West Highland,Denver,2018,574774.0
+1501,268777,West Highland,Denver,2019,601690.0
+1502,268777,West Highland,Denver,2020,638676.0
+1503,268777,West Highland,Denver,2021,725037.0
+1504,268777,West Highland,Denver,2022,821612.0
+1505,268777,West Highland,Denver,2023,803991.0
+1506,268777,West Highland,Denver,2024,803056.0
+1507,268777,West Highland,Denver,2025,795268.0
+1508,268778,Westwood,Denver,2000,98131.0
+1509,268778,Westwood,Denver,2001,113850.0
+1510,268778,Westwood,Denver,2002,122901.0
+1511,268778,Westwood,Denver,2003,126230.0
+1512,268778,Westwood,Denver,2004,127412.0
+1513,268778,Westwood,Denver,2005,127681.0
+1514,268778,Westwood,Denver,2006,127307.0
+1515,268778,Westwood,Denver,2007,122191.0
+1516,268778,Westwood,Denver,2008,102956.0
+1517,268778,Westwood,Denver,2009,92635.0
+1518,268778,Westwood,Denver,2010,95439.0
+1519,268778,Westwood,Denver,2011,91320.0
+1520,268778,Westwood,Denver,2012,97543.0
+1521,268778,Westwood,Denver,2013,117974.0
+1522,268778,Westwood,Denver,2014,138204.0
+1523,268778,Westwood,Denver,2015,169065.0
+1524,268778,Westwood,Denver,2016,206442.0
+1525,268778,Westwood,Denver,2017,237423.0
+1526,268778,Westwood,Denver,2018,266766.0
+1527,268778,Westwood,Denver,2019,286201.0
+1528,268778,Westwood,Denver,2020,302408.0
+1529,268778,Westwood,Denver,2021,344198.0
+1530,268778,Westwood,Denver,2022,387230.0
+1531,268778,Westwood,Denver,2023,381398.0
+1532,268778,Westwood,Denver,2024,382660.0
+1533,268778,Westwood,Denver,2025,376627.0
+1534,268779,Whittier,Denver,2000,173756.0
+1535,268779,Whittier,Denver,2001,206220.0
+1536,268779,Whittier,Denver,2002,228993.0
+1537,268779,Whittier,Denver,2003,231258.0
+1538,268779,Whittier,Denver,2004,240980.0
+1539,268779,Whittier,Denver,2005,254811.0
+1540,268779,Whittier,Denver,2006,266798.0
+1541,268779,Whittier,Denver,2007,272079.0
+1542,268779,Whittier,Denver,2008,264170.0
+1543,268779,Whittier,Denver,2009,260510.0
+1544,268779,Whittier,Denver,2010,257626.0
+1545,268779,Whittier,Denver,2011,251048.0
+1546,268779,Whittier,Denver,2012,256316.0
+1547,268779,Whittier,Denver,2013,295142.0
+1548,268779,Whittier,Denver,2014,335172.0
+1549,268779,Whittier,Denver,2015,392289.0
+1550,268779,Whittier,Denver,2016,434579.0
+1551,268779,Whittier,Denver,2017,468286.0
+1552,268779,Whittier,Denver,2018,504368.0
+1553,268779,Whittier,Denver,2019,529138.0
+1554,268779,Whittier,Denver,2020,555174.0
+1555,268779,Whittier,Denver,2021,631037.0
+1556,268779,Whittier,Denver,2022,702986.0
+1557,268779,Whittier,Denver,2023,685235.0
+1558,268779,Whittier,Denver,2024,678584.0
+1559,268779,Whittier,Denver,2025,668692.0
+1560,273809,Gateway - Green Valley Ranch,Denver,2000,167955.0
+1561,273809,Gateway - Green Valley Ranch,Denver,2001,191013.0
+1562,273809,Gateway - Green Valley Ranch,Denver,2002,204147.0
+1563,273809,Gateway - Green Valley Ranch,Denver,2003,206309.0
+1564,273809,Gateway - Green Valley Ranch,Denver,2004,210421.0
+1565,273809,Gateway - Green Valley Ranch,Denver,2005,213765.0
+1566,273809,Gateway - Green Valley Ranch,Denver,2006,215495.0
+1567,273809,Gateway - Green Valley Ranch,Denver,2007,210144.0
+1568,273809,Gateway - Green Valley Ranch,Denver,2008,185880.0
+1569,273809,Gateway - Green Valley Ranch,Denver,2009,162269.0
+1570,273809,Gateway - Green Valley Ranch,Denver,2010,165696.0
+1571,273809,Gateway - Green Valley Ranch,Denver,2011,157384.0
+1572,273809,Gateway - Green Valley Ranch,Denver,2012,162086.0
+1573,273809,Gateway - Green Valley Ranch,Denver,2013,186572.0
+1574,273809,Gateway - Green Valley Ranch,Denver,2014,210964.0
+1575,273809,Gateway - Green Valley Ranch,Denver,2015,247085.0
+1576,273809,Gateway - Green Valley Ranch,Denver,2016,282749.0
+1577,273809,Gateway - Green Valley Ranch,Denver,2017,308170.0
+1578,273809,Gateway - Green Valley Ranch,Denver,2018,333839.0
+1579,273809,Gateway - Green Valley Ranch,Denver,2019,349949.0
+1580,273809,Gateway - Green Valley Ranch,Denver,2020,371707.0
+1581,273809,Gateway - Green Valley Ranch,Denver,2021,432834.0
+1582,273809,Gateway - Green Valley Ranch,Denver,2022,503397.0
+1583,273809,Gateway - Green Valley Ranch,Denver,2023,489890.0
+1584,273809,Gateway - Green Valley Ranch,Denver,2024,489604.0
+1585,273809,Gateway - Green Valley Ranch,Denver,2025,484921.0
+1586,273986,Highland,Denver,2000,194187.0
+1587,273986,Highland,Denver,2001,229373.0
+1588,273986,Highland,Denver,2002,246501.0
+1589,273986,Highland,Denver,2003,250643.0
+1590,273986,Highland,Denver,2004,258497.0
+1591,273986,Highland,Denver,2005,272139.0
+1592,273986,Highland,Denver,2006,282420.0
+1593,273986,Highland,Denver,2007,294324.0
+1594,273986,Highland,Denver,2008,293519.0
+1595,273986,Highland,Denver,2009,291853.0
+1596,273986,Highland,Denver,2010,294208.0
+1597,273986,Highland,Denver,2011,285627.0
+1598,273986,Highland,Denver,2012,300799.0
+1599,273986,Highland,Denver,2013,349093.0
+1600,273986,Highland,Denver,2014,392242.0
+1601,273986,Highland,Denver,2015,447881.0
+1602,273986,Highland,Denver,2016,489880.0
+1603,273986,Highland,Denver,2017,519413.0
+1604,273986,Highland,Denver,2018,558338.0
+1605,273986,Highland,Denver,2019,577842.0
+1606,273986,Highland,Denver,2020,599946.0
+1607,273986,Highland,Denver,2021,669766.0
+1608,273986,Highland,Denver,2022,766433.0
+1609,273986,Highland,Denver,2023,751928.0
+1610,273986,Highland,Denver,2024,750323.0
+1611,273986,Highland,Denver,2025,739594.0
+1612,275564,Central Park,Denver,2000,
+1613,275564,Central Park,Denver,2001,
+1614,275564,Central Park,Denver,2002,
+1615,275564,Central Park,Denver,2003,
+1616,275564,Central Park,Denver,2004,
+1617,275564,Central Park,Denver,2005,
+1618,275564,Central Park,Denver,2006,
+1619,275564,Central Park,Denver,2007,459556.0
+1620,275564,Central Park,Denver,2008,437725.0
+1621,275564,Central Park,Denver,2009,416755.0
+1622,275564,Central Park,Denver,2010,394593.0
+1623,275564,Central Park,Denver,2011,372713.0
+1624,275564,Central Park,Denver,2012,390845.0
+1625,275564,Central Park,Denver,2013,432611.0
+1626,275564,Central Park,Denver,2014,462767.0
+1627,275564,Central Park,Denver,2015,497324.0
+1628,275564,Central Park,Denver,2016,535333.0
+1629,275564,Central Park,Denver,2017,564481.0
+1630,275564,Central Park,Denver,2018,593226.0
+1631,275564,Central Park,Denver,2019,613376.0
+1632,275564,Central Park,Denver,2020,635233.0
+1633,275564,Central Park,Denver,2021,713475.0
+1634,275564,Central Park,Denver,2022,824963.0
+1635,275564,Central Park,Denver,2023,814625.0
+1636,275564,Central Park,Denver,2024,805135.0
+1637,275564,Central Park,Denver,2025,796297.0
+1638,276193,Auraria,Denver,2000,
+1639,276193,Auraria,Denver,2001,
+1640,276193,Auraria,Denver,2002,
+1641,276193,Auraria,Denver,2003,
+1642,276193,Auraria,Denver,2004,
+1643,276193,Auraria,Denver,2005,
+1644,276193,Auraria,Denver,2006,
+1645,276193,Auraria,Denver,2007,
+1646,276193,Auraria,Denver,2008,537171.0
+1647,276193,Auraria,Denver,2009,531077.0
+1648,276193,Auraria,Denver,2010,503116.0
+1649,276193,Auraria,Denver,2011,471471.0
+1650,276193,Auraria,Denver,2012,476938.0
+1651,276193,Auraria,Denver,2013,510727.0
+1652,276193,Auraria,Denver,2014,546754.0
+1653,276193,Auraria,Denver,2015,599270.0
+1654,276193,Auraria,Denver,2016,630068.0
+1655,276193,Auraria,Denver,2017,651586.0
+1656,276193,Auraria,Denver,2018,701125.0
+1657,276193,Auraria,Denver,2019,730788.0
+1658,276193,Auraria,Denver,2020,779895.0
+1659,276193,Auraria,Denver,2021,814778.0
+1660,276193,Auraria,Denver,2022,879047.0
+1661,276193,Auraria,Denver,2023,842225.0
+1662,276193,Auraria,Denver,2024,805856.0
+1663,276193,Auraria,Denver,2025,772870.0
+1664,403152,Clayton,Denver,2000,128077.0
+1665,403152,Clayton,Denver,2001,158310.0
+1666,403152,Clayton,Denver,2002,172067.0
+1667,403152,Clayton,Denver,2003,174430.0
+1668,403152,Clayton,Denver,2004,176653.0
+1669,403152,Clayton,Denver,2005,183019.0
+1670,403152,Clayton,Denver,2006,183562.0
+1671,403152,Clayton,Denver,2007,181841.0
+1672,403152,Clayton,Denver,2008,167924.0
+1673,403152,Clayton,Denver,2009,163768.0
+1674,403152,Clayton,Denver,2010,165120.0
+1675,403152,Clayton,Denver,2011,158989.0
+1676,403152,Clayton,Denver,2012,158245.0
+1677,403152,Clayton,Denver,2013,180300.0
+1678,403152,Clayton,Denver,2014,217758.0
+1679,403152,Clayton,Denver,2015,274463.0
+1680,403152,Clayton,Denver,2016,316343.0
+1681,403152,Clayton,Denver,2017,347251.0
+1682,403152,Clayton,Denver,2018,379112.0
+1683,403152,Clayton,Denver,2019,397673.0
+1684,403152,Clayton,Denver,2020,417101.0
+1685,403152,Clayton,Denver,2021,467810.0
+1686,403152,Clayton,Denver,2022,516934.0
+1687,403152,Clayton,Denver,2023,503152.0
+1688,403152,Clayton,Denver,2024,498081.0
+1689,403152,Clayton,Denver,2025,491450.0
+1690,403153,Lincoln Park,Denver,2000,131245.0
+1691,403153,Lincoln Park,Denver,2001,159433.0
+1692,403153,Lincoln Park,Denver,2002,169749.0
+1693,403153,Lincoln Park,Denver,2003,176507.0
+1694,403153,Lincoln Park,Denver,2004,182070.0
+1695,403153,Lincoln Park,Denver,2005,184898.0
+1696,403153,Lincoln Park,Denver,2006,194248.0
+1697,403153,Lincoln Park,Denver,2007,197239.0
+1698,403153,Lincoln Park,Denver,2008,191640.0
+1699,403153,Lincoln Park,Denver,2009,189669.0
+1700,403153,Lincoln Park,Denver,2010,189305.0
+1701,403153,Lincoln Park,Denver,2011,184370.0
+1702,403153,Lincoln Park,Denver,2012,186689.0
+1703,403153,Lincoln Park,Denver,2013,206266.0
+1704,403153,Lincoln Park,Denver,2014,226847.0
+1705,403153,Lincoln Park,Denver,2015,267300.0
+1706,403153,Lincoln Park,Denver,2016,308388.0
+1707,403153,Lincoln Park,Denver,2017,338019.0
+1708,403153,Lincoln Park,Denver,2018,363587.0
+1709,403153,Lincoln Park,Denver,2019,376889.0
+1710,403153,Lincoln Park,Denver,2020,391048.0
+1711,403153,Lincoln Park,Denver,2021,427810.0
+1712,403153,Lincoln Park,Denver,2022,478318.0
+1713,403153,Lincoln Park,Denver,2023,464835.0
+1714,403153,Lincoln Park,Denver,2024,446996.0
+1715,403153,Lincoln Park,Denver,2025,435213.0
+1716,403509,College View - South Platte,Denver,2000,120499.0
+1717,403509,College View - South Platte,Denver,2001,140353.0
+1718,403509,College View - South Platte,Denver,2002,149473.0
+1719,403509,College View - South Platte,Denver,2003,152858.0
+1720,403509,College View - South Platte,Denver,2004,156040.0
+1721,403509,College View - South Platte,Denver,2005,157147.0
+1722,403509,College View - South Platte,Denver,2006,154085.0
+1723,403509,College View - South Platte,Denver,2007,149794.0
+1724,403509,College View - South Platte,Denver,2008,126058.0
+1725,403509,College View - South Platte,Denver,2009,121955.0
+1726,403509,College View - South Platte,Denver,2010,132033.0
+1727,403509,College View - South Platte,Denver,2011,122468.0
+1728,403509,College View - South Platte,Denver,2012,124462.0
+1729,403509,College View - South Platte,Denver,2013,142623.0
+1730,403509,College View - South Platte,Denver,2014,160830.0
+1731,403509,College View - South Platte,Denver,2015,191222.0
+1732,403509,College View - South Platte,Denver,2016,226256.0
+1733,403509,College View - South Platte,Denver,2017,258538.0
+1734,403509,College View - South Platte,Denver,2018,289749.0
+1735,403509,College View - South Platte,Denver,2019,308485.0
+1736,403509,College View - South Platte,Denver,2020,329960.0
+1737,403509,College View - South Platte,Denver,2021,377060.0
+1738,403509,College View - South Platte,Denver,2022,427666.0
+1739,403509,College View - South Platte,Denver,2023,419655.0
+1740,403509,College View - South Platte,Denver,2024,419418.0
+1741,403509,College View - South Platte,Denver,2025,418799.0
+1742,403510,Ruby Hill,Denver,2000,120956.0
+1743,403510,Ruby Hill,Denver,2001,140396.0
+1744,403510,Ruby Hill,Denver,2002,151999.0
+1745,403510,Ruby Hill,Denver,2003,153753.0
+1746,403510,Ruby Hill,Denver,2004,156059.0
+1747,403510,Ruby Hill,Denver,2005,155704.0
+1748,403510,Ruby Hill,Denver,2006,152875.0
+1749,403510,Ruby Hill,Denver,2007,145628.0
+1750,403510,Ruby Hill,Denver,2008,128881.0
+1751,403510,Ruby Hill,Denver,2009,124819.0
+1752,403510,Ruby Hill,Denver,2010,130932.0
+1753,403510,Ruby Hill,Denver,2011,125233.0
+1754,403510,Ruby Hill,Denver,2012,129185.0
+1755,403510,Ruby Hill,Denver,2013,150097.0
+1756,403510,Ruby Hill,Denver,2014,171387.0
+1757,403510,Ruby Hill,Denver,2015,205977.0
+1758,403510,Ruby Hill,Denver,2016,245157.0
+1759,403510,Ruby Hill,Denver,2017,278381.0
+1760,403510,Ruby Hill,Denver,2018,310221.0
+1761,403510,Ruby Hill,Denver,2019,330302.0
+1762,403510,Ruby Hill,Denver,2020,354294.0
+1763,403510,Ruby Hill,Denver,2021,403523.0
+1764,403510,Ruby Hill,Denver,2022,450488.0
+1765,403510,Ruby Hill,Denver,2023,441646.0
+1766,403510,Ruby Hill,Denver,2024,445167.0
+1767,403510,Ruby Hill,Denver,2025,442593.0
+1768,403511,Valverde,Denver,2000,108181.0
+1769,403511,Valverde,Denver,2001,125896.0
+1770,403511,Valverde,Denver,2002,137563.0
+1771,403511,Valverde,Denver,2003,140016.0
+1772,403511,Valverde,Denver,2004,139625.0
+1773,403511,Valverde,Denver,2005,144627.0
+1774,403511,Valverde,Denver,2006,140267.0
+1775,403511,Valverde,Denver,2007,133320.0
+1776,403511,Valverde,Denver,2008,112156.0
+1777,403511,Valverde,Denver,2009,101570.0
+1778,403511,Valverde,Denver,2010,103551.0
+1779,403511,Valverde,Denver,2011,99562.0
+1780,403511,Valverde,Denver,2012,107326.0
+1781,403511,Valverde,Denver,2013,129861.0
+1782,403511,Valverde,Denver,2014,146085.0
+1783,403511,Valverde,Denver,2015,181179.0
+1784,403511,Valverde,Denver,2016,219785.0
+1785,403511,Valverde,Denver,2017,251767.0
+1786,403511,Valverde,Denver,2018,284400.0
+1787,403511,Valverde,Denver,2019,307025.0
+1788,403511,Valverde,Denver,2020,330985.0
+1789,403511,Valverde,Denver,2021,371511.0
+1790,403511,Valverde,Denver,2022,417638.0
+1791,403511,Valverde,Denver,2023,409885.0
+1792,403511,Valverde,Denver,2024,409866.0
+1793,403511,Valverde,Denver,2025,407205.0
+1794,403512,Sloan Lake,Denver,2000,208747.0
+1795,403512,Sloan Lake,Denver,2001,245862.0
+1796,403512,Sloan Lake,Denver,2002,265173.0
+1797,403512,Sloan Lake,Denver,2003,267198.0
+1798,403512,Sloan Lake,Denver,2004,272912.0
+1799,403512,Sloan Lake,Denver,2005,284105.0
+1800,403512,Sloan Lake,Denver,2006,297981.0
+1801,403512,Sloan Lake,Denver,2007,307695.0
+1802,403512,Sloan Lake,Denver,2008,306055.0
+1803,403512,Sloan Lake,Denver,2009,306473.0
+1804,403512,Sloan Lake,Denver,2010,311875.0
+1805,403512,Sloan Lake,Denver,2011,305614.0
+1806,403512,Sloan Lake,Denver,2012,324601.0
+1807,403512,Sloan Lake,Denver,2013,368246.0
+1808,403512,Sloan Lake,Denver,2014,404500.0
+1809,403512,Sloan Lake,Denver,2015,462133.0
+1810,403512,Sloan Lake,Denver,2016,505350.0
+1811,403512,Sloan Lake,Denver,2017,540584.0
+1812,403512,Sloan Lake,Denver,2018,583430.0
+1813,403512,Sloan Lake,Denver,2019,610512.0
+1814,403512,Sloan Lake,Denver,2020,643001.0
+1815,403512,Sloan Lake,Denver,2021,732276.0
+1816,403512,Sloan Lake,Denver,2022,838577.0
+1817,403512,Sloan Lake,Denver,2023,824512.0
+1818,403512,Sloan Lake,Denver,2024,822550.0
+1819,403512,Sloan Lake,Denver,2025,814116.0
+1820,403513,Berkeley,Denver,2000,196075.0
+1821,403513,Berkeley,Denver,2001,224104.0
+1822,403513,Berkeley,Denver,2002,239584.0
+1823,403513,Berkeley,Denver,2003,245011.0
+1824,403513,Berkeley,Denver,2004,252999.0
+1825,403513,Berkeley,Denver,2005,268584.0
+1826,403513,Berkeley,Denver,2006,282937.0
+1827,403513,Berkeley,Denver,2007,287811.0
+1828,403513,Berkeley,Denver,2008,287789.0
+1829,403513,Berkeley,Denver,2009,289108.0
+1830,403513,Berkeley,Denver,2010,292803.0
+1831,403513,Berkeley,Denver,2011,290890.0
+1832,403513,Berkeley,Denver,2012,305321.0
+1833,403513,Berkeley,Denver,2013,344967.0
+1834,403513,Berkeley,Denver,2014,377195.0
+1835,403513,Berkeley,Denver,2015,428673.0
+1836,403513,Berkeley,Denver,2016,473925.0
+1837,403513,Berkeley,Denver,2017,507656.0
+1838,403513,Berkeley,Denver,2018,546791.0
+1839,403513,Berkeley,Denver,2019,571397.0
+1840,403513,Berkeley,Denver,2020,603093.0
+1841,403513,Berkeley,Denver,2021,682921.0
+1842,403513,Berkeley,Denver,2022,778471.0
+1843,403513,Berkeley,Denver,2023,761264.0
+1844,403513,Berkeley,Denver,2024,764593.0
+1845,403513,Berkeley,Denver,2025,763741.0
+1846,403514,Sunnyside,Denver,2000,154668.0
+1847,403514,Sunnyside,Denver,2001,179091.0
+1848,403514,Sunnyside,Denver,2002,192687.0
+1849,403514,Sunnyside,Denver,2003,200394.0
+1850,403514,Sunnyside,Denver,2004,204403.0
+1851,403514,Sunnyside,Denver,2005,213030.0
+1852,403514,Sunnyside,Denver,2006,219321.0
+1853,403514,Sunnyside,Denver,2007,227739.0
+1854,403514,Sunnyside,Denver,2008,221981.0
+1855,403514,Sunnyside,Denver,2009,226772.0
+1856,403514,Sunnyside,Denver,2010,234180.0
+1857,403514,Sunnyside,Denver,2011,229994.0
+1858,403514,Sunnyside,Denver,2012,241771.0
+1859,403514,Sunnyside,Denver,2013,277481.0
+1860,403514,Sunnyside,Denver,2014,312974.0
+1861,403514,Sunnyside,Denver,2015,369057.0
+1862,403514,Sunnyside,Denver,2016,408012.0
+1863,403514,Sunnyside,Denver,2017,442730.0
+1864,403514,Sunnyside,Denver,2018,480358.0
+1865,403514,Sunnyside,Denver,2019,500632.0
+1866,403514,Sunnyside,Denver,2020,528672.0
+1867,403514,Sunnyside,Denver,2021,603691.0
+1868,403514,Sunnyside,Denver,2022,685939.0
+1869,403514,Sunnyside,Denver,2023,672125.0
+1870,403514,Sunnyside,Denver,2024,672097.0
+1871,403514,Sunnyside,Denver,2025,666389.0
+1872,403515,Rosedale,Denver,2000,220605.0
+1873,403515,Rosedale,Denver,2001,256473.0
+1874,403515,Rosedale,Denver,2002,275514.0
+1875,403515,Rosedale,Denver,2003,276600.0
+1876,403515,Rosedale,Denver,2004,286687.0
+1877,403515,Rosedale,Denver,2005,300237.0
+1878,403515,Rosedale,Denver,2006,317849.0
+1879,403515,Rosedale,Denver,2007,324440.0
+1880,403515,Rosedale,Denver,2008,313129.0
+1881,403515,Rosedale,Denver,2009,311044.0
+1882,403515,Rosedale,Denver,2010,302434.0
+1883,403515,Rosedale,Denver,2011,287519.0
+1884,403515,Rosedale,Denver,2012,291505.0
+1885,403515,Rosedale,Denver,2013,324398.0
+1886,403515,Rosedale,Denver,2014,357471.0
+1887,403515,Rosedale,Denver,2015,402449.0
+1888,403515,Rosedale,Denver,2016,436870.0
+1889,403515,Rosedale,Denver,2017,470645.0
+1890,403515,Rosedale,Denver,2018,502416.0
+1891,403515,Rosedale,Denver,2019,532746.0
+1892,403515,Rosedale,Denver,2020,568579.0
+1893,403515,Rosedale,Denver,2021,643012.0
+1894,403515,Rosedale,Denver,2022,719682.0
+1895,403515,Rosedale,Denver,2023,698353.0
+1896,403515,Rosedale,Denver,2024,692322.0
+1897,403515,Rosedale,Denver,2025,688235.0
+1898,403516,Windsor,Denver,2000,80475.0
+1899,403516,Windsor,Denver,2001,92580.0
+1900,403516,Windsor,Denver,2002,98684.0
+1901,403516,Windsor,Denver,2003,96460.0
+1902,403516,Windsor,Denver,2004,94716.0
+1903,403516,Windsor,Denver,2005,94630.0
+1904,403516,Windsor,Denver,2006,93408.0
+1905,403516,Windsor,Denver,2007,93053.0
+1906,403516,Windsor,Denver,2008,87471.0
+1907,403516,Windsor,Denver,2009,82941.0
+1908,403516,Windsor,Denver,2010,81935.0
+1909,403516,Windsor,Denver,2011,78559.0
+1910,403516,Windsor,Denver,2012,78414.0
+1911,403516,Windsor,Denver,2013,91963.0
+1912,403516,Windsor,Denver,2014,108817.0
+1913,403516,Windsor,Denver,2015,136686.0
+1914,403516,Windsor,Denver,2016,167072.0
+1915,403516,Windsor,Denver,2017,184694.0
+1916,403516,Windsor,Denver,2018,200083.0
+1917,403516,Windsor,Denver,2019,203474.0
+1918,403516,Windsor,Denver,2020,201436.0
+1919,403516,Windsor,Denver,2021,220932.0
+1920,403516,Windsor,Denver,2022,254901.0
+1921,403516,Windsor,Denver,2023,259573.0
+1922,403516,Windsor,Denver,2024,258872.0
+1923,403516,Windsor,Denver,2025,245046.0
+1924,403517,Cheesman Park,Denver,2000,170249.0
+1925,403517,Cheesman Park,Denver,2001,199183.0
+1926,403517,Cheesman Park,Denver,2002,210330.0
+1927,403517,Cheesman Park,Denver,2003,208768.0
+1928,403517,Cheesman Park,Denver,2004,210904.0
+1929,403517,Cheesman Park,Denver,2005,215639.0
+1930,403517,Cheesman Park,Denver,2006,221800.0
+1931,403517,Cheesman Park,Denver,2007,222878.0
+1932,403517,Cheesman Park,Denver,2008,217241.0
+1933,403517,Cheesman Park,Denver,2009,213780.0
+1934,403517,Cheesman Park,Denver,2010,213220.0
+1935,403517,Cheesman Park,Denver,2011,199299.0
+1936,403517,Cheesman Park,Denver,2012,201125.0
+1937,403517,Cheesman Park,Denver,2013,225043.0
+1938,403517,Cheesman Park,Denver,2014,250574.0
+1939,403517,Cheesman Park,Denver,2015,288444.0
+1940,403517,Cheesman Park,Denver,2016,325535.0
+1941,403517,Cheesman Park,Denver,2017,352617.0
+1942,403517,Cheesman Park,Denver,2018,376309.0
+1943,403517,Cheesman Park,Denver,2019,381932.0
+1944,403517,Cheesman Park,Denver,2020,386944.0
+1945,403517,Cheesman Park,Denver,2021,414915.0
+1946,403517,Cheesman Park,Denver,2022,456750.0
+1947,403517,Cheesman Park,Denver,2023,438475.0
+1948,403517,Cheesman Park,Denver,2024,429539.0
+1949,403517,Cheesman Park,Denver,2025,417009.0
+1950,403518,Cole,Denver,2000,136260.0
+1951,403518,Cole,Denver,2001,169989.0
+1952,403518,Cole,Denver,2002,187995.0
+1953,403518,Cole,Denver,2003,189790.0
+1954,403518,Cole,Denver,2004,193471.0
+1955,403518,Cole,Denver,2005,200147.0
+1956,403518,Cole,Denver,2006,208573.0
+1957,403518,Cole,Denver,2007,203592.0
+1958,403518,Cole,Denver,2008,192578.0
+1959,403518,Cole,Denver,2009,188236.0
+1960,403518,Cole,Denver,2010,190126.0
+1961,403518,Cole,Denver,2011,182866.0
+1962,403518,Cole,Denver,2012,181378.0
+1963,403518,Cole,Denver,2013,207139.0
+1964,403518,Cole,Denver,2014,247629.0
+1965,403518,Cole,Denver,2015,305739.0
+1966,403518,Cole,Denver,2016,347286.0
+1967,403518,Cole,Denver,2017,380756.0
+1968,403518,Cole,Denver,2018,415832.0
+1969,403518,Cole,Denver,2019,437078.0
+1970,403518,Cole,Denver,2020,463062.0
+1971,403518,Cole,Denver,2021,519717.0
+1972,403518,Cole,Denver,2022,581639.0
+1973,403518,Cole,Denver,2023,568235.0
+1974,403518,Cole,Denver,2024,560412.0
+1975,403518,Cole,Denver,2025,546799.0
