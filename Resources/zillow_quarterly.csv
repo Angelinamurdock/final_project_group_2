@@ -1,4 +1,4 @@
-,RegionID,Neighborhood,City,Year,Quarter,Value
+,RegionID,Neighborhood,City,Year,Quarter,Avg Annual Home Value
 0,6018,Montbello,Denver,2000,1,127119.42
 1,6018,Montbello,Denver,2000,2,131496.9
 2,6018,Montbello,Denver,2000,3,137494.02
