@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Top 10 Growth Neighborhoods</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+</head>
+<body class="bg-light">
+    <div class="container py-5">
+        <h2 class="text-primary mb-4">📈 Top 10 Neighborhoods by Growth (2024–2035)</h2>
+        {% for table in tables %}
+            <div class="table-responsive">
+                {{ table|safe }}
+            </div>
+        {% endfor %}
+        <div class="mt-4">
+            <a href="/" class="btn btn-outline-secondary">← Back to Home</a>
+        </div>
+    </div>
+</body>
+</html>
