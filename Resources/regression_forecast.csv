@@ -1,0 +1,913 @@
+Neighborhood,Year,Predicted Home Value
+Athmar Park,2024,398356.42
+Athmar Park,2025,411850.02
+Athmar Park,2026,425343.62
+Athmar Park,2027,438837.22
+Athmar Park,2028,452330.82
+Athmar Park,2029,465824.42
+Athmar Park,2030,479318.02
+Athmar Park,2031,492811.62
+Athmar Park,2032,506305.22
+Athmar Park,2033,519798.82
+Athmar Park,2034,533292.42
+Athmar Park,2035,546786.02
+Auraria,2024,855948.21
+Auraria,2025,882783.9
+Auraria,2026,909619.59
+Auraria,2027,936455.27
+Auraria,2028,963290.96
+Auraria,2029,990126.65
+Auraria,2030,1016962.34
+Auraria,2031,1043798.03
+Auraria,2032,1070633.71
+Auraria,2033,1097469.4
+Auraria,2034,1124305.09
+Auraria,2035,1151140.78
+Baker,2024,576946.59
+Baker,2025,596050.79
+Baker,2026,615154.98
+Baker,2027,634259.18
+Baker,2028,653363.37
+Baker,2029,672467.56
+Baker,2030,691571.76
+Baker,2031,710675.95
+Baker,2032,729780.14
+Baker,2033,748884.34
+Baker,2034,767988.53
+Baker,2035,787092.73
+Barnum,2024,359555.53
+Barnum,2025,372167.01
+Barnum,2026,384778.49
+Barnum,2027,397389.97
+Barnum,2028,410001.45
+Barnum,2029,422612.93
+Barnum,2030,435224.41
+Barnum,2031,447835.89
+Barnum,2032,460447.37
+Barnum,2033,473058.85
+Barnum,2034,485670.33
+Barnum,2035,498281.81
+Barnum West,2024,371213.71
+Barnum West,2025,384556.74
+Barnum West,2026,397899.76
+Barnum West,2027,411242.79
+Barnum West,2028,424585.81
+Barnum West,2029,437928.84
+Barnum West,2030,451271.87
+Barnum West,2031,464614.89
+Barnum West,2032,477957.92
+Barnum West,2033,491300.94
+Barnum West,2034,504643.97
+Barnum West,2035,517986.99
+Bear Valley,2024,473706.91
+Bear Valley,2025,488588.26
+Bear Valley,2026,503469.6
+Bear Valley,2027,518350.95
+Bear Valley,2028,533232.3
+Bear Valley,2029,548113.64
+Bear Valley,2030,562994.99
+Bear Valley,2031,577876.33
+Bear Valley,2032,592757.68
+Bear Valley,2033,607639.02
+Bear Valley,2034,622520.37
+Bear Valley,2035,637401.72
+Belcaro,2024,1216152.94
+Belcaro,2025,1251658.4
+Belcaro,2026,1287163.86
+Belcaro,2027,1322669.32
+Belcaro,2028,1358174.77
+Belcaro,2029,1393680.23
+Belcaro,2030,1429185.69
+Belcaro,2031,1464691.15
+Belcaro,2032,1500196.61
+Belcaro,2033,1535702.07
+Belcaro,2034,1571207.52
+Belcaro,2035,1606712.98
+Berkeley,2024,700349.5
+Berkeley,2025,724332.59
+Berkeley,2026,748315.67
+Berkeley,2027,772298.75
+Berkeley,2028,796281.84
+Berkeley,2029,820264.92
+Berkeley,2030,844248.0
+Berkeley,2031,868231.09
+Berkeley,2032,892214.17
+Berkeley,2033,916197.26
+Berkeley,2034,940180.34
+Berkeley,2035,964163.42
+Berkley,2024,511080.28
+Berkley,2025,541936.44
+Berkley,2026,572792.61
+Berkley,2027,603648.78
+Berkley,2028,634504.94
+Berkley,2029,665361.11
+Berkley,2030,696217.27
+Berkley,2031,727073.44
+Berkley,2032,757929.61
+Berkley,2033,788785.77
+Berkley,2034,819641.94
+Berkley,2035,850498.11
+Capitol Hill,2024,332201.35
+Capitol Hill,2025,341180.84
+Capitol Hill,2026,350160.33
+Capitol Hill,2027,359139.82
+Capitol Hill,2028,368119.31
+Capitol Hill,2029,377098.8
+Capitol Hill,2030,386078.29
+Capitol Hill,2031,395057.78
+Capitol Hill,2032,404037.27
+Capitol Hill,2033,413016.76
+Capitol Hill,2034,421996.25
+Capitol Hill,2035,430975.74
+Central Business District,2024,428033.04
+Central Business District,2025,436799.15
+Central Business District,2026,445565.25
+Central Business District,2027,454331.36
+Central Business District,2028,463097.46
+Central Business District,2029,471863.57
+Central Business District,2030,480629.67
+Central Business District,2031,489395.78
+Central Business District,2032,498161.88
+Central Business District,2033,506927.99
+Central Business District,2034,515694.09
+Central Business District,2035,524460.2
+Central Park,2024,776149.94
+Central Park,2025,802342.58
+Central Park,2026,828535.23
+Central Park,2027,854727.88
+Central Park,2028,880920.53
+Central Park,2029,907113.18
+Central Park,2030,933305.83
+Central Park,2031,959498.47
+Central Park,2032,985691.12
+Central Park,2033,1011883.77
+Central Park,2034,1038076.42
+Central Park,2035,1064269.07
+Chaffee Park,2024,433413.5
+Chaffee Park,2025,449594.92
+Chaffee Park,2026,465776.34
+Chaffee Park,2027,481957.76
+Chaffee Park,2028,498139.18
+Chaffee Park,2029,514320.59
+Chaffee Park,2030,530502.01
+Chaffee Park,2031,546683.43
+Chaffee Park,2032,562864.85
+Chaffee Park,2033,579046.27
+Chaffee Park,2034,595227.69
+Chaffee Park,2035,611409.11
+Cheesman Park,2024,418899.83
+Cheesman Park,2025,430380.98
+Cheesman Park,2026,441862.13
+Cheesman Park,2027,453343.27
+Cheesman Park,2028,464824.42
+Cheesman Park,2029,476305.57
+Cheesman Park,2030,487786.72
+Cheesman Park,2031,499267.87
+Cheesman Park,2032,510749.02
+Cheesman Park,2033,522230.17
+Cheesman Park,2034,533711.32
+Cheesman Park,2035,545192.47
+Cherry Creek,2024,1040098.0
+Cherry Creek,2025,1066615.69
+Cherry Creek,2026,1093133.38
+Cherry Creek,2027,1119651.07
+Cherry Creek,2028,1146168.76
+Cherry Creek,2029,1172686.45
+Cherry Creek,2030,1199204.14
+Cherry Creek,2031,1225721.83
+Cherry Creek,2032,1252239.52
+Cherry Creek,2033,1278757.21
+Cherry Creek,2034,1305274.9
+Cherry Creek,2035,1331792.59
+City Park,2024,704353.04
+City Park,2025,725459.22
+City Park,2026,746565.39
+City Park,2027,767671.56
+City Park,2028,788777.73
+City Park,2029,809883.9
+City Park,2030,830990.07
+City Park,2031,852096.24
+City Park,2032,873202.41
+City Park,2033,894308.58
+City Park,2034,915414.75
+City Park,2035,936520.92
+City Park West,2024,612793.61
+City Park West,2025,630895.17
+City Park West,2026,648996.73
+City Park West,2027,667098.29
+City Park West,2028,685199.85
+City Park West,2029,703301.4
+City Park West,2030,721402.96
+City Park West,2031,739504.52
+City Park West,2032,757606.08
+City Park West,2033,775707.64
+City Park West,2034,793809.2
+City Park West,2035,811910.76
+Civic Center,2024,593711.75
+Civic Center,2025,606975.13
+Civic Center,2026,620238.51
+Civic Center,2027,633501.89
+Civic Center,2028,646765.27
+Civic Center,2029,660028.66
+Civic Center,2030,673292.04
+Civic Center,2031,686555.42
+Civic Center,2032,699818.8
+Civic Center,2033,713082.18
+Civic Center,2034,726345.57
+Civic Center,2035,739608.95
+Clayton,2024,460141.76
+Clayton,2025,476180.92
+Clayton,2026,492220.07
+Clayton,2027,508259.23
+Clayton,2028,524298.38
+Clayton,2029,540337.53
+Clayton,2030,556376.69
+Clayton,2031,572415.84
+Clayton,2032,588455.0
+Clayton,2033,604494.15
+Clayton,2034,620533.3
+Clayton,2035,636572.46
+Cole,2024,515213.23
+Cole,2025,533271.32
+Cole,2026,551329.4
+Cole,2027,569387.49
+Cole,2028,587445.57
+Cole,2029,605503.66
+Cole,2030,623561.74
+Cole,2031,641619.83
+Cole,2032,659677.91
+Cole,2033,677736.0
+Cole,2034,695794.08
+Cole,2035,713852.17
+College View - South Platte,2024,363337.11
+College View - South Platte,2025,375717.02
+College View - South Platte,2026,388096.93
+College View - South Platte,2027,400476.84
+College View - South Platte,2028,412856.75
+College View - South Platte,2029,425236.66
+College View - South Platte,2030,437616.57
+College View - South Platte,2031,449996.48
+College View - South Platte,2032,462376.39
+College View - South Platte,2033,474756.3
+College View - South Platte,2034,487136.21
+College View - South Platte,2035,499516.12
+Congress Park,2024,749367.09
+Congress Park,2025,772510.63
+Congress Park,2026,795654.18
+Congress Park,2027,818797.73
+Congress Park,2028,841941.28
+Congress Park,2029,865084.82
+Congress Park,2030,888228.37
+Congress Park,2031,911371.92
+Congress Park,2032,934515.47
+Congress Park,2033,957659.01
+Congress Park,2034,980802.56
+Congress Park,2035,1003946.11
+Cory - Merrill,2024,817674.68
+Cory - Merrill,2025,840887.37
+Cory - Merrill,2026,864100.06
+Cory - Merrill,2027,887312.75
+Cory - Merrill,2028,910525.44
+Cory - Merrill,2029,933738.13
+Cory - Merrill,2030,956950.82
+Cory - Merrill,2031,980163.5
+Cory - Merrill,2032,1003376.19
+Cory - Merrill,2033,1026588.88
+Cory - Merrill,2034,1049801.57
+Cory - Merrill,2035,1073014.26
+Country Club,2024,1430430.97
+Country Club,2025,1471831.28
+Country Club,2026,1513231.59
+Country Club,2027,1554631.9
+Country Club,2028,1596032.21
+Country Club,2029,1637432.53
+Country Club,2030,1678832.84
+Country Club,2031,1720233.15
+Country Club,2032,1761633.46
+Country Club,2033,1803033.77
+Country Club,2034,1844434.08
+Country Club,2035,1885834.4
+Denver International Airport,2024,388269.37
+Denver International Airport,2025,408905.18
+Denver International Airport,2026,429541.0
+Denver International Airport,2027,450176.82
+Denver International Airport,2028,470812.63
+Denver International Airport,2029,491448.45
+Denver International Airport,2030,512084.27
+Denver International Airport,2031,532720.08
+Denver International Airport,2032,553355.9
+Denver International Airport,2033,573991.72
+Denver International Airport,2034,594627.53
+Denver International Airport,2035,615263.35
+East Colfax,2024,387946.39
+East Colfax,2025,401135.35
+East Colfax,2026,414324.3
+East Colfax,2027,427513.26
+East Colfax,2028,440702.21
+East Colfax,2029,453891.17
+East Colfax,2030,467080.12
+East Colfax,2031,480269.08
+East Colfax,2032,493458.03
+East Colfax,2033,506646.99
+East Colfax,2034,519835.94
+East Colfax,2035,533024.9
+Elyria Swansea,2024,308416.95
+Elyria Swansea,2025,318232.4
+Elyria Swansea,2026,328047.85
+Elyria Swansea,2027,337863.31
+Elyria Swansea,2028,347678.76
+Elyria Swansea,2029,357494.21
+Elyria Swansea,2030,367309.66
+Elyria Swansea,2031,377125.11
+Elyria Swansea,2032,386940.56
+Elyria Swansea,2033,396756.01
+Elyria Swansea,2034,406571.46
+Elyria Swansea,2035,416386.92
+Five Points,2024,583984.35
+Five Points,2025,601137.39
+Five Points,2026,618290.42
+Five Points,2027,635443.46
+Five Points,2028,652596.5
+Five Points,2029,669749.53
+Five Points,2030,686902.57
+Five Points,2031,704055.61
+Five Points,2032,721208.64
+Five Points,2033,738361.68
+Five Points,2034,755514.72
+Five Points,2035,772667.75
+Fort Logan,2024,497822.44
+Fort Logan,2025,512958.62
+Fort Logan,2026,528094.79
+Fort Logan,2027,543230.97
+Fort Logan,2028,558367.14
+Fort Logan,2029,573503.32
+Fort Logan,2030,588639.5
+Fort Logan,2031,603775.67
+Fort Logan,2032,618911.85
+Fort Logan,2033,634048.02
+Fort Logan,2034,649184.2
+Fort Logan,2035,664320.37
+Gateway - Green Valley Ranch,2024,419709.67
+Gateway - Green Valley Ranch,2025,432444.0
+Gateway - Green Valley Ranch,2026,445178.33
+Gateway - Green Valley Ranch,2027,457912.66
+Gateway - Green Valley Ranch,2028,470646.99
+Gateway - Green Valley Ranch,2029,483381.33
+Gateway - Green Valley Ranch,2030,496115.66
+Gateway - Green Valley Ranch,2031,508849.99
+Gateway - Green Valley Ranch,2032,521584.32
+Gateway - Green Valley Ranch,2033,534318.66
+Gateway - Green Valley Ranch,2034,547052.99
+Gateway - Green Valley Ranch,2035,559787.32
+Globeville,2024,347155.15
+Globeville,2025,361336.11
+Globeville,2026,375517.07
+Globeville,2027,389698.03
+Globeville,2028,403878.99
+Globeville,2029,418059.95
+Globeville,2030,432240.92
+Globeville,2031,446421.88
+Globeville,2032,460602.84
+Globeville,2033,474783.8
+Globeville,2034,488964.76
+Globeville,2035,503145.72
+Goldsmith,2024,443742.58
+Goldsmith,2025,457869.7
+Goldsmith,2026,471996.82
+Goldsmith,2027,486123.94
+Goldsmith,2028,500251.07
+Goldsmith,2029,514378.19
+Goldsmith,2030,528505.31
+Goldsmith,2031,542632.44
+Goldsmith,2032,556759.56
+Goldsmith,2033,570886.68
+Goldsmith,2034,585013.8
+Goldsmith,2035,599140.93
+Hale,2024,593362.89
+Hale,2025,612144.63
+Hale,2026,630926.36
+Hale,2027,649708.1
+Hale,2028,668489.83
+Hale,2029,687271.57
+Hale,2030,706053.31
+Hale,2031,724835.04
+Hale,2032,743616.78
+Hale,2033,762398.52
+Hale,2034,781180.25
+Hale,2035,799961.99
+Hampden,2024,468295.21
+Hampden,2025,482494.62
+Hampden,2026,496694.03
+Hampden,2027,510893.45
+Hampden,2028,525092.86
+Hampden,2029,539292.27
+Hampden,2030,553491.68
+Hampden,2031,567691.09
+Hampden,2032,581890.5
+Hampden,2033,596089.91
+Hampden,2034,610289.32
+Hampden,2035,624488.73
+Hampden South,2024,466455.11
+Hampden South,2025,479521.66
+Hampden South,2026,492588.22
+Hampden South,2027,505654.77
+Hampden South,2028,518721.32
+Hampden South,2029,531787.87
+Hampden South,2030,544854.42
+Hampden South,2031,557920.97
+Hampden South,2032,570987.52
+Hampden South,2033,584054.07
+Hampden South,2034,597120.62
+Hampden South,2035,610187.18
+Harvey Park,2024,431701.64
+Harvey Park,2025,446572.32
+Harvey Park,2026,461443.0
+Harvey Park,2027,476313.68
+Harvey Park,2028,491184.36
+Harvey Park,2029,506055.04
+Harvey Park,2030,520925.72
+Harvey Park,2031,535796.4
+Harvey Park,2032,550667.08
+Harvey Park,2033,565537.76
+Harvey Park,2034,580408.43
+Harvey Park,2035,595279.11
+Harvey Park South,2024,480536.56
+Harvey Park South,2025,495995.05
+Harvey Park South,2026,511453.55
+Harvey Park South,2027,526912.05
+Harvey Park South,2028,542370.54
+Harvey Park South,2029,557829.04
+Harvey Park South,2030,573287.53
+Harvey Park South,2031,588746.03
+Harvey Park South,2032,604204.53
+Harvey Park South,2033,619663.02
+Harvey Park South,2034,635121.52
+Harvey Park South,2035,650580.01
+Highland,2024,697508.51
+Highland,2025,721061.52
+Highland,2026,744614.53
+Highland,2027,768167.55
+Highland,2028,791720.56
+Highland,2029,815273.57
+Highland,2030,838826.58
+Highland,2031,862379.59
+Highland,2032,885932.6
+Highland,2033,909485.61
+Highland,2034,933038.62
+Highland,2035,956591.63
+Hilltop,2024,1266190.77
+Hilltop,2025,1304446.95
+Hilltop,2026,1342703.12
+Hilltop,2027,1380959.29
+Hilltop,2028,1419215.46
+Hilltop,2029,1457471.63
+Hilltop,2030,1495727.8
+Hilltop,2031,1533983.97
+Hilltop,2032,1572240.14
+Hilltop,2033,1610496.31
+Hilltop,2034,1648752.49
+Hilltop,2035,1687008.66
+Indian Creek,2024,347547.01
+Indian Creek,2025,356656.36
+Indian Creek,2026,365765.72
+Indian Creek,2027,374875.08
+Indian Creek,2028,383984.44
+Indian Creek,2029,393093.8
+Indian Creek,2030,402203.16
+Indian Creek,2031,411312.52
+Indian Creek,2032,420421.87
+Indian Creek,2033,429531.23
+Indian Creek,2034,438640.59
+Indian Creek,2035,447749.95
+Jefferson Park,2024,628100.35
+Jefferson Park,2025,650359.88
+Jefferson Park,2026,672619.42
+Jefferson Park,2027,694878.95
+Jefferson Park,2028,717138.49
+Jefferson Park,2029,739398.03
+Jefferson Park,2030,761657.56
+Jefferson Park,2031,783917.1
+Jefferson Park,2032,806176.63
+Jefferson Park,2033,828436.17
+Jefferson Park,2034,850695.71
+Jefferson Park,2035,872955.24
+Lincoln Park,2024,431351.23
+Lincoln Park,2025,445194.27
+Lincoln Park,2026,459037.31
+Lincoln Park,2027,472880.35
+Lincoln Park,2028,486723.39
+Lincoln Park,2029,500566.43
+Lincoln Park,2030,514409.47
+Lincoln Park,2031,528252.51
+Lincoln Park,2032,542095.56
+Lincoln Park,2033,555938.6
+Lincoln Park,2034,569781.64
+Lincoln Park,2035,583624.68
+Lowry Field,2024,759093.69
+Lowry Field,2025,778591.64
+Lowry Field,2026,798089.59
+Lowry Field,2027,817587.54
+Lowry Field,2028,837085.49
+Lowry Field,2029,856583.44
+Lowry Field,2030,876081.39
+Lowry Field,2031,895579.34
+Lowry Field,2032,915077.29
+Lowry Field,2033,934575.24
+Lowry Field,2034,954073.19
+Lowry Field,2035,973571.14
+Mar Lee,2024,379440.04
+Mar Lee,2025,391924.35
+Mar Lee,2026,404408.65
+Mar Lee,2027,416892.96
+Mar Lee,2028,429377.26
+Mar Lee,2029,441861.57
+Mar Lee,2030,454345.87
+Mar Lee,2031,466830.18
+Mar Lee,2032,479314.48
+Mar Lee,2033,491798.79
+Mar Lee,2034,504283.1
+Mar Lee,2035,516767.4
+Montbello,2024,371757.26
+Montbello,2025,384099.92
+Montbello,2026,396442.58
+Montbello,2027,408785.24
+Montbello,2028,421127.9
+Montbello,2029,433470.56
+Montbello,2030,445813.22
+Montbello,2031,458155.89
+Montbello,2032,470498.55
+Montbello,2033,482841.21
+Montbello,2034,495183.87
+Montbello,2035,507526.53
+Montclair,2024,629118.6
+Montclair,2025,647751.69
+Montclair,2026,666384.78
+Montclair,2027,685017.88
+Montclair,2028,703650.97
+Montclair,2029,722284.07
+Montclair,2030,740917.16
+Montclair,2031,759550.25
+Montclair,2032,778183.35
+Montclair,2033,796816.44
+Montclair,2034,815449.54
+Montclair,2035,834082.63
+North Capitol Hill,2024,482212.88
+North Capitol Hill,2025,493471.88
+North Capitol Hill,2026,504730.88
+North Capitol Hill,2027,515989.88
+North Capitol Hill,2028,527248.88
+North Capitol Hill,2029,538507.88
+North Capitol Hill,2030,549766.87
+North Capitol Hill,2031,561025.87
+North Capitol Hill,2032,572284.87
+North Capitol Hill,2033,583543.87
+North Capitol Hill,2034,594802.87
+North Capitol Hill,2035,606061.87
+North Park Hill,2024,616243.25
+North Park Hill,2025,636562.03
+North Park Hill,2026,656880.81
+North Park Hill,2027,677199.59
+North Park Hill,2028,697518.37
+North Park Hill,2029,717837.15
+North Park Hill,2030,738155.93
+North Park Hill,2031,758474.72
+North Park Hill,2032,778793.5
+North Park Hill,2033,799112.28
+North Park Hill,2034,819431.06
+North Park Hill,2035,839749.84
+Northeast Park Hill,2024,442218.96
+Northeast Park Hill,2025,457783.18
+Northeast Park Hill,2026,473347.4
+Northeast Park Hill,2027,488911.62
+Northeast Park Hill,2028,504475.84
+Northeast Park Hill,2029,520040.07
+Northeast Park Hill,2030,535604.29
+Northeast Park Hill,2031,551168.51
+Northeast Park Hill,2032,566732.73
+Northeast Park Hill,2033,582296.95
+Northeast Park Hill,2034,597861.17
+Northeast Park Hill,2035,613425.39
+Overland,2024,463817.08
+Overland,2025,479582.78
+Overland,2026,495348.47
+Overland,2027,511114.16
+Overland,2028,526879.85
+Overland,2029,542645.54
+Overland,2030,558411.23
+Overland,2031,574176.92
+Overland,2032,589942.61
+Overland,2033,605708.3
+Overland,2034,621473.99
+Overland,2035,637239.68
+Platt Park,2024,767955.09
+Platt Park,2025,792239.21
+Platt Park,2026,816523.32
+Platt Park,2027,840807.44
+Platt Park,2028,865091.55
+Platt Park,2029,889375.67
+Platt Park,2030,913659.78
+Platt Park,2031,937943.9
+Platt Park,2032,962228.01
+Platt Park,2033,986512.13
+Platt Park,2034,1010796.24
+Platt Park,2035,1035080.36
+Regis,2024,535962.82
+Regis,2025,554563.33
+Regis,2026,573163.85
+Regis,2027,591764.37
+Regis,2028,610364.89
+Regis,2029,628965.41
+Regis,2030,647565.93
+Regis,2031,666166.45
+Regis,2032,684766.97
+Regis,2033,703367.48
+Regis,2034,721968.0
+Regis,2035,740568.52
+Rosedale,2024,635678.98
+Rosedale,2025,654914.53
+Rosedale,2026,674150.08
+Rosedale,2027,693385.63
+Rosedale,2028,712621.18
+Rosedale,2029,731856.73
+Rosedale,2030,751092.28
+Rosedale,2031,770327.83
+Rosedale,2032,789563.38
+Rosedale,2033,808798.93
+Rosedale,2034,828034.48
+Rosedale,2035,847270.03
+Ruby Hill,2024,388809.51
+Ruby Hill,2025,402500.03
+Ruby Hill,2026,416190.55
+Ruby Hill,2027,429881.07
+Ruby Hill,2028,443571.59
+Ruby Hill,2029,457262.12
+Ruby Hill,2030,470952.64
+Ruby Hill,2031,484643.16
+Ruby Hill,2032,498333.68
+Ruby Hill,2033,512024.2
+Ruby Hill,2034,525714.72
+Ruby Hill,2035,539405.24
+Skyland,2024,554848.71
+Skyland,2025,574703.41
+Skyland,2026,594558.11
+Skyland,2027,614412.8
+Skyland,2028,634267.5
+Skyland,2029,654122.2
+Skyland,2030,673976.9
+Skyland,2031,693831.6
+Skyland,2032,713686.29
+Skyland,2033,733540.99
+Skyland,2034,753395.69
+Skyland,2035,773250.39
+Sloan Lake,2024,750368.99
+Sloan Lake,2025,776068.17
+Sloan Lake,2026,801767.34
+Sloan Lake,2027,827466.51
+Sloan Lake,2028,853165.68
+Sloan Lake,2029,878864.85
+Sloan Lake,2030,904564.02
+Sloan Lake,2031,930263.19
+Sloan Lake,2032,955962.36
+Sloan Lake,2033,981661.53
+Sloan Lake,2034,1007360.7
+Sloan Lake,2035,1033059.87
+South Park Hill,2024,837799.17
+South Park Hill,2025,863041.41
+South Park Hill,2026,888283.65
+South Park Hill,2027,913525.89
+South Park Hill,2028,938768.13
+South Park Hill,2029,964010.37
+South Park Hill,2030,989252.62
+South Park Hill,2031,1014494.86
+South Park Hill,2032,1039737.1
+South Park Hill,2033,1064979.34
+South Park Hill,2034,1090221.58
+South Park Hill,2035,1115463.82
+Southmoor Park,2024,638208.87
+Southmoor Park,2025,656446.94
+Southmoor Park,2026,674685.01
+Southmoor Park,2027,692923.08
+Southmoor Park,2028,711161.15
+Southmoor Park,2029,729399.23
+Southmoor Park,2030,747637.3
+Southmoor Park,2031,765875.37
+Southmoor Park,2032,784113.44
+Southmoor Park,2033,802351.51
+Southmoor Park,2034,820589.58
+Southmoor Park,2035,838827.66
+Speer,2024,513084.81
+Speer,2025,528168.36
+Speer,2026,543251.91
+Speer,2027,558335.46
+Speer,2028,573419.01
+Speer,2029,588502.55
+Speer,2030,603586.1
+Speer,2031,618669.65
+Speer,2032,633753.2
+Speer,2033,648836.75
+Speer,2034,663920.3
+Speer,2035,679003.85
+Sunnyside,2024,615175.31
+Sunnyside,2025,637416.44
+Sunnyside,2026,659657.57
+Sunnyside,2027,681898.71
+Sunnyside,2028,704139.84
+Sunnyside,2029,726380.97
+Sunnyside,2030,748622.11
+Sunnyside,2031,770863.24
+Sunnyside,2032,793104.38
+Sunnyside,2033,815345.51
+Sunnyside,2034,837586.64
+Sunnyside,2035,859827.78
+Union Station,2024,663850.1
+Union Station,2025,677424.11
+Union Station,2026,690998.13
+Union Station,2027,704572.14
+Union Station,2028,718146.16
+Union Station,2029,731720.17
+Union Station,2030,745294.19
+Union Station,2031,758868.21
+Union Station,2032,772442.22
+Union Station,2033,786016.24
+Union Station,2034,799590.25
+Union Station,2035,813164.27
+University,2024,625797.75
+University,2025,645964.85
+University,2026,666131.95
+University,2027,686299.05
+University,2028,706466.14
+University,2029,726633.24
+University,2030,746800.34
+University,2031,766967.44
+University,2032,787134.54
+University,2033,807301.64
+University,2034,827468.73
+University,2035,847635.83
+University Hills,2024,521934.71
+University Hills,2025,538186.38
+University Hills,2026,554438.05
+University Hills,2027,570689.73
+University Hills,2028,586941.4
+University Hills,2029,603193.07
+University Hills,2030,619444.74
+University Hills,2031,635696.41
+University Hills,2032,651948.08
+University Hills,2033,668199.75
+University Hills,2034,684451.42
+University Hills,2035,700703.09
+University Park,2024,920521.37
+University Park,2025,946121.17
+University Park,2026,971720.98
+University Park,2027,997320.78
+University Park,2028,1022920.58
+University Park,2029,1048520.38
+University Park,2030,1074120.18
+University Park,2031,1099719.99
+University Park,2032,1125319.79
+University Park,2033,1150919.59
+University Park,2034,1176519.39
+University Park,2035,1202119.2
+Valverde,2024,356324.22
+Valverde,2025,369140.7
+Valverde,2026,381957.18
+Valverde,2027,394773.66
+Valverde,2028,407590.14
+Valverde,2029,420406.62
+Valverde,2030,433223.1
+Valverde,2031,446039.58
+Valverde,2032,458856.06
+Valverde,2033,471672.54
+Valverde,2034,484489.02
+Valverde,2035,497305.5
+Villa Park,2024,380264.17
+Villa Park,2025,394586.29
+Villa Park,2026,408908.42
+Villa Park,2027,423230.54
+Villa Park,2028,437552.67
+Villa Park,2029,451874.79
+Villa Park,2030,466196.92
+Villa Park,2031,480519.04
+Villa Park,2032,494841.16
+Villa Park,2033,509163.29
+Villa Park,2034,523485.41
+Villa Park,2035,537807.54
+Virginia Village,2024,563117.21
+Virginia Village,2025,581416.12
+Virginia Village,2026,599715.04
+Virginia Village,2027,618013.95
+Virginia Village,2028,636312.86
+Virginia Village,2029,654611.77
+Virginia Village,2030,672910.69
+Virginia Village,2031,691209.6
+Virginia Village,2032,709508.51
+Virginia Village,2033,727807.43
+Virginia Village,2034,746106.34
+Virginia Village,2035,764405.25
+Washington Park,2024,1063473.69
+Washington Park,2025,1096425.64
+Washington Park,2026,1129377.59
+Washington Park,2027,1162329.54
+Washington Park,2028,1195281.49
+Washington Park,2029,1228233.44
+Washington Park,2030,1261185.39
+Washington Park,2031,1294137.35
+Washington Park,2032,1327089.3
+Washington Park,2033,1360041.25
+Washington Park,2034,1392993.2
+Washington Park,2035,1425945.15
+Washington Park West,2024,798874.25
+Washington Park West,2025,823057.98
+Washington Park West,2026,847241.71
+Washington Park West,2027,871425.44
+Washington Park West,2028,895609.16
+Washington Park West,2029,919792.89
+Washington Park West,2030,943976.62
+Washington Park West,2031,968160.35
+Washington Park West,2032,992344.08
+Washington Park West,2033,1016527.81
+Washington Park West,2034,1040711.53
+Washington Park West,2035,1064895.26
+Washington Virginia Vale,2024,435873.23
+Washington Virginia Vale,2025,450114.6
+Washington Virginia Vale,2026,464355.98
+Washington Virginia Vale,2027,478597.35
+Washington Virginia Vale,2028,492838.72
+Washington Virginia Vale,2029,507080.09
+Washington Virginia Vale,2030,521321.47
+Washington Virginia Vale,2031,535562.84
+Washington Virginia Vale,2032,549804.21
+Washington Virginia Vale,2033,564045.58
+Washington Virginia Vale,2034,578286.96
+Washington Virginia Vale,2035,592528.33
+Wellshire,2024,965924.5
+Wellshire,2025,995700.51
+Wellshire,2026,1025476.51
+Wellshire,2027,1055252.51
+Wellshire,2028,1085028.51
+Wellshire,2029,1114804.52
+Wellshire,2030,1144580.52
+Wellshire,2031,1174356.52
+Wellshire,2032,1204132.53
+Wellshire,2033,1233908.53
+Wellshire,2034,1263684.53
+Wellshire,2035,1293460.53
+West Colfax,2024,624572.73
+West Colfax,2025,648065.23
+West Colfax,2026,671557.73
+West Colfax,2027,695050.23
+West Colfax,2028,718542.73
+West Colfax,2029,742035.23
+West Colfax,2030,765527.73
+West Colfax,2031,789020.23
+West Colfax,2032,812512.73
+West Colfax,2033,836005.23
+West Colfax,2034,859497.73
+West Colfax,2035,882990.23
+West Highland,2024,737111.12
+West Highland,2025,761118.62
+West Highland,2026,785126.12
+West Highland,2027,809133.62
+West Highland,2028,833141.13
+West Highland,2029,857148.63
+West Highland,2030,881156.13
+West Highland,2031,905163.63
+West Highland,2032,929171.13
+West Highland,2033,953178.63
+West Highland,2034,977186.13
+West Highland,2035,1001193.63
+Westwood,2024,332284.0
+Westwood,2025,344395.59
+Westwood,2026,356507.19
+Westwood,2027,368618.78
+Westwood,2028,380730.37
+Westwood,2029,392841.97
+Westwood,2030,404953.56
+Westwood,2031,417065.15
+Westwood,2032,429176.75
+Westwood,2033,441288.34
+Westwood,2034,453399.93
+Westwood,2035,465511.53
+Whittier,2024,632113.63
+Whittier,2025,653521.94
+Whittier,2026,674930.25
+Whittier,2027,696338.56
+Whittier,2028,717746.87
+Whittier,2029,739155.18
+Whittier,2030,760563.49
+Whittier,2031,781971.81
+Whittier,2032,803380.12
+Whittier,2033,824788.43
+Whittier,2034,846196.74
+Whittier,2035,867605.05
+Windsor,2024,229563.27
+Windsor,2025,237214.26
+Windsor,2026,244865.25
+Windsor,2027,252516.24
+Windsor,2028,260167.23
+Windsor,2029,267818.22
+Windsor,2030,275469.21
+Windsor,2031,283120.2
+Windsor,2032,290771.19
+Windsor,2033,298422.18
+Windsor,2034,306073.17
+Windsor,2035,313724.16
