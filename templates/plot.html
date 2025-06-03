@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Investment Plot</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+</head>
+<body class="bg-light">
+  <div class="container py-4">
+    <h2 class="text-primary mb-4">📊 Investment Scatter Plot</h2>
+
+    <form method="POST" class="mb-4">
+      <div class="form-row">
+        <!-- Start Year -->
+        <div class="form-group col-md-2">
+          <label for="min_year">Start Year</label>
+          <select name="min_year" class="form-control">
+            <option value="">Any</option>
+            {% for year in years %}
+              <option value="{{ year }}" {% if selected_min_year == year|string %}selected{% endif %}>{{ year }}</option>
+            {% endfor %}
+          </select>
+        </div>
+
+        <!-- End Year -->
+        <div class="form-group col-md-2">
+          <label for="max_year">End Year</label>
+          <select name="max_year" class="form-control">
+            <option value="">Any</option>
+            {% for year in years %}
+              <option value="{{ year }}" {% if selected_max_year == year|string %}selected{% endif %}>{{ year }}</option>
+            {% endfor %}
+          </select>
+        </div>
+
+        <!-- Neighborhood -->
+        <div class="form-group col-md-3">
+          <label for="neighborhood">Neighborhood</label>
+          <select name="neighborhood" class="form-control">
+            {% for n in neighborhoods %}
+              <option value="{{ n }}" {% if selected_neighborhood == n %}selected{% endif %}>{{ n }}</option>
+            {% endfor %}
+          </select>
+        </div>
+
+        <!-- Min Price -->
+        <div class="form-group col-md-2">
+          <label for="min_price">Min Price</label>
+          <input type="number" name="min_price" class="form-control" placeholder="e.g. 500000" value="{{ min_price }}">
+        </div>
+
+        <!-- Max Price -->
+        <div class="form-group col-md-2">
+          <label for="max_price">Max Price</label>
+          <input type="number" name="max_price" class="form-control" placeholder="e.g. 1000000" value="{{ max_price }}">
+        </div>
+
+        <!-- Submit Button -->
+        <div class="form-group col-md-1 d-flex align-items-end">
+          <button type="submit" class="btn btn-primary w-100">Filter</button>
+        </div>
+      </div>
+    </form>
+
+    <!-- Chart Output -->
+    <div class="card p-3">
+      {{ plot_html|safe }}
+    </div>
+
+    <div class="mt-4">
+      <a href="/" class="btn btn-outline-secondary">← Back to Home</a>
+    </div>
+  </div>
+</body>
+</html>
