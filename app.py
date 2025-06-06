@@ -41,6 +41,13 @@ def plot():
         title="Top Investment Neighborhoods by Year",
         color_continuous_scale="Viridis"
     )
+
+    # Save interactive plot to an HTML file
+    fig.write_html("plot.html")
+    
+
+
+
     plot_html = pio.to_html(fig, full_html=False)
 
     years = sorted(data["Year"].unique())
