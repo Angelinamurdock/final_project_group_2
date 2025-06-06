@@ -40,6 +40,7 @@ We aim to forecast home values by neighborhood in Denver using time series data.
 
 ## Optimization Attempts
 - prophet 
+- Keras
     - 
 
 
