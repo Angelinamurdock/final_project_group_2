@@ -1,4 +1,5 @@
 RegionID,Neighborhood,City,Year,Predicted Home Value
+<<<<<<< HEAD
 6018,Montbello,Denver,2024,441752.0
 6018,Montbello,Denver,2025,466954.0
 6018,Montbello,Denver,2026,495146.0
@@ -911,3 +912,917 @@ RegionID,Neighborhood,City,Year,Predicted Home Value
 403518,Cole,Denver,2033,723030.0
 403518,Cole,Denver,2034,756597.0
 403518,Cole,Denver,2035,791916.0
+=======
+6018,Montbello,Denver,2024,454624.0
+6018,Montbello,Denver,2025,479574.0
+6018,Montbello,Denver,2026,509510.0
+6018,Montbello,Denver,2027,540658.0
+6018,Montbello,Denver,2028,572799.0
+6018,Montbello,Denver,2029,605851.0
+6018,Montbello,Denver,2030,639897.0
+6018,Montbello,Denver,2031,674981.0
+6018,Montbello,Denver,2032,710701.0
+6018,Montbello,Denver,2033,746702.0
+6018,Montbello,Denver,2034,782703.0
+6018,Montbello,Denver,2035,818704.0
+12803,Montclair,Denver,2024,584039.0
+12803,Montclair,Denver,2025,600716.0
+12803,Montclair,Denver,2026,618147.0
+12803,Montclair,Denver,2027,637842.0
+12803,Montclair,Denver,2028,660146.0
+12803,Montclair,Denver,2029,684546.0
+12803,Montclair,Denver,2030,711122.0
+12803,Montclair,Denver,2031,740059.0
+12803,Montclair,Denver,2032,770293.0
+12803,Montclair,Denver,2033,803031.0
+12803,Montclair,Denver,2034,836670.0
+12803,Montclair,Denver,2035,870673.0
+40932,Skyland,Denver,2024,577117.0
+40932,Skyland,Denver,2025,600321.0
+40932,Skyland,Denver,2026,624419.0
+40932,Skyland,Denver,2027,649169.0
+40932,Skyland,Denver,2028,675229.0
+40932,Skyland,Denver,2029,702640.0
+40932,Skyland,Denver,2030,731530.0
+40932,Skyland,Denver,2031,762075.0
+40932,Skyland,Denver,2032,793227.0
+40932,Skyland,Denver,2033,826113.0
+40932,Skyland,Denver,2034,859313.0
+40932,Skyland,Denver,2035,893478.0
+42385,Indian Creek,Denver,2024,429251.0
+42385,Indian Creek,Denver,2025,448445.0
+42385,Indian Creek,Denver,2026,477024.0
+42385,Indian Creek,Denver,2027,508661.0
+42385,Indian Creek,Denver,2028,541238.0
+42385,Indian Creek,Denver,2029,575032.0
+42385,Indian Creek,Denver,2030,609323.0
+42385,Indian Creek,Denver,2031,644488.0
+42385,Indian Creek,Denver,2032,679972.0
+42385,Indian Creek,Denver,2033,715456.0
+42385,Indian Creek,Denver,2034,751141.0
+42385,Indian Creek,Denver,2035,787142.0
+45614,Hale,Denver,2024,613297.0
+45614,Hale,Denver,2025,635008.0
+45614,Hale,Denver,2026,657843.0
+45614,Hale,Denver,2027,682219.0
+45614,Hale,Denver,2028,708172.0
+45614,Hale,Denver,2029,737640.0
+45614,Hale,Denver,2030,768264.0
+45614,Hale,Denver,2031,800051.0
+45614,Hale,Denver,2032,832551.0
+45614,Hale,Denver,2033,866148.0
+45614,Hale,Denver,2034,900893.0
+45614,Hale,Denver,2035,935836.0
+52070,Fort Logan,Denver,2024,569792.0
+52070,Fort Logan,Denver,2025,597518.0
+52070,Fort Logan,Denver,2026,627584.0
+52070,Fort Logan,Denver,2027,659640.0
+52070,Fort Logan,Denver,2028,692906.0
+52070,Fort Logan,Denver,2029,727615.0
+52070,Fort Logan,Denver,2030,762588.0
+52070,Fort Logan,Denver,2031,797928.0
+52070,Fort Logan,Denver,2032,833726.0
+52070,Fort Logan,Denver,2033,869523.0
+52070,Fort Logan,Denver,2034,905321.0
+52070,Fort Logan,Denver,2035,941146.0
+119221,Berkley,Denver,2024,449288.0
+119221,Berkley,Denver,2025,468579.0
+119221,Berkley,Denver,2026,487871.0
+119221,Berkley,Denver,2027,507163.0
+119221,Berkley,Denver,2028,526455.0
+119221,Berkley,Denver,2029,545747.0
+119221,Berkley,Denver,2030,565039.0
+119221,Berkley,Denver,2031,584330.0
+119221,Berkley,Denver,2032,603885.0
+119221,Berkley,Denver,2033,623557.0
+119221,Berkley,Denver,2034,643230.0
+119221,Berkley,Denver,2035,663206.0
+119762,Hilltop,Denver,2024,1002501.0
+119762,Hilltop,Denver,2025,1024255.0
+119762,Hilltop,Denver,2026,1046986.0
+119762,Hilltop,Denver,2027,1073206.0
+119762,Hilltop,Denver,2028,1101642.0
+119762,Hilltop,Denver,2029,1132603.0
+119762,Hilltop,Denver,2030,1165952.0
+119762,Hilltop,Denver,2031,1200731.0
+119762,Hilltop,Denver,2032,1236505.0
+119762,Hilltop,Denver,2033,1272345.0
+119762,Hilltop,Denver,2034,1308346.0
+119762,Hilltop,Denver,2035,1344346.0
+268612,Athmar Park,Denver,2024,457937.0
+268612,Athmar Park,Denver,2025,477776.0
+268612,Athmar Park,Denver,2026,500337.0
+268612,Athmar Park,Denver,2027,525098.0
+268612,Athmar Park,Denver,2028,552634.0
+268612,Athmar Park,Denver,2029,581765.0
+268612,Athmar Park,Denver,2030,613133.0
+268612,Athmar Park,Denver,2031,646544.0
+268612,Athmar Park,Denver,2032,681381.0
+268612,Athmar Park,Denver,2033,717074.0
+268612,Athmar Park,Denver,2034,753075.0
+268612,Athmar Park,Denver,2035,789076.0
+268613,Baker,Denver,2024,564072.0
+268613,Baker,Denver,2025,584232.0
+268613,Baker,Denver,2026,605965.0
+268613,Baker,Denver,2027,629174.0
+268613,Baker,Denver,2028,654264.0
+268613,Baker,Denver,2029,680893.0
+268613,Baker,Denver,2030,710121.0
+268613,Baker,Denver,2031,742058.0
+268613,Baker,Denver,2032,775947.0
+268613,Baker,Denver,2033,810877.0
+268613,Baker,Denver,2034,846757.0
+268613,Baker,Denver,2035,882758.0
+268614,Barnum,Denver,2024,406393.0
+268614,Barnum,Denver,2025,425219.0
+268614,Barnum,Denver,2026,445583.0
+268614,Barnum,Denver,2027,467309.0
+268614,Barnum,Denver,2028,492027.0
+268614,Barnum,Denver,2029,518698.0
+268614,Barnum,Denver,2030,547393.0
+268614,Barnum,Denver,2031,579306.0
+268614,Barnum,Denver,2032,613061.0
+268614,Barnum,Denver,2033,648791.0
+268614,Barnum,Denver,2034,684791.0
+268614,Barnum,Denver,2035,720792.0
+268615,Barnum West,Denver,2024,426961.0
+268615,Barnum West,Denver,2025,452161.0
+268615,Barnum West,Denver,2026,479700.0
+268615,Barnum West,Denver,2027,510673.0
+268615,Barnum West,Denver,2028,544268.0
+268615,Barnum West,Denver,2029,578978.0
+268615,Barnum West,Denver,2030,614968.0
+268615,Barnum West,Denver,2031,650969.0
+268615,Barnum West,Denver,2032,686970.0
+268615,Barnum West,Denver,2033,722970.0
+268615,Barnum West,Denver,2034,758971.0
+268615,Barnum West,Denver,2035,794972.0
+268617,Bear Valley,Denver,2024,510296.0
+268617,Bear Valley,Denver,2025,530510.0
+268617,Bear Valley,Denver,2026,552354.0
+268617,Bear Valley,Denver,2027,576501.0
+268617,Bear Valley,Denver,2028,601768.0
+268617,Bear Valley,Denver,2029,628666.0
+268617,Bear Valley,Denver,2030,657814.0
+268617,Bear Valley,Denver,2031,689215.0
+268617,Bear Valley,Denver,2032,723043.0
+268617,Bear Valley,Denver,2033,758050.0
+268617,Bear Valley,Denver,2034,793489.0
+268617,Bear Valley,Denver,2035,829235.0
+268618,Belcaro,Denver,2024,1063045.0
+268618,Belcaro,Denver,2025,1086928.0
+268618,Belcaro,Denver,2026,1111618.0
+268618,Belcaro,Denver,2027,1138499.0
+268618,Belcaro,Denver,2028,1167467.0
+268618,Belcaro,Denver,2029,1197728.0
+268618,Belcaro,Denver,2030,1228839.0
+268618,Belcaro,Denver,2031,1262065.0
+268618,Belcaro,Denver,2032,1297132.0
+268618,Belcaro,Denver,2033,1332710.0
+268618,Belcaro,Denver,2034,1368531.0
+268618,Belcaro,Denver,2035,1404532.0
+268628,Capitol Hill,Denver,2024,401582.0
+268628,Capitol Hill,Denver,2025,420883.0
+268628,Capitol Hill,Denver,2026,441570.0
+268628,Capitol Hill,Denver,2027,464008.0
+268628,Capitol Hill,Denver,2028,488137.0
+268628,Capitol Hill,Denver,2029,514198.0
+268628,Capitol Hill,Denver,2030,541754.0
+268628,Capitol Hill,Denver,2031,571742.0
+268628,Capitol Hill,Denver,2032,604128.0
+268628,Capitol Hill,Denver,2033,638236.0
+268628,Capitol Hill,Denver,2034,673330.0
+268628,Capitol Hill,Denver,2035,709073.0
+268632,Central Business District,Denver,2024,543383.0
+268632,Central Business District,Denver,2025,562094.0
+268632,Central Business District,Denver,2026,585940.0
+268632,Central Business District,Denver,2027,612018.0
+268632,Central Business District,Denver,2028,640551.0
+268632,Central Business District,Denver,2029,671739.0
+268632,Central Business District,Denver,2030,705027.0
+268632,Central Business District,Denver,2031,740224.0
+268632,Central Business District,Denver,2032,776093.0
+268632,Central Business District,Denver,2033,812094.0
+268632,Central Business District,Denver,2034,848094.0
+268632,Central Business District,Denver,2035,884095.0
+268633,Chaffee Park,Denver,2024,463506.0
+268633,Chaffee Park,Denver,2025,485027.0
+268633,Chaffee Park,Denver,2026,507639.0
+268633,Chaffee Park,Denver,2027,532054.0
+268633,Chaffee Park,Denver,2028,557651.0
+268633,Chaffee Park,Denver,2029,585497.0
+268633,Chaffee Park,Denver,2030,616052.0
+268633,Chaffee Park,Denver,2031,650219.0
+268633,Chaffee Park,Denver,2032,685521.0
+268633,Chaffee Park,Denver,2033,721077.0
+268633,Chaffee Park,Denver,2034,756823.0
+268633,Chaffee Park,Denver,2035,792672.0
+268635,Cherry Creek,Denver,2024,996105.0
+268635,Cherry Creek,Denver,2025,1018124.0
+268635,Cherry Creek,Denver,2026,1040300.0
+268635,Cherry Creek,Denver,2027,1063670.0
+268635,Cherry Creek,Denver,2028,1088432.0
+268635,Cherry Creek,Denver,2029,1114830.0
+268635,Cherry Creek,Denver,2030,1142087.0
+268635,Cherry Creek,Denver,2031,1170737.0
+268635,Cherry Creek,Denver,2032,1202374.0
+268635,Cherry Creek,Denver,2033,1235489.0
+268635,Cherry Creek,Denver,2034,1269596.0
+268635,Cherry Creek,Denver,2035,1304843.0
+268636,City Park,Denver,2024,722597.0
+268636,City Park,Denver,2025,746906.0
+268636,City Park,Denver,2026,774104.0
+268636,City Park,Denver,2027,803453.0
+268636,City Park,Denver,2028,834596.0
+268636,City Park,Denver,2029,867604.0
+268636,City Park,Denver,2030,902371.0
+268636,City Park,Denver,2031,938258.0
+268636,City Park,Denver,2032,974258.0
+268636,City Park,Denver,2033,1010259.0
+268636,City Park,Denver,2034,1046260.0
+268636,City Park,Denver,2035,1082261.0
+268637,City Park West,Denver,2024,614750.0
+268637,City Park West,Denver,2025,634220.0
+268637,City Park West,Denver,2026,655370.0
+268637,City Park West,Denver,2027,678416.0
+268637,City Park West,Denver,2028,703394.0
+268637,City Park West,Denver,2029,730053.0
+268637,City Park West,Denver,2030,759150.0
+268637,City Park West,Denver,2031,790862.0
+268637,City Park West,Denver,2032,824644.0
+268637,City Park West,Denver,2033,859646.0
+268637,City Park West,Denver,2034,895647.0
+268637,City Park West,Denver,2035,931648.0
+268638,Civic Center,Denver,2024,637807.0
+268638,Civic Center,Denver,2025,660434.0
+268638,Civic Center,Denver,2026,685649.0
+268638,Civic Center,Denver,2027,712631.0
+268638,Civic Center,Denver,2028,741142.0
+268638,Civic Center,Denver,2029,771647.0
+268638,Civic Center,Denver,2030,804617.0
+268638,Civic Center,Denver,2031,839634.0
+268638,Civic Center,Denver,2032,875296.0
+268638,Civic Center,Denver,2033,911297.0
+268638,Civic Center,Denver,2034,947298.0
+268638,Civic Center,Denver,2035,983299.0
+268643,Congress Park,Denver,2024,693873.0
+268643,Congress Park,Denver,2025,712678.0
+268643,Congress Park,Denver,2026,731816.0
+268643,Congress Park,Denver,2027,752279.0
+268643,Congress Park,Denver,2028,775020.0
+268643,Congress Park,Denver,2029,799351.0
+268643,Congress Park,Denver,2030,827147.0
+268643,Congress Park,Denver,2031,857047.0
+268643,Congress Park,Denver,2032,889631.0
+268643,Congress Park,Denver,2033,923950.0
+268643,Congress Park,Denver,2034,959289.0
+268643,Congress Park,Denver,2035,995035.0
+268644,Cory - Merrill,Denver,2024,786010.0
+268644,Cory - Merrill,Denver,2025,808844.0
+268644,Cory - Merrill,Denver,2026,832484.0
+268644,Cory - Merrill,Denver,2027,857454.0
+268644,Cory - Merrill,Denver,2028,884260.0
+268644,Cory - Merrill,Denver,2029,913226.0
+268644,Cory - Merrill,Denver,2030,944508.0
+268644,Cory - Merrill,Denver,2031,977542.0
+268644,Cory - Merrill,Denver,2032,1011739.0
+268644,Cory - Merrill,Denver,2033,1047235.0
+268644,Cory - Merrill,Denver,2034,1083236.0
+268644,Cory - Merrill,Denver,2035,1119237.0
+268646,Country Club,Denver,2024,1215252.0
+268646,Country Club,Denver,2025,1240105.0
+268646,Country Club,Denver,2026,1267135.0
+268646,Country Club,Denver,2027,1297017.0
+268646,Country Club,Denver,2028,1328469.0
+268646,Country Club,Denver,2029,1361774.0
+268646,Country Club,Denver,2030,1396676.0
+268646,Country Club,Denver,2031,1432598.0
+268646,Country Club,Denver,2032,1468599.0
+268646,Country Club,Denver,2033,1504600.0
+268646,Country Club,Denver,2034,1540601.0
+268646,Country Club,Denver,2035,1576602.0
+268652,Denver International Airport,Denver,2024,379166.0
+268652,Denver International Airport,Denver,2025,397159.0
+268652,Denver International Airport,Denver,2026,415152.0
+268652,Denver International Airport,Denver,2027,433306.0
+268652,Denver International Airport,Denver,2028,451725.0
+268652,Denver International Airport,Denver,2029,470181.0
+268652,Denver International Airport,Denver,2030,489740.0
+268652,Denver International Airport,Denver,2031,509596.0
+268652,Denver International Airport,Denver,2032,530644.0
+268652,Denver International Airport,Denver,2033,553290.0
+268652,Denver International Airport,Denver,2034,577190.0
+268652,Denver International Airport,Denver,2035,602066.0
+268657,East Colfax,Denver,2024,425270.0
+268657,East Colfax,Denver,2025,449551.0
+268657,East Colfax,Denver,2026,480783.0
+268657,East Colfax,Denver,2027,514566.0
+268657,East Colfax,Denver,2028,549280.0
+268657,East Colfax,Denver,2029,585247.0
+268657,East Colfax,Denver,2030,621248.0
+268657,East Colfax,Denver,2031,657249.0
+268657,East Colfax,Denver,2032,693250.0
+268657,East Colfax,Denver,2033,729251.0
+268657,East Colfax,Denver,2034,765251.0
+268657,East Colfax,Denver,2035,801252.0
+268659,Elyria Swansea,Denver,2024,375514.0
+268659,Elyria Swansea,Denver,2025,394956.0
+268659,Elyria Swansea,Denver,2026,419959.0
+268659,Elyria Swansea,Denver,2027,447479.0
+268659,Elyria Swansea,Denver,2028,477953.0
+268659,Elyria Swansea,Denver,2029,510927.0
+268659,Elyria Swansea,Denver,2030,545665.0
+268659,Elyria Swansea,Denver,2031,581124.0
+268659,Elyria Swansea,Denver,2032,616870.0
+268659,Elyria Swansea,Denver,2033,652616.0
+268659,Elyria Swansea,Denver,2034,688552.0
+268659,Elyria Swansea,Denver,2035,724553.0
+268662,Five Points,Denver,2024,615154.0
+268662,Five Points,Denver,2025,638618.0
+268662,Five Points,Denver,2026,663882.0
+268662,Five Points,Denver,2027,692077.0
+268662,Five Points,Denver,2028,723876.0
+268662,Five Points,Denver,2029,757041.0
+268662,Five Points,Denver,2030,791980.0
+268662,Five Points,Denver,2031,827981.0
+268662,Five Points,Denver,2032,863982.0
+268662,Five Points,Denver,2033,899982.0
+268662,Five Points,Denver,2034,935983.0
+268662,Five Points,Denver,2035,971984.0
+268664,Globeville,Denver,2024,362694.0
+268664,Globeville,Denver,2025,382043.0
+268664,Globeville,Denver,2026,402544.0
+268664,Globeville,Denver,2027,424427.0
+268664,Globeville,Denver,2028,447880.0
+268664,Globeville,Denver,2029,471989.0
+268664,Globeville,Denver,2030,499651.0
+268664,Globeville,Denver,2031,530116.0
+268664,Globeville,Denver,2032,562970.0
+268664,Globeville,Denver,2033,598052.0
+268664,Globeville,Denver,2034,633799.0
+268664,Globeville,Denver,2035,669623.0
+268666,Goldsmith,Denver,2024,523207.0
+268666,Goldsmith,Denver,2025,545760.0
+268666,Goldsmith,Denver,2026,573492.0
+268666,Goldsmith,Denver,2027,604040.0
+268666,Goldsmith,Denver,2028,636925.0
+268666,Goldsmith,Denver,2029,671211.0
+268666,Goldsmith,Denver,2030,706218.0
+268666,Goldsmith,Denver,2031,741974.0
+268666,Goldsmith,Denver,2032,777975.0
+268666,Goldsmith,Denver,2033,813975.0
+268666,Goldsmith,Denver,2034,849976.0
+268666,Goldsmith,Denver,2035,885977.0
+268671,Hampden,Denver,2024,547378.0
+268671,Hampden,Denver,2025,571937.0
+268671,Hampden,Denver,2026,598413.0
+268671,Hampden,Denver,2027,626480.0
+268671,Hampden,Denver,2028,658289.0
+268671,Hampden,Denver,2029,693158.0
+268671,Hampden,Denver,2030,728711.0
+268671,Hampden,Denver,2031,764340.0
+268671,Hampden,Denver,2032,800086.0
+268671,Hampden,Denver,2033,835898.0
+268671,Hampden,Denver,2034,871899.0
+268671,Hampden,Denver,2035,907900.0
+268672,Hampden South,Denver,2024,532846.0
+268672,Hampden South,Denver,2025,553413.0
+268672,Hampden South,Denver,2026,576024.0
+268672,Hampden South,Denver,2027,600125.0
+268672,Hampden South,Denver,2028,627228.0
+268672,Hampden South,Denver,2029,657682.0
+268672,Hampden South,Denver,2030,690996.0
+268672,Hampden South,Denver,2031,725655.0
+268672,Hampden South,Denver,2032,761079.0
+268672,Hampden South,Denver,2033,796825.0
+268672,Hampden South,Denver,2034,832718.0
+268672,Hampden South,Denver,2035,868719.0
+268673,Harvey Park,Denver,2024,496299.0
+268673,Harvey Park,Denver,2025,521591.0
+268673,Harvey Park,Denver,2026,548432.0
+268673,Harvey Park,Denver,2027,577910.0
+268673,Harvey Park,Denver,2028,609162.0
+268673,Harvey Park,Denver,2029,641984.0
+268673,Harvey Park,Denver,2030,676765.0
+268673,Harvey Park,Denver,2031,712223.0
+268673,Harvey Park,Denver,2032,747969.0
+268673,Harvey Park,Denver,2033,783897.0
+268673,Harvey Park,Denver,2034,819898.0
+268673,Harvey Park,Denver,2035,855898.0
+268674,Harvey Park South,Denver,2024,518434.0
+268674,Harvey Park South,Denver,2025,542253.0
+268674,Harvey Park South,Denver,2026,567942.0
+268674,Harvey Park South,Denver,2027,596300.0
+268674,Harvey Park South,Denver,2028,628044.0
+268674,Harvey Park South,Denver,2029,662197.0
+268674,Harvey Park South,Denver,2030,697857.0
+268674,Harvey Park South,Denver,2031,733858.0
+268674,Harvey Park South,Denver,2032,769859.0
+268674,Harvey Park South,Denver,2033,805860.0
+268674,Harvey Park South,Denver,2034,841860.0
+268674,Harvey Park South,Denver,2035,877861.0
+268683,Jefferson Park,Denver,2024,606252.0
+268683,Jefferson Park,Denver,2025,628173.0
+268683,Jefferson Park,Denver,2026,651248.0
+268683,Jefferson Park,Denver,2027,676171.0
+268683,Jefferson Park,Denver,2028,703459.0
+268683,Jefferson Park,Denver,2029,733149.0
+268683,Jefferson Park,Denver,2030,765952.0
+268683,Jefferson Park,Denver,2031,800522.0
+268683,Jefferson Park,Denver,2032,836090.0
+268683,Jefferson Park,Denver,2033,871836.0
+268683,Jefferson Park,Denver,2034,907594.0
+268683,Jefferson Park,Denver,2035,943595.0
+268688,Lowry Field,Denver,2024,746234.0
+268688,Lowry Field,Denver,2025,766660.0
+268688,Lowry Field,Denver,2026,787726.0
+268688,Lowry Field,Denver,2027,809118.0
+268688,Lowry Field,Denver,2028,830940.0
+268688,Lowry Field,Denver,2029,854080.0
+268688,Lowry Field,Denver,2030,878957.0
+268688,Lowry Field,Denver,2031,904990.0
+268688,Lowry Field,Denver,2032,931450.0
+268688,Lowry Field,Denver,2033,960100.0
+268688,Lowry Field,Denver,2034,991082.0
+268688,Lowry Field,Denver,2035,1024677.0
+268689,Mar Lee,Denver,2024,429724.0
+268689,Mar Lee,Denver,2025,453303.0
+268689,Mar Lee,Denver,2026,480679.0
+268689,Mar Lee,Denver,2027,510600.0
+268689,Mar Lee,Denver,2028,543062.0
+268689,Mar Lee,Denver,2029,577648.0
+268689,Mar Lee,Denver,2030,613249.0
+268689,Mar Lee,Denver,2031,649066.0
+268689,Mar Lee,Denver,2032,685067.0
+268689,Mar Lee,Denver,2033,721068.0
+268689,Mar Lee,Denver,2034,757069.0
+268689,Mar Lee,Denver,2035,793070.0
+268702,North Capitol Hill,Denver,2024,543027.0
+268702,North Capitol Hill,Denver,2025,559745.0
+268702,North Capitol Hill,Denver,2026,580015.0
+268702,North Capitol Hill,Denver,2027,602424.0
+268702,North Capitol Hill,Denver,2028,626853.0
+268702,North Capitol Hill,Denver,2029,653097.0
+268702,North Capitol Hill,Denver,2030,680803.0
+268702,North Capitol Hill,Denver,2031,711907.0
+268702,North Capitol Hill,Denver,2032,745554.0
+268702,North Capitol Hill,Denver,2033,780616.0
+268702,North Capitol Hill,Denver,2034,816470.0
+268702,North Capitol Hill,Denver,2035,852471.0
+268703,North Park Hill,Denver,2024,608828.0
+268703,North Park Hill,Denver,2025,632429.0
+268703,North Park Hill,Denver,2026,656602.0
+268703,North Park Hill,Denver,2027,681667.0
+268703,North Park Hill,Denver,2028,708392.0
+268703,North Park Hill,Denver,2029,738718.0
+268703,North Park Hill,Denver,2030,772381.0
+268703,North Park Hill,Denver,2031,807063.0
+268703,North Park Hill,Denver,2032,842350.0
+268703,North Park Hill,Denver,2033,877976.0
+268703,North Park Hill,Denver,2034,913891.0
+268703,North Park Hill,Denver,2035,949892.0
+268704,Northeast Park Hill,Denver,2024,491585.0
+268704,Northeast Park Hill,Denver,2025,514023.0
+268704,Northeast Park Hill,Denver,2026,538905.0
+268704,Northeast Park Hill,Denver,2027,565407.0
+268704,Northeast Park Hill,Denver,2028,592966.0
+268704,Northeast Park Hill,Denver,2029,622310.0
+268704,Northeast Park Hill,Denver,2030,654854.0
+268704,Northeast Park Hill,Denver,2031,689501.0
+268704,Northeast Park Hill,Denver,2032,725001.0
+268704,Northeast Park Hill,Denver,2033,760782.0
+268704,Northeast Park Hill,Denver,2034,796782.0
+268704,Northeast Park Hill,Denver,2035,832783.0
+268712,Overland,Denver,2024,531218.0
+268712,Overland,Denver,2025,552995.0
+268712,Overland,Denver,2026,581408.0
+268712,Overland,Denver,2027,613942.0
+268712,Overland,Denver,2028,648642.0
+268712,Overland,Denver,2029,684421.0
+268712,Overland,Denver,2030,720421.0
+268712,Overland,Denver,2031,756422.0
+268712,Overland,Denver,2032,792423.0
+268712,Overland,Denver,2033,828424.0
+268712,Overland,Denver,2034,864425.0
+268712,Overland,Denver,2035,900426.0
+268720,Platt Park,Denver,2024,750690.0
+268720,Platt Park,Denver,2025,778039.0
+268720,Platt Park,Denver,2026,806176.0
+268720,Platt Park,Denver,2027,836760.0
+268720,Platt Park,Denver,2028,869069.0
+268720,Platt Park,Denver,2029,903208.0
+268720,Platt Park,Denver,2030,938829.0
+268720,Platt Park,Denver,2031,974830.0
+268720,Platt Park,Denver,2032,1010831.0
+268720,Platt Park,Denver,2033,1046832.0
+268720,Platt Park,Denver,2034,1082833.0
+268720,Platt Park,Denver,2035,1118834.0
+268731,Regis,Denver,2024,537146.0
+268731,Regis,Denver,2025,557559.0
+268731,Regis,Denver,2026,579470.0
+268731,Regis,Denver,2027,603041.0
+268731,Regis,Denver,2028,627933.0
+268731,Regis,Denver,2029,654250.0
+268731,Regis,Denver,2030,682929.0
+268731,Regis,Denver,2031,713971.0
+268731,Regis,Denver,2032,746421.0
+268731,Regis,Denver,2033,781371.0
+268731,Regis,Denver,2034,817203.0
+268731,Regis,Denver,2035,853070.0
+268740,South Park Hill,Denver,2024,805443.0
+268740,South Park Hill,Denver,2025,830106.0
+268740,South Park Hill,Denver,2026,855749.0
+268740,South Park Hill,Denver,2027,884142.0
+268740,South Park Hill,Denver,2028,915939.0
+268740,South Park Hill,Denver,2029,950374.0
+268740,South Park Hill,Denver,2030,985545.0
+268740,South Park Hill,Denver,2031,1021291.0
+268740,South Park Hill,Denver,2032,1057083.0
+268740,South Park Hill,Denver,2033,1093084.0
+268740,South Park Hill,Denver,2034,1129084.0
+268740,South Park Hill,Denver,2035,1165085.0
+268742,Southmoor Park,Denver,2024,678066.0
+268742,Southmoor Park,Denver,2025,702906.0
+268742,Southmoor Park,Denver,2026,729037.0
+268742,Southmoor Park,Denver,2027,758142.0
+268742,Southmoor Park,Denver,2028,790350.0
+268742,Southmoor Park,Denver,2029,825478.0
+268742,Southmoor Park,Denver,2030,861380.0
+268742,Southmoor Park,Denver,2031,897381.0
+268742,Southmoor Park,Denver,2032,933382.0
+268742,Southmoor Park,Denver,2033,969382.0
+268742,Southmoor Park,Denver,2034,1005383.0
+268742,Southmoor Park,Denver,2035,1041384.0
+268743,Speer,Denver,2024,545519.0
+268743,Speer,Denver,2025,564271.0
+268743,Speer,Denver,2026,588875.0
+268743,Speer,Denver,2027,616143.0
+268743,Speer,Denver,2028,646409.0
+268743,Speer,Denver,2029,679360.0
+268743,Speer,Denver,2030,714075.0
+268743,Speer,Denver,2031,749738.0
+268743,Speer,Denver,2032,785739.0
+268743,Speer,Denver,2033,821740.0
+268743,Speer,Denver,2034,857741.0
+268743,Speer,Denver,2035,893742.0
+268759,Union Station,Denver,2024,720119.0
+268759,Union Station,Denver,2025,738020.0
+268759,Union Station,Denver,2026,762238.0
+268759,Union Station,Denver,2027,788902.0
+268759,Union Station,Denver,2028,817035.0
+268759,Union Station,Denver,2029,848499.0
+268759,Union Station,Denver,2030,882574.0
+268759,Union Station,Denver,2031,917592.0
+268759,Union Station,Denver,2032,953543.0
+268759,Union Station,Denver,2033,989544.0
+268759,Union Station,Denver,2034,1025544.0
+268759,Union Station,Denver,2035,1061545.0
+268760,University,Denver,2024,621715.0
+268760,University,Denver,2025,645357.0
+268760,University,Denver,2026,669826.0
+268760,University,Denver,2027,696513.0
+268760,University,Denver,2028,725957.0
+268760,University,Denver,2029,758266.0
+268760,University,Denver,2030,792898.0
+268760,University,Denver,2031,828634.0
+268760,University,Denver,2032,864380.0
+268760,University,Denver,2033,900126.0
+268760,University,Denver,2034,936072.0
+268760,University,Denver,2035,972072.0
+268761,University Hills,Denver,2024,553350.0
+268761,University Hills,Denver,2025,572215.0
+268761,University Hills,Denver,2026,591403.0
+268761,University Hills,Denver,2027,611412.0
+268761,University Hills,Denver,2028,632495.0
+268761,University Hills,Denver,2029,655632.0
+268761,University Hills,Denver,2030,679872.0
+268761,University Hills,Denver,2031,705346.0
+268761,University Hills,Denver,2032,732466.0
+268761,University Hills,Denver,2033,760422.0
+268761,University Hills,Denver,2034,789118.0
+268761,University Hills,Denver,2035,819418.0
+268762,University Park,Denver,2024,886016.0
+268762,University Park,Denver,2025,914043.0
+268762,University Park,Denver,2026,943273.0
+268762,University Park,Denver,2027,975476.0
+268762,University Park,Denver,2028,1010282.0
+268762,University Park,Denver,2029,1046104.0
+268762,University Park,Denver,2030,1082105.0
+268762,University Park,Denver,2031,1118106.0
+268762,University Park,Denver,2032,1154107.0
+268762,University Park,Denver,2033,1190107.0
+268762,University Park,Denver,2034,1226108.0
+268762,University Park,Denver,2035,1262109.0
+268768,Villa Park,Denver,2024,409609.0
+268768,Villa Park,Denver,2025,430653.0
+268768,Villa Park,Denver,2026,453475.0
+268768,Villa Park,Denver,2027,478591.0
+268768,Villa Park,Denver,2028,505693.0
+268768,Villa Park,Denver,2029,534685.0
+268768,Villa Park,Denver,2030,565541.0
+268768,Villa Park,Denver,2031,598442.0
+268768,Villa Park,Denver,2032,632922.0
+268768,Villa Park,Denver,2033,668262.0
+268768,Villa Park,Denver,2034,704239.0
+268768,Villa Park,Denver,2035,740240.0
+268771,Virginia Village,Denver,2024,544901.0
+268771,Virginia Village,Denver,2025,560864.0
+268771,Virginia Village,Denver,2026,577698.0
+268771,Virginia Village,Denver,2027,596173.0
+268771,Virginia Village,Denver,2028,615850.0
+268771,Virginia Village,Denver,2029,636894.0
+268771,Virginia Village,Denver,2030,659578.0
+268771,Virginia Village,Denver,2031,683450.0
+268771,Virginia Village,Denver,2032,708443.0
+268771,Virginia Village,Denver,2033,734707.0
+268771,Virginia Village,Denver,2034,763795.0
+268771,Virginia Village,Denver,2035,794835.0
+268772,Washington Park,Denver,2024,887473.0
+268772,Washington Park,Denver,2025,907428.0
+268772,Washington Park,Denver,2026,928211.0
+268772,Washington Park,Denver,2027,950459.0
+268772,Washington Park,Denver,2028,973474.0
+268772,Washington Park,Denver,2029,998033.0
+268772,Washington Park,Denver,2030,1023432.0
+268772,Washington Park,Denver,2031,1050873.0
+268772,Washington Park,Denver,2032,1081253.0
+268772,Washington Park,Denver,2033,1113958.0
+268772,Washington Park,Denver,2034,1148535.0
+268772,Washington Park,Denver,2035,1184188.0
+268773,Washington Park West,Denver,2024,778804.0
+268773,Washington Park West,Denver,2025,803442.0
+268773,Washington Park West,Denver,2026,828812.0
+268773,Washington Park West,Denver,2027,856337.0
+268773,Washington Park West,Denver,2028,886548.0
+268773,Washington Park West,Denver,2029,919136.0
+268773,Washington Park West,Denver,2030,953478.0
+268773,Washington Park West,Denver,2031,988940.0
+268773,Washington Park West,Denver,2032,1024635.0
+268773,Washington Park West,Denver,2033,1060434.0
+268773,Washington Park West,Denver,2034,1096434.0
+268773,Washington Park West,Denver,2035,1132435.0
+268774,Washington Virginia Vale,Denver,2024,472656.0
+268774,Washington Virginia Vale,Denver,2025,492405.0
+268774,Washington Virginia Vale,Denver,2026,514553.0
+268774,Washington Virginia Vale,Denver,2027,538579.0
+268774,Washington Virginia Vale,Denver,2028,564145.0
+268774,Washington Virginia Vale,Denver,2029,591955.0
+268774,Washington Virginia Vale,Denver,2030,621962.0
+268774,Washington Virginia Vale,Denver,2031,654182.0
+268774,Washington Virginia Vale,Denver,2032,688840.0
+268774,Washington Virginia Vale,Denver,2033,724201.0
+268774,Washington Virginia Vale,Denver,2034,759947.0
+268774,Washington Virginia Vale,Denver,2035,795768.0
+268775,Wellshire,Denver,2024,880153.0
+268775,Wellshire,Denver,2025,905918.0
+268775,Wellshire,Denver,2026,933833.0
+268775,Wellshire,Denver,2027,963940.0
+268775,Wellshire,Denver,2028,996463.0
+268775,Wellshire,Denver,2029,1031223.0
+268775,Wellshire,Denver,2030,1066747.0
+268775,Wellshire,Denver,2031,1102682.0
+268775,Wellshire,Denver,2032,1138684.0
+268775,Wellshire,Denver,2033,1174684.0
+268775,Wellshire,Denver,2034,1210685.0
+268775,Wellshire,Denver,2035,1246686.0
+268776,West Colfax,Denver,2024,570259.0
+268776,West Colfax,Denver,2025,592017.0
+268776,West Colfax,Denver,2026,615438.0
+268776,West Colfax,Denver,2027,640802.0
+268776,West Colfax,Denver,2028,668872.0
+268776,West Colfax,Denver,2029,698816.0
+268776,West Colfax,Denver,2030,731179.0
+268776,West Colfax,Denver,2031,765485.0
+268776,West Colfax,Denver,2032,801117.0
+268776,West Colfax,Denver,2033,837118.0
+268776,West Colfax,Denver,2034,873119.0
+268776,West Colfax,Denver,2035,909120.0
+268777,West Highland,Denver,2024,677656.0
+268777,West Highland,Denver,2025,698227.0
+268777,West Highland,Denver,2026,720191.0
+268777,West Highland,Denver,2027,743296.0
+268777,West Highland,Denver,2028,768276.0
+268777,West Highland,Denver,2029,794105.0
+268777,West Highland,Denver,2030,820711.0
+268777,West Highland,Denver,2031,848917.0
+268777,West Highland,Denver,2032,879338.0
+268777,West Highland,Denver,2033,911780.0
+268777,West Highland,Denver,2034,945677.0
+268777,West Highland,Denver,2035,980685.0
+268778,Westwood,Denver,2024,364929.0
+268778,Westwood,Denver,2025,383231.0
+268778,Westwood,Denver,2026,402605.0
+268778,Westwood,Denver,2027,423429.0
+268778,Westwood,Denver,2028,445741.0
+268778,Westwood,Denver,2029,469697.0
+268778,Westwood,Denver,2030,494960.0
+268778,Westwood,Denver,2031,521097.0
+268778,Westwood,Denver,2032,549321.0
+268778,Westwood,Denver,2033,579546.0
+268778,Westwood,Denver,2034,612391.0
+268778,Westwood,Denver,2035,646547.0
+268779,Whittier,Denver,2024,576097.0
+268779,Whittier,Denver,2025,595511.0
+268779,Whittier,Denver,2026,616756.0
+268779,Whittier,Denver,2027,639540.0
+268779,Whittier,Denver,2028,663732.0
+268779,Whittier,Denver,2029,690278.0
+268779,Whittier,Denver,2030,719832.0
+268779,Whittier,Denver,2031,753016.0
+268779,Whittier,Denver,2032,788173.0
+268779,Whittier,Denver,2033,824174.0
+268779,Whittier,Denver,2034,860175.0
+268779,Whittier,Denver,2035,896176.0
+273809,Gateway - Green Valley Ranch,Denver,2024,468144.0
+273809,Gateway - Green Valley Ranch,Denver,2025,489632.0
+273809,Gateway - Green Valley Ranch,Denver,2026,513980.0
+273809,Gateway - Green Valley Ranch,Denver,2027,540729.0
+273809,Gateway - Green Valley Ranch,Denver,2028,572332.0
+273809,Gateway - Green Valley Ranch,Denver,2029,606935.0
+273809,Gateway - Green Valley Ranch,Denver,2030,642415.0
+273809,Gateway - Green Valley Ranch,Denver,2031,678161.0
+273809,Gateway - Green Valley Ranch,Denver,2032,713907.0
+273809,Gateway - Green Valley Ranch,Denver,2033,749814.0
+273809,Gateway - Green Valley Ranch,Denver,2034,785815.0
+273809,Gateway - Green Valley Ranch,Denver,2035,821815.0
+273986,Highland,Denver,2024,616107.0
+273986,Highland,Denver,2025,635684.0
+273986,Highland,Denver,2026,657032.0
+273986,Highland,Denver,2027,680243.0
+273986,Highland,Denver,2028,704929.0
+273986,Highland,Denver,2029,730998.0
+273986,Highland,Denver,2030,757626.0
+273986,Highland,Denver,2031,786220.0
+273986,Highland,Denver,2032,817395.0
+273986,Highland,Denver,2033,850698.0
+273986,Highland,Denver,2034,885260.0
+273986,Highland,Denver,2035,920407.0
+275564,Central Park,Denver,2024,664096.0
+275564,Central Park,Denver,2025,682630.0
+275564,Central Park,Denver,2026,701164.0
+275564,Central Park,Denver,2027,719698.0
+275564,Central Park,Denver,2028,738609.0
+275564,Central Park,Denver,2029,758508.0
+275564,Central Park,Denver,2030,779344.0
+275564,Central Park,Denver,2031,801664.0
+275564,Central Park,Denver,2032,825361.0
+275564,Central Park,Denver,2033,850368.0
+275564,Central Park,Denver,2034,876064.0
+275564,Central Park,Denver,2035,902683.0
+276193,Auraria,Denver,2024,813882.0
+276193,Auraria,Denver,2025,833577.0
+276193,Auraria,Denver,2026,853272.0
+276193,Auraria,Denver,2027,873218.0
+276193,Auraria,Denver,2028,893602.0
+276193,Auraria,Denver,2029,914911.0
+276193,Auraria,Denver,2030,937598.0
+276193,Auraria,Denver,2031,961664.0
+276193,Auraria,Denver,2032,986583.0
+276193,Auraria,Denver,2033,1012299.0
+276193,Auraria,Denver,2034,1039499.0
+276193,Auraria,Denver,2035,1068592.0
+403152,Clayton,Denver,2024,497552.0
+403152,Clayton,Denver,2025,518889.0
+403152,Clayton,Denver,2026,543550.0
+403152,Clayton,Denver,2027,570012.0
+403152,Clayton,Denver,2028,597210.0
+403152,Clayton,Denver,2029,626180.0
+403152,Clayton,Denver,2030,656897.0
+403152,Clayton,Denver,2031,690033.0
+403152,Clayton,Denver,2032,724795.0
+403152,Clayton,Denver,2033,760116.0
+403152,Clayton,Denver,2034,795744.0
+403152,Clayton,Denver,2035,831490.0
+403153,Lincoln Park,Denver,2024,476230.0
+403153,Lincoln Park,Denver,2025,495284.0
+403153,Lincoln Park,Denver,2026,518573.0
+403153,Lincoln Park,Denver,2027,543760.0
+403153,Lincoln Park,Denver,2028,570508.0
+403153,Lincoln Park,Denver,2029,598819.0
+403153,Lincoln Park,Denver,2030,628345.0
+403153,Lincoln Park,Denver,2031,659428.0
+403153,Lincoln Park,Denver,2032,691712.0
+403153,Lincoln Park,Denver,2033,725915.0
+403153,Lincoln Park,Denver,2034,760913.0
+403153,Lincoln Park,Denver,2035,796892.0
+403509,College View - South Platte,Denver,2024,444007.0
+403509,College View - South Platte,Denver,2025,468001.0
+403509,College View - South Platte,Denver,2026,492433.0
+403509,College View - South Platte,Denver,2027,517438.0
+403509,College View - South Platte,Denver,2028,543928.0
+403509,College View - South Platte,Denver,2029,571513.0
+403509,College View - South Platte,Denver,2030,600432.0
+403509,College View - South Platte,Denver,2031,630898.0
+403509,College View - South Platte,Denver,2032,661834.0
+403509,College View - South Platte,Denver,2033,693816.0
+403509,College View - South Platte,Denver,2034,727061.0
+403509,College View - South Platte,Denver,2035,761655.0
+403510,Ruby Hill,Denver,2024,435000.0
+403510,Ruby Hill,Denver,2025,457669.0
+403510,Ruby Hill,Denver,2026,483168.0
+403510,Ruby Hill,Denver,2027,510158.0
+403510,Ruby Hill,Denver,2028,539679.0
+403510,Ruby Hill,Denver,2029,570956.0
+403510,Ruby Hill,Denver,2030,603396.0
+403510,Ruby Hill,Denver,2031,637872.0
+403510,Ruby Hill,Denver,2032,673135.0
+403510,Ruby Hill,Denver,2033,709126.0
+403510,Ruby Hill,Denver,2034,745127.0
+403510,Ruby Hill,Denver,2035,781128.0
+403511,Valverde,Denver,2024,417068.0
+403511,Valverde,Denver,2025,441329.0
+403511,Valverde,Denver,2026,469503.0
+403511,Valverde,Denver,2027,499709.0
+403511,Valverde,Denver,2028,531187.0
+403511,Valverde,Denver,2029,563795.0
+403511,Valverde,Denver,2030,597771.0
+403511,Valverde,Denver,2031,632410.0
+403511,Valverde,Denver,2032,667891.0
+403511,Valverde,Denver,2033,703625.0
+403511,Valverde,Denver,2034,739572.0
+403511,Valverde,Denver,2035,775573.0
+403512,Sloan Lake,Denver,2024,700693.0
+403512,Sloan Lake,Denver,2025,723164.0
+403512,Sloan Lake,Denver,2026,745870.0
+403512,Sloan Lake,Denver,2027,769870.0
+403512,Sloan Lake,Denver,2028,795245.0
+403512,Sloan Lake,Denver,2029,821652.0
+403512,Sloan Lake,Denver,2030,849076.0
+403512,Sloan Lake,Denver,2031,877571.0
+403512,Sloan Lake,Denver,2032,907639.0
+403512,Sloan Lake,Denver,2033,939515.0
+403512,Sloan Lake,Denver,2034,972908.0
+403512,Sloan Lake,Denver,2035,1007304.0
+403513,Berkeley,Denver,2024,654900.0
+403513,Berkeley,Denver,2025,676962.0
+403513,Berkeley,Denver,2026,700406.0
+403513,Berkeley,Denver,2027,725545.0
+403513,Berkeley,Denver,2028,752242.0
+403513,Berkeley,Denver,2029,780432.0
+403513,Berkeley,Denver,2030,810227.0
+403513,Berkeley,Denver,2031,841587.0
+403513,Berkeley,Denver,2032,875336.0
+403513,Berkeley,Denver,2033,910457.0
+403513,Berkeley,Denver,2034,945635.0
+403513,Berkeley,Denver,2035,980940.0
+403514,Sunnyside,Denver,2024,621311.0
+403514,Sunnyside,Denver,2025,646626.0
+403514,Sunnyside,Denver,2026,672874.0
+403514,Sunnyside,Denver,2027,700849.0
+403514,Sunnyside,Denver,2028,730593.0
+403514,Sunnyside,Denver,2029,761761.0
+403514,Sunnyside,Denver,2030,794564.0
+403514,Sunnyside,Denver,2031,828966.0
+403514,Sunnyside,Denver,2032,864251.0
+403514,Sunnyside,Denver,2033,899783.0
+403514,Sunnyside,Denver,2034,935529.0
+403514,Sunnyside,Denver,2035,971275.0
+403515,Rosedale,Denver,2024,652849.0
+403515,Rosedale,Denver,2025,676659.0
+403515,Rosedale,Denver,2026,701582.0
+403515,Rosedale,Denver,2027,729680.0
+403515,Rosedale,Denver,2028,759223.0
+403515,Rosedale,Denver,2029,789944.0
+403515,Rosedale,Denver,2030,821196.0
+403515,Rosedale,Denver,2031,854156.0
+403515,Rosedale,Denver,2032,888674.0
+403515,Rosedale,Denver,2033,924049.0
+403515,Rosedale,Denver,2034,959795.0
+403515,Rosedale,Denver,2035,995541.0
+403516,Windsor,Denver,2024,279366.0
+403516,Windsor,Denver,2025,298411.0
+403516,Windsor,Denver,2026,318826.0
+403516,Windsor,Denver,2027,340405.0
+403516,Windsor,Denver,2028,363787.0
+403516,Windsor,Denver,2029,388259.0
+403516,Windsor,Denver,2030,413695.0
+403516,Windsor,Denver,2031,440945.0
+403516,Windsor,Denver,2032,469887.0
+403516,Windsor,Denver,2033,500113.0
+403516,Windsor,Denver,2034,531615.0
+403516,Windsor,Denver,2035,564321.0
+403517,Cheesman Park,Denver,2024,482430.0
+403517,Cheesman Park,Denver,2025,502167.0
+403517,Cheesman Park,Denver,2026,527424.0
+403517,Cheesman Park,Denver,2027,554703.0
+403517,Cheesman Park,Denver,2028,583598.0
+403517,Cheesman Park,Denver,2029,614204.0
+403517,Cheesman Park,Denver,2030,646778.0
+403517,Cheesman Park,Denver,2031,681022.0
+403517,Cheesman Park,Denver,2032,716437.0
+403517,Cheesman Park,Denver,2033,751870.0
+403517,Cheesman Park,Denver,2034,787434.0
+403517,Cheesman Park,Denver,2035,823395.0
+403518,Cole,Denver,2024,543559.0
+403518,Cole,Denver,2025,566050.0
+403518,Cole,Denver,2026,589341.0
+403518,Cole,Denver,2027,614117.0
+403518,Cole,Denver,2028,639892.0
+403518,Cole,Denver,2029,666443.0
+403518,Cole,Denver,2030,694197.0
+403518,Cole,Denver,2031,723663.0
+403518,Cole,Denver,2032,755264.0
+403518,Cole,Denver,2033,787724.0
+403518,Cole,Denver,2034,820806.0
+403518,Cole,Denver,2035,854596.0
+>>>>>>> 5b2fc4407b81b4e98474795418cca772565f5b65
