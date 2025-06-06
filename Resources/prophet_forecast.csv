@@ -1,913 +1,913 @@
 Year,Neighborhood,Prophet Forecasted Home Value,YoY_Growth
-2024,Athmar Park,478760.51,
-2024,Auraria,815072.6,
-2024,Baker,629640.03,
-2024,Barnum,435294.91,
-2024,Barnum West,447313.56,
-2024,Bear Valley,560145.36,
-2024,Belcaro,1458614.42,
-2024,Berkeley,795165.6,
-2024,Berkley,488297.64,
-2024,Capitol Hill,356166.82,
-2024,Central Business District,434101.05,
-2024,Central Park,835321.19,
-2024,Chaffee Park,499555.11,
-2024,Cheesman Park,445727.09,
-2024,Cherry Creek,1182523.58,
-2024,City Park,777623.86,
-2024,City Park West,666781.23,
-2024,Civic Center,611544.97,
-2024,Clayton,519747.81,
-2024,Cole,586214.89,
-2024,College View - South Platte,439448.81,
-2024,Congress Park,846986.59,
-2024,Cory - Merrill,935982.55,
-2024,Country Club,1685973.24,
-2024,Denver International Airport,397997.53,
-2024,East Colfax,451385.93,
-2024,Elyria Swansea,384686.41,
-2024,Five Points,639459.17,
-2024,Fort Logan,593420.22,
-2024,Gateway - Green Valley Ranch,513037.95,
-2024,Globeville,405084.88,
-2024,Goldsmith,508255.84,
-2024,Hale,672303.22,
-2024,Hampden,546057.55,
-2024,Hampden South,536431.55,
-2024,Harvey Park,513373.03,
-2024,Harvey Park South,569629.87,
-2024,Highland,778297.2,
-2024,Hilltop,1563280.71,
-2024,Indian Creek,410686.29,
-2024,Jefferson Park,711815.86,
-2024,Lincoln Park,470490.4,
-2024,Lowry Field,850711.5,
-2024,Mar Lee,458254.38,
-2024,Montbello,457414.64,
-2024,Montclair,723795.03,
-2024,North Capitol Hill,514710.81,
-2024,North Park Hill,705342.04,
-2024,Northeast Park Hill,503596.61,
-2024,Overland,544007.47,
-2024,Platt Park,869839.15,
-2024,Regis,617831.29,
-2024,Rosedale,728622.17,
-2024,Ruby Hill,463498.48,
-2024,Skyland,628278.79,
-2024,Sloan Lake,856420.47,
-2024,South Park Hill,971484.01,
-2024,Southmoor Park,742137.57,
-2024,Speer,561459.79,
-2024,Sunnyside,702826.05,
-2024,Union Station,688858.09,
-2024,University,708230.53,
-2024,University Hills,603949.72,
-2024,University Park,1082366.39,
-2024,Valverde,427473.57,
-2024,Villa Park,454503.34,
-2024,Virginia Village,648366.52,
-2024,Washington Park,1243839.86,
-2024,Washington Park West,900115.27,
-2024,Washington Virginia Vale,504991.94,
-2024,Wellshire,1159065.83,
-2024,West Colfax,720152.1,
-2024,West Highland,836739.83,
-2024,Westwood,398342.29,
-2024,Whittier,710372.17,
-2024,Windsor,263915.17,
-2025,Athmar Park,503531.55,5.17
-2025,Auraria,797031.06,-2.21
-2025,Baker,652892.36,3.69
-2025,Barnum,458418.87,5.31
-2025,Barnum West,472030.86,5.53
-2025,Bear Valley,591516.61,5.6
-2025,Belcaro,1549501.2,6.23
-2025,Berkeley,836959.83,5.26
-2025,Berkley,490800.33,0.51
-2025,Capitol Hill,365747.84,2.69
-2025,Central Business District,438937.79,1.11
-2025,Central Park,874637.02,4.71
-2025,Chaffee Park,526069.44,5.31
-2025,Cheesman Park,457632.26,2.67
-2025,Cherry Creek,1237790.94,4.67
-2025,City Park,809064.98,4.04
-2025,City Park West,690792.77,3.6
-2025,Civic Center,619550.17,1.31
-2025,Clayton,541406.01,4.17
-2025,Cole,612743.37,4.53
-2025,College View - South Platte,463944.99,5.57
-2025,Congress Park,887840.28,4.82
-2025,Cory - Merrill,984387.43,5.17
-2025,Country Club,1787038.36,5.99
-2025,Denver International Airport,413738.16,3.95
-2025,East Colfax,472740.97,4.73
-2025,Elyria Swansea,404926.21,5.26
-2025,Five Points,662877.07,3.66
-2025,Fort Logan,627054.96,5.67
-2025,Gateway - Green Valley Ranch,543275.54,5.89
-2025,Globeville,424050.7,4.68
-2025,Goldsmith,533296.22,4.93
-2025,Hale,704119.42,4.73
-2025,Hampden,574783.46,5.26
-2025,Hampden South,562465.85,4.85
-2025,Harvey Park,541932.03,5.56
-2025,Harvey Park South,600610.0,5.44
-2025,Highland,816002.41,4.84
-2025,Hilltop,1676006.05,7.21
-2025,Indian Creek,430311.0,4.78
-2025,Jefferson Park,747877.6,5.07
-2025,Lincoln Park,486914.33,3.49
-2025,Lowry Field,889608.41,4.57
-2025,Mar Lee,483018.66,5.4
-2025,Montbello,483779.13,5.76
-2025,Montclair,760878.81,5.12
-2025,North Capitol Hill,528587.32,2.7
-2025,North Park Hill,741200.71,5.08
-2025,Northeast Park Hill,526947.61,4.64
-2025,Overland,571030.22,4.97
-2025,Platt Park,913658.61,5.04
-2025,Regis,650833.55,5.34
-2025,Rosedale,765326.27,5.04
-2025,Ruby Hill,488001.62,5.29
-2025,Skyland,657548.44,4.66
-2025,Sloan Lake,902168.55,5.34
-2025,South Park Hill,1024389.36,5.45
-2025,Southmoor Park,782310.34,5.41
-2025,Speer,582312.1,3.71
-2025,Sunnyside,740828.45,5.41
-2025,Union Station,700596.21,1.7
-2025,University,742821.57,4.88
-2025,University Hills,635544.95,5.23
-2025,University Park,1145550.39,5.84
-2025,Valverde,449279.47,5.1
-2025,Villa Park,478500.6,5.28
-2025,Virginia Village,682470.17,5.26
-2025,Washington Park,1318503.38,6.0
-2025,Washington Park West,944586.49,4.94
-2025,Washington Virginia Vale,531055.35,5.16
-2025,Wellshire,1235505.98,6.59
-2025,West Colfax,756182.19,5.0
-2025,West Highland,880376.64,5.22
-2025,Westwood,419312.07,5.26
-2025,Whittier,743465.16,4.66
-2025,Windsor,276200.67,4.66
-2026,Athmar Park,527795.26,4.82
-2026,Auraria,779501.33,-2.2
-2026,Baker,675538.72,3.47
-2026,Barnum,480959.4,4.92
-2026,Barnum West,496310.71,5.14
-2026,Bear Valley,622366.67,5.22
-2026,Belcaro,1638914.61,5.77
-2026,Berkeley,878149.01,4.92
-2026,Berkley,493578.3,0.57
-2026,Capitol Hill,375072.29,2.55
-2026,Central Business District,443546.93,1.05
-2026,Central Park,913573.92,4.45
-2026,Chaffee Park,551912.25,4.91
-2026,Cheesman Park,469045.04,2.49
-2026,Cherry Creek,1292040.59,4.38
-2026,City Park,839651.69,3.78
-2026,City Park West,714102.38,3.37
-2026,Civic Center,627309.67,1.25
-2026,Clayton,562685.81,3.93
-2026,Cole,638771.56,4.25
-2026,College View - South Platte,487852.22,5.15
-2026,Congress Park,927745.35,4.49
-2026,Cory - Merrill,1031828.44,4.82
-2026,Country Club,1886381.06,5.56
-2026,Denver International Airport,429319.01,3.77
-2026,East Colfax,493609.76,4.41
-2026,Elyria Swansea,424591.0,4.86
-2026,Five Points,685667.39,3.44
-2026,Fort Logan,660059.46,5.26
-2026,Gateway - Green Valley Ranch,573031.84,5.48
-2026,Globeville,442594.82,4.37
-2026,Goldsmith,557873.48,4.61
-2026,Hale,735196.73,4.41
-2026,Hampden,602995.36,4.91
-2026,Hampden South,587897.81,4.52
-2026,Harvey Park,569996.57,5.18
-2026,Harvey Park South,631006.12,5.06
-2026,Highland,853133.61,4.55
-2026,Hilltop,1787386.76,6.65
-2026,Indian Creek,449672.86,4.5
-2026,Jefferson Park,783562.54,4.77
-2026,Lincoln Park,502934.76,3.29
-2026,Lowry Field,928034.95,4.32
-2026,Mar Lee,507368.86,5.04
-2026,Montbello,509730.42,5.36
-2026,Montclair,797133.61,4.76
-2026,North Capitol Hill,542168.37,2.57
-2026,North Park Hill,776268.77,4.73
-2026,Northeast Park Hill,549812.42,4.34
-2026,Overland,597512.84,4.64
-2026,Platt Park,956651.21,4.71
-2026,Regis,683449.52,5.01
-2026,Rosedale,801245.36,4.69
-2026,Ruby Hill,511946.65,4.91
-2026,Skyland,686156.87,4.35
-2026,Sloan Lake,947322.88,5.01
-2026,South Park Hill,1076219.03,5.06
-2026,Southmoor Park,821865.87,5.06
-2026,Speer,602522.27,3.47
-2026,Sunnyside,778245.21,5.05
-2026,Union Station,711548.46,1.56
-2026,University,776554.23,4.54
-2026,University Hills,666635.12,4.89
-2026,University Park,1207500.45,5.41
-2026,Valverde,470550.97,4.73
-2026,Villa Park,502041.51,4.92
-2026,Virginia Village,715873.32,4.89
-2026,Washington Park,1392058.46,5.58
-2026,Washington Park West,988152.35,4.61
-2026,Washington Virginia Vale,556630.96,4.82
-2026,Wellshire,1311391.72,6.14
-2026,West Colfax,791707.11,4.7
-2026,West Highland,923237.07,4.87
-2026,Westwood,439916.8,4.91
-2026,Whittier,775912.96,4.36
-2026,Windsor,288434.15,4.43
-2027,Athmar Park,552057.82,4.6
-2027,Auraria,761973.01,-2.25
-2027,Baker,698183.76,3.35
-2027,Barnum,503498.59,4.69
-2027,Barnum West,520589.54,4.89
-2027,Bear Valley,653215.53,4.96
-2027,Belcaro,1728324.83,5.46
-2027,Berkeley,919336.84,4.69
-2027,Berkley,496357.03,0.56
-2027,Capitol Hill,384396.18,2.49
-2027,Central Business District,448155.56,1.04
-2027,Central Park,952509.99,4.26
-2027,Chaffee Park,577753.5,4.68
-2027,Cheesman Park,480456.67,2.43
-2027,Cherry Creek,1346288.16,4.2
-2027,City Park,870236.45,3.64
-2027,City Park West,737410.46,3.26
-2027,Civic Center,635068.53,1.24
-2027,Clayton,583964.83,3.78
-2027,Cole,664798.66,4.07
-2027,College View - South Platte,511758.07,4.9
-2027,Congress Park,967648.34,4.3
-2027,Cory - Merrill,1079267.32,4.6
-2027,Country Club,1985719.89,5.27
-2027,Denver International Airport,444899.49,3.63
-2027,East Colfax,514477.42,4.23
-2027,Elyria Swansea,444254.51,4.63
-2027,Five Points,708456.38,3.32
-2027,Fort Logan,693062.51,5.0
-2027,Gateway - Green Valley Ranch,602787.11,5.19
-2027,Globeville,461137.97,4.19
-2027,Goldsmith,582449.71,4.41
-2027,Hale,766272.37,4.23
-2027,Hampden,631206.1,4.68
-2027,Hampden South,613328.43,4.33
-2027,Harvey Park,598059.99,4.92
-2027,Harvey Park South,661400.87,4.82
-2027,Highland,890263.62,4.35
-2027,Hilltop,1898764.72,6.23
-2027,Indian Creek,469034.28,4.31
-2027,Jefferson Park,819246.84,4.55
-2027,Lincoln Park,518954.33,3.19
-2027,Lowry Field,966460.43,4.14
-2027,Mar Lee,531718.13,4.8
-2027,Montbello,535680.77,5.09
-2027,Montclair,833386.58,4.55
-2027,North Capitol Hill,555748.81,2.5
-2027,North Park Hill,811335.07,4.52
-2027,Northeast Park Hill,572676.15,4.16
-2027,Overland,623994.22,4.43
-2027,Platt Park,999641.97,4.49
-2027,Regis,716064.65,4.77
-2027,Rosedale,837162.7,4.48
-2027,Ruby Hill,535890.38,4.68
-2027,Skyland,714763.81,4.17
-2027,Sloan Lake,992475.98,4.77
-2027,South Park Hill,1128046.34,4.82
-2027,Southmoor Park,861420.06,4.81
-2027,Speer,622730.99,3.35
-2027,Sunnyside,815660.7,4.81
-2027,Union Station,722498.84,1.54
-2027,University,810284.94,4.34
-2027,University Hills,697724.19,4.66
-2027,University Park,1269447.82,5.13
-2027,Valverde,491821.22,4.52
-2027,Villa Park,525581.38,4.69
-2027,Virginia Village,749274.9,4.67
-2027,Washington Park,1465611.12,5.28
-2027,Washington Park West,1031716.2,4.41
-2027,Washington Virginia Vale,582205.47,4.59
-2027,Wellshire,1387276.39,5.79
-2027,West Colfax,827230.98,4.49
-2027,West Highland,966095.79,4.64
-2027,Westwood,460520.7,4.68
-2027,Whittier,808359.36,4.18
-2027,Windsor,300667.61,4.24
-2028,Athmar Park,575893.51,4.32
-2028,Auraria,744871.89,-2.24
-2028,Baker,720291.83,3.17
-2028,Barnum,525529.09,4.38
-2028,Barnum West,544515.27,4.6
-2028,Bear Valley,683642.43,4.66
-2028,Belcaro,1816496.29,5.1
-2028,Berkeley,960041.44,4.43
-2028,Berkley,499391.99,0.61
-2028,Capitol Hill,393492.89,2.37
-2028,Central Business District,452551.1,0.98
-2028,Central Park,991178.11,4.06
-2028,Chaffee Park,603006.47,4.37
-2028,Cheesman Park,491424.6,2.28
-2028,Cherry Creek,1399634.13,3.96
-2028,City Park,900073.49,3.43
-2028,City Park West,760083.85,3.07
-2028,Civic Center,642620.39,1.19
-2028,Clayton,604918.45,3.59
-2028,Cole,690402.61,3.85
-2028,College View - South Platte,535158.33,4.57
-2028,Congress Park,1006712.73,4.04
-2028,Cory - Merrill,1125867.96,4.32
-2028,Country Club,2083615.06,4.93
-2028,Denver International Airport,460375.24,3.48
-2028,East Colfax,534932.31,3.98
-2028,Elyria Swansea,463399.09,4.31
-2028,Five Points,730676.19,3.14
-2028,Fort Logan,725543.48,4.69
-2028,Gateway - Green Valley Ranch,632146.08,4.87
-2028,Globeville,479323.32,3.94
-2028,Goldsmith,606636.79,4.15
-2028,Hale,796711.72,3.97
-2028,Hampden,658991.76,4.4
-2028,Hampden South,638233.94,4.06
-2028,Harvey Park,625716.35,4.62
-2028,Harvey Park South,691316.54,4.52
-2028,Highland,926913.94,4.12
-2028,Hilltop,2009055.31,5.81
-2028,Indian Creek,488167.1,4.08
-2028,Jefferson Park,854628.31,4.32
-2028,Lincoln Park,534620.61,3.02
-2028,Lowry Field,1004533.68,3.94
-2028,Mar Lee,555725.1,4.51
-2028,Montbello,561301.32,4.78
-2028,Montclair,868917.64,4.26
-2028,North Capitol Hill,569072.83,2.4
-2028,North Park Hill,845713.0,4.24
-2028,Northeast Park Hill,595122.52,3.92
-2028,Overland,650025.25,4.17
-2028,Platt Park,1041932.58,4.23
-2028,Regis,748389.4,4.51
-2028,Rosedale,872411.4,4.21
-2028,Ruby Hill,559361.78,4.38
-2028,Skyland,742797.7,3.92
-2028,Sloan Lake,1037152.06,4.5
-2028,South Park Hill,1178942.07,4.51
-2028,Southmoor Park,900461.96,4.53
-2028,Speer,642364.97,3.15
-2028,Sunnyside,852600.05,4.53
-2028,Union Station,732727.22,1.42
-2028,University,843268.13,4.07
-2028,University Hills,728399.94,4.4
-2028,University Park,1330320.37,4.8
-2028,Valverde,512630.15,4.23
-2028,Villa Park,548743.0,4.41
-2028,Virginia Village,782074.28,4.38
-2028,Washington Park,1538249.53,4.96
-2028,Washington Park West,1074495.94,4.15
-2028,Washington Virginia Vale,607373.69,4.32
-2028,Wellshire,1462793.44,5.44
-2028,West Colfax,862343.06,4.24
-2028,West Highland,1008304.05,4.37
-2028,Westwood,480823.22,4.41
-2028,Whittier,840245.04,3.94
-2028,Windsor,312870.51,4.06
-2029,Athmar Park,600664.54,4.3
-2029,Auraria,726830.35,-2.42
-2029,Baker,743544.15,3.23
-2029,Barnum,548653.05,4.4
-2029,Barnum West,569232.56,4.54
-2029,Bear Valley,715013.69,4.59
-2029,Belcaro,1907383.07,5.0
-2029,Berkeley,1001835.67,4.35
-2029,Berkley,501894.68,0.5
-2029,Capitol Hill,403073.9,2.43
-2029,Central Business District,457387.84,1.07
-2029,Central Park,1030493.94,3.97
-2029,Chaffee Park,629520.8,4.4
-2029,Cheesman Park,503329.77,2.42
-2029,Cherry Creek,1454901.48,3.95
-2029,City Park,931514.61,3.49
-2029,City Park West,784095.39,3.16
-2029,Civic Center,650625.59,1.25
-2029,Clayton,626576.65,3.58
-2029,Cole,716931.08,3.84
-2029,College View - South Platte,559654.51,4.58
-2029,Congress Park,1047566.41,4.06
-2029,Cory - Merrill,1174272.84,4.3
-2029,Country Club,2184680.19,4.85
-2029,Denver International Airport,476115.87,3.42
-2029,East Colfax,556287.35,3.99
-2029,Elyria Swansea,483638.89,4.37
-2029,Five Points,754094.1,3.2
-2029,Fort Logan,759178.22,4.64
-2029,Gateway - Green Valley Ranch,662383.67,4.78
-2029,Globeville,498289.14,3.96
-2029,Goldsmith,631677.18,4.13
-2029,Hale,828527.92,3.99
-2029,Hampden,687717.67,4.36
-2029,Hampden South,664268.23,4.08
-2029,Harvey Park,654275.34,4.56
-2029,Harvey Park South,722296.67,4.48
-2029,Highland,964619.16,4.07
-2029,Hilltop,2121780.65,5.61
-2029,Indian Creek,507791.81,4.02
-2029,Jefferson Park,890690.05,4.22
-2029,Lincoln Park,551044.54,3.07
-2029,Lowry Field,1043430.58,3.87
-2029,Mar Lee,580489.38,4.46
-2029,Montbello,587665.81,4.7
-2029,Montclair,906001.42,4.27
-2029,North Capitol Hill,582949.34,2.44
-2029,North Park Hill,881571.68,4.24
-2029,Northeast Park Hill,618473.52,3.92
-2029,Overland,677047.99,4.16
-2029,Platt Park,1085752.04,4.21
-2029,Regis,781391.66,4.41
-2029,Rosedale,909115.49,4.21
-2029,Ruby Hill,583864.92,4.38
-2029,Skyland,772067.35,3.94
-2029,Sloan Lake,1082900.14,4.41
-2029,South Park Hill,1231847.43,4.49
-2029,Southmoor Park,940634.74,4.46
-2029,Speer,663217.29,3.25
-2029,Sunnyside,890602.45,4.46
-2029,Union Station,744465.34,1.6
-2029,University,877859.17,4.1
-2029,University Hills,759995.17,4.34
-2029,University Park,1393504.36,4.75
-2029,Valverde,534436.05,4.25
-2029,Villa Park,572740.26,4.37
-2029,Virginia Village,816177.93,4.36
-2029,Washington Park,1612913.05,4.85
-2029,Washington Park West,1118967.17,4.14
-2029,Washington Virginia Vale,633437.1,4.29
-2029,Wellshire,1539233.6,5.23
-2029,West Colfax,898373.14,4.18
-2029,West Highland,1051940.87,4.33
-2029,Westwood,501793.0,4.36
-2029,Whittier,873338.03,3.94
-2029,Windsor,325156.0,3.93
-2030,Athmar Park,624928.26,4.04
-2030,Auraria,709300.63,-2.41
-2030,Baker,766190.52,3.05
-2030,Barnum,571193.58,4.11
-2030,Barnum West,593512.42,4.27
-2030,Bear Valley,745863.75,4.31
-2030,Belcaro,1996796.48,4.69
-2030,Berkeley,1043024.85,4.11
-2030,Berkley,504672.65,0.55
-2030,Capitol Hill,412398.36,2.31
-2030,Central Business District,461996.98,1.01
-2030,Central Park,1069430.84,3.78
-2030,Chaffee Park,655363.61,4.11
-2030,Cheesman Park,514742.55,2.27
-2030,Cherry Creek,1509151.13,3.73
-2030,City Park,962101.31,3.28
-2030,City Park West,807405.0,2.97
-2030,Civic Center,658385.08,1.19
-2030,Clayton,647856.45,3.4
-2030,Cole,742959.27,3.63
-2030,College View - South Platte,583561.74,4.27
-2030,Congress Park,1087471.48,3.81
-2030,Cory - Merrill,1221713.85,4.04
-2030,Country Club,2284022.88,4.55
-2030,Denver International Airport,491696.72,3.27
-2030,East Colfax,577156.13,3.75
-2030,Elyria Swansea,503303.67,4.07
-2030,Five Points,776884.42,3.02
-2030,Fort Logan,792182.72,4.35
-2030,Gateway - Green Valley Ranch,692139.97,4.49
-2030,Globeville,516833.26,3.72
-2030,Goldsmith,656254.44,3.89
-2030,Hale,859605.23,3.75
-2030,Hampden,715929.58,4.1
-2030,Hampden South,689700.2,3.83
-2030,Harvey Park,682339.89,4.29
-2030,Harvey Park South,752692.79,4.21
-2030,Highland,1001750.35,3.85
-2030,Hilltop,2233161.37,5.25
-2030,Indian Creek,527153.67,3.81
-2030,Jefferson Park,926375.0,4.01
-2030,Lincoln Park,567064.97,2.91
-2030,Lowry Field,1081857.13,3.68
-2030,Mar Lee,604839.57,4.19
-2030,Montbello,613617.1,4.42
-2030,Montclair,942256.22,4.0
-2030,North Capitol Hill,596530.39,2.33
-2030,North Park Hill,916639.73,3.98
-2030,Northeast Park Hill,641338.33,3.7
-2030,Overland,703530.61,3.91
-2030,Platt Park,1128744.64,3.96
-2030,Regis,814007.62,4.17
-2030,Rosedale,945034.59,3.95
-2030,Ruby Hill,607809.96,4.1
-2030,Skyland,800675.78,3.71
-2030,Sloan Lake,1128054.47,4.17
-2030,South Park Hill,1283677.1,4.21
-2030,Southmoor Park,980190.26,4.21
-2030,Speer,683427.45,3.05
-2030,Sunnyside,928019.22,4.2
-2030,Union Station,755417.59,1.47
-2030,University,911591.83,3.84
-2030,University Hills,791085.35,4.09
-2030,University Park,1455454.43,4.45
-2030,Valverde,555707.55,3.98
-2030,Villa Park,596281.17,4.11
-2030,Virginia Village,849581.09,4.09
-2030,Washington Park,1686468.13,4.56
-2030,Washington Park West,1162533.02,3.89
-2030,Washington Virginia Vale,659012.71,4.04
-2030,Wellshire,1615119.34,4.93
-2030,West Colfax,933898.06,3.95
-2030,West Highland,1094801.29,4.07
-2030,Westwood,522397.73,4.11
-2030,Whittier,905785.83,3.72
-2030,Windsor,337389.49,3.76
-2031,Athmar Park,649190.81,3.88
-2031,Auraria,691772.3,-2.47
-2031,Baker,788835.56,2.96
-2031,Barnum,593732.77,3.95
-2031,Barnum West,617791.25,4.09
-2031,Bear Valley,776712.61,4.14
-2031,Belcaro,2086206.7,4.48
-2031,Berkeley,1084212.69,3.95
-2031,Berkley,507451.38,0.55
-2031,Capitol Hill,421722.25,2.26
-2031,Central Business District,466605.61,1.0
-2031,Central Park,1108366.91,3.64
-2031,Chaffee Park,681204.86,3.94
-2031,Cheesman Park,526154.18,2.22
-2031,Cherry Creek,1563398.7,3.59
-2031,City Park,992686.08,3.18
-2031,City Park West,830713.08,2.89
-2031,Civic Center,666143.94,1.18
-2031,Clayton,669135.47,3.28
-2031,Cole,768986.37,3.5
-2031,College View - South Platte,607467.59,4.1
-2031,Congress Park,1127374.48,3.67
-2031,Cory - Merrill,1269152.73,3.88
-2031,Country Club,2383361.72,4.35
-2031,Denver International Airport,507277.2,3.17
-2031,East Colfax,598023.8,3.62
-2031,Elyria Swansea,522967.19,3.91
-2031,Five Points,799673.41,2.93
-2031,Fort Logan,825185.77,4.17
-2031,Gateway - Green Valley Ranch,721895.24,4.3
-2031,Globeville,535376.4,3.59
-2031,Goldsmith,680830.67,3.74
-2031,Hale,890680.88,3.62
-2031,Hampden,744140.31,3.94
-2031,Hampden South,715130.82,3.69
-2031,Harvey Park,710403.31,4.11
-2031,Harvey Park South,783087.54,4.04
-2031,Highland,1038880.36,3.71
-2031,Hilltop,2344539.32,4.99
-2031,Indian Creek,546515.08,3.67
-2031,Jefferson Park,962059.29,3.85
-2031,Lincoln Park,583084.53,2.82
-2031,Lowry Field,1120282.6,3.55
-2031,Mar Lee,629188.85,4.03
-2031,Montbello,639567.45,4.23
-2031,Montclair,978509.19,3.85
-2031,North Capitol Hill,610110.83,2.28
-2031,North Park Hill,951706.03,3.83
-2031,Northeast Park Hill,664202.06,3.57
-2031,Overland,730011.99,3.76
-2031,Platt Park,1171735.4,3.81
-2031,Regis,846622.75,4.01
-2031,Rosedale,980951.93,3.8
-2031,Ruby Hill,631753.69,3.94
-2031,Skyland,829282.73,3.57
-2031,Sloan Lake,1173207.58,4.0
-2031,South Park Hill,1335504.41,4.04
-2031,Southmoor Park,1019744.45,4.04
-2031,Speer,703636.18,2.96
-2031,Sunnyside,965434.7,4.03
-2031,Union Station,766367.96,1.45
-2031,University,945322.54,3.7
-2031,University Hills,822174.41,3.93
-2031,University Park,1517401.79,4.26
-2031,Valverde,576977.81,3.83
-2031,Villa Park,619821.03,3.95
-2031,Virginia Village,882982.67,3.93
-2031,Washington Park,1760020.8,4.36
-2031,Washington Park West,1206096.88,3.75
-2031,Washington Virginia Vale,684587.22,3.88
-2031,Wellshire,1691004.01,4.7
-2031,West Colfax,969421.93,3.8
-2031,West Highland,1137660.01,3.91
-2031,Westwood,543001.64,3.94
-2031,Whittier,938232.23,3.58
-2031,Windsor,349622.95,3.63
-2032,Athmar Park,673026.5,3.67
-2032,Auraria,674671.18,-2.47
-2032,Baker,810943.63,2.8
-2032,Barnum,615763.27,3.71
-2032,Barnum West,641716.97,3.87
-2032,Bear Valley,807139.51,3.92
-2032,Belcaro,2174378.16,4.23
-2032,Berkeley,1124917.28,3.75
-2032,Berkley,510486.34,0.6
-2032,Capitol Hill,430818.95,2.16
-2032,Central Business District,471001.15,0.94
-2032,Central Park,1147035.03,3.49
-2032,Chaffee Park,706457.84,3.71
-2032,Cheesman Park,537122.1,2.08
-2032,Cherry Creek,1616744.67,3.41
-2032,City Park,1022523.12,3.01
-2032,City Park West,853386.48,2.73
-2032,Civic Center,673695.8,1.13
-2032,Clayton,690089.1,3.13
-2032,Cole,794590.32,3.33
-2032,College View - South Platte,630867.85,3.85
-2032,Congress Park,1166438.86,3.47
-2032,Cory - Merrill,1315753.37,3.67
-2032,Country Club,2481256.88,4.11
-2032,Denver International Airport,522752.95,3.05
-2032,East Colfax,618478.69,3.42
-2032,Elyria Swansea,542111.77,3.66
-2032,Five Points,821893.22,2.78
-2032,Fort Logan,857666.75,3.94
-2032,Gateway - Green Valley Ranch,751254.2,4.07
-2032,Globeville,553561.76,3.4
-2032,Goldsmith,705017.75,3.55
-2032,Hale,921120.22,3.42
-2032,Hampden,771925.98,3.73
-2032,Hampden South,740036.32,3.48
-2032,Harvey Park,738059.66,3.89
-2032,Harvey Park South,813003.2,3.82
-2032,Highland,1075530.68,3.53
-2032,Hilltop,2454829.91,4.7
-2032,Indian Creek,565647.9,3.5
-2032,Jefferson Park,997440.76,3.68
-2032,Lincoln Park,598750.81,2.69
-2032,Lowry Field,1158355.86,3.4
-2032,Mar Lee,653195.81,3.82
-2032,Montbello,665188.0,4.01
-2032,Montclair,1014040.26,3.63
-2032,North Capitol Hill,623434.84,2.18
-2032,North Park Hill,986083.97,3.61
-2032,Northeast Park Hill,686648.43,3.38
-2032,Overland,756043.02,3.57
-2032,Platt Park,1214026.01,3.61
-2032,Regis,878947.5,3.82
-2032,Rosedale,1016200.62,3.59
-2032,Ruby Hill,655225.09,3.72
-2032,Skyland,857316.61,3.38
-2032,Sloan Lake,1217883.66,3.81
-2032,South Park Hill,1386400.14,3.81
-2032,Southmoor Park,1058786.36,3.83
-2032,Speer,723270.16,2.79
-2032,Sunnyside,1002374.06,3.83
-2032,Union Station,776596.35,1.33
-2032,University,978305.73,3.49
-2032,University Hills,852850.16,3.73
-2032,University Park,1578274.34,4.01
-2032,Valverde,597786.73,3.61
-2032,Villa Park,642982.66,3.74
-2032,Virginia Village,915782.05,3.71
-2032,Washington Park,1832659.2,4.13
-2032,Washington Park West,1248876.62,3.55
-2032,Washington Virginia Vale,709755.44,3.68
-2032,Wellshire,1766521.06,4.47
-2032,West Colfax,1004534.01,3.62
-2032,West Highland,1179868.28,3.71
-2032,Westwood,563304.15,3.74
-2032,Whittier,970117.91,3.4
-2032,Windsor,361825.84,3.49
-2033,Athmar Park,697797.53,3.68
-2033,Auraria,656629.64,-2.67
-2033,Baker,834195.95,2.87
-2033,Barnum,638887.23,3.76
-2033,Barnum West,666434.26,3.85
-2033,Bear Valley,838510.76,3.89
-2033,Belcaro,2265264.94,4.18
-2033,Berkeley,1166711.51,3.72
-2033,Berkley,512989.02,0.49
-2033,Capitol Hill,440399.97,2.22
-2033,Central Business District,475837.89,1.03
-2033,Central Park,1186350.86,3.43
-2033,Chaffee Park,732972.16,3.75
-2033,Cheesman Park,549027.28,2.22
-2033,Cherry Creek,1672012.03,3.42
-2033,City Park,1053964.24,3.07
-2033,City Park West,877398.01,2.81
-2033,Civic Center,681701.01,1.19
-2033,Clayton,711747.3,3.14
-2033,Cole,821118.79,3.34
-2033,College View - South Platte,655364.03,3.88
-2033,Congress Park,1207292.55,3.5
-2033,Cory - Merrill,1364158.25,3.68
-2033,Country Club,2582322.01,4.07
-2033,Denver International Airport,538493.58,3.01
-2033,East Colfax,639833.73,3.45
-2033,Elyria Swansea,562351.56,3.73
-2033,Five Points,845311.13,2.85
-2033,Fort Logan,891301.49,3.92
-2033,Gateway - Green Valley Ranch,781491.79,4.02
-2033,Globeville,572527.58,3.43
-2033,Goldsmith,730058.14,3.55
-2033,Hale,952936.42,3.45
-2033,Hampden,800651.89,3.72
-2033,Hampden South,766070.62,3.52
-2033,Harvey Park,766618.66,3.87
-2033,Harvey Park South,843983.34,3.81
-2033,Highland,1113235.9,3.51
-2033,Hilltop,2567555.25,4.59
-2033,Indian Creek,585272.61,3.47
-2033,Jefferson Park,1033502.5,3.62
-2033,Lincoln Park,615174.74,2.74
-2033,Lowry Field,1197252.76,3.36
-2033,Mar Lee,677960.09,3.79
-2033,Montbello,691552.49,3.96
-2033,Montclair,1051124.03,3.66
-2033,North Capitol Hill,637311.36,2.23
-2033,North Park Hill,1021942.65,3.64
-2033,Northeast Park Hill,709999.43,3.4
-2033,Overland,783065.77,3.57
-2033,Platt Park,1257845.47,3.61
-2033,Regis,911949.76,3.75
-2033,Rosedale,1052904.72,3.61
-2033,Ruby Hill,679728.23,3.74
-2033,Skyland,886586.27,3.41
-2033,Sloan Lake,1263631.74,3.76
-2033,South Park Hill,1439305.49,3.82
-2033,Southmoor Park,1098959.13,3.79
-2033,Speer,744122.47,2.88
-2033,Sunnyside,1040376.46,3.79
-2033,Union Station,788334.46,1.51
-2033,University,1012896.77,3.54
-2033,University Hills,884445.39,3.7
-2033,University Park,1641458.34,4.0
-2033,Valverde,619592.63,3.65
-2033,Villa Park,666979.92,3.73
-2033,Virginia Village,949885.7,3.72
-2033,Washington Park,1907322.72,4.07
-2033,Washington Park West,1293347.84,3.56
-2033,Washington Virginia Vale,735818.85,3.67
-2033,Wellshire,1842961.22,4.33
-2033,West Colfax,1040564.1,3.59
-2033,West Highland,1223505.09,3.7
-2033,Westwood,584273.94,3.72
-2033,Whittier,1003210.9,3.41
-2033,Windsor,374111.34,3.4
-2034,Athmar Park,722061.25,3.48
-2034,Auraria,639099.92,-2.67
-2034,Baker,856842.32,2.71
-2034,Barnum,661427.76,3.53
-2034,Barnum West,690714.12,3.64
-2034,Bear Valley,869360.82,3.68
-2034,Belcaro,2354678.35,3.95
-2034,Berkeley,1207900.69,3.53
-2034,Berkley,515767.0,0.54
-2034,Capitol Hill,449724.42,2.12
-2034,Central Business District,480447.02,0.97
-2034,Central Park,1225287.76,3.28
-2034,Chaffee Park,758814.97,3.53
-2034,Cheesman Park,560440.06,2.08
-2034,Cherry Creek,1726261.68,3.24
-2034,City Park,1084550.94,2.9
-2034,City Park West,900707.63,2.66
-2034,Civic Center,689460.5,1.14
-2034,Clayton,733027.1,2.99
-2034,Cole,847146.99,3.17
-2034,College View - South Platte,679271.26,3.65
-2034,Congress Park,1247197.62,3.31
-2034,Cory - Merrill,1411599.25,3.48
-2034,Country Club,2681664.7,3.85
-2034,Denver International Airport,554074.43,2.89
-2034,East Colfax,660702.51,3.26
-2034,Elyria Swansea,582016.35,3.5
-2034,Five Points,868101.45,2.7
-2034,Fort Logan,924305.99,3.7
-2034,Gateway - Green Valley Ranch,811248.1,3.81
-2034,Globeville,591071.7,3.24
-2034,Goldsmith,754635.4,3.37
-2034,Hale,984013.73,3.26
-2034,Hampden,828863.79,3.52
-2034,Hampden South,791502.58,3.32
-2034,Harvey Park,794683.2,3.66
-2034,Harvey Park South,874379.46,3.6
-2034,Highland,1150367.09,3.34
-2034,Hilltop,2678935.97,4.34
-2034,Indian Creek,604634.47,3.31
-2034,Jefferson Park,1069187.45,3.45
-2034,Lincoln Park,631195.18,2.6
-2034,Lowry Field,1235679.31,3.21
-2034,Mar Lee,702310.29,3.59
-2034,Montbello,717503.78,3.75
-2034,Montclair,1087378.83,3.45
-2034,North Capitol Hill,650892.41,2.13
-2034,North Park Hill,1057010.7,3.43
-2034,Northeast Park Hill,732864.24,3.22
-2034,Overland,809548.38,3.38
-2034,Platt Park,1300838.07,3.42
-2034,Regis,944565.73,3.58
-2034,Rosedale,1088823.81,3.41
-2034,Ruby Hill,703673.27,3.52
-2034,Skyland,915194.7,3.23
-2034,Sloan Lake,1308786.07,3.57
-2034,South Park Hill,1491135.16,3.6
-2034,Southmoor Park,1138514.66,3.6
-2034,Speer,764332.63,2.72
-2034,Sunnyside,1077793.22,3.6
-2034,Union Station,799286.71,1.39
-2034,University,1046629.43,3.33
-2034,University Hills,915535.57,3.52
-2034,University Park,1703408.4,3.77
-2034,Valverde,640864.13,3.43
-2034,Villa Park,690520.83,3.53
-2034,Virginia Village,983288.86,3.52
-2034,Washington Park,1980877.8,3.86
-2034,Washington Park West,1336913.7,3.37
-2034,Washington Virginia Vale,761394.46,3.48
-2034,Wellshire,1918846.96,4.12
-2034,West Colfax,1076089.01,3.41
-2034,West Highland,1266365.52,3.5
-2034,Westwood,604878.67,3.53
-2034,Whittier,1035658.7,3.23
-2034,Windsor,386344.82,3.27
-2035,Athmar Park,735104.54,1.81
-2035,Auraria,626140.17,-2.03
-2035,Baker,868077.52,1.31
-2035,Barnum,673383.2,1.81
-2035,Barnum West,703605.67,1.87
-2035,Bear Valley,886182.04,1.93
-2035,Belcaro,2403640.13,2.08
-2035,Berkeley,1229960.96,1.83
-2035,Berkley,514921.41,-0.16
-2035,Capitol Hill,454474.05,1.06
-2035,Central Business District,482496.41,0.43
-2035,Central Park,1245253.09,1.63
-2035,Chaffee Park,772903.76,1.86
-2035,Cheesman Park,566359.0,1.06
-2035,Cherry Creek,1754707.9,1.65
-2035,City Park,1100792.53,1.5
-2035,City Park West,912461.04,1.3
-2035,Civic Center,693117.85,0.53
-2035,Clayton,743931.77,1.49
-2035,Cole,860416.66,1.57
-2035,College View - South Platte,692259.31,1.91
-2035,Congress Park,1268395.74,1.7
-2035,Cory - Merrill,1436664.16,1.78
-2035,Country Club,2736004.06,2.03
-2035,Denver International Airport,562204.26,1.47
-2035,East Colfax,672037.6,1.72
-2035,Elyria Swansea,592490.62,1.8
-2035,Five Points,879878.68,1.36
-2035,Fort Logan,942416.64,1.96
-2035,Gateway - Green Valley Ranch,827368.25,1.99
-2035,Globeville,601044.15,1.69
-2035,Goldsmith,767783.73,1.74
-2035,Hale,1000414.0,1.67
-2035,Hampden,844043.76,1.83
-2035,Hampden South,805040.96,1.71
-2035,Harvey Park,809808.3,1.9
-2035,Harvey Park South,890803.75,1.88
-2035,Highland,1169672.12,1.68
-2035,Hilltop,2739044.81,2.24
-2035,Indian Creek,614276.59,1.59
-2035,Jefferson Park,1087768.44,1.74
-2035,Lincoln Park,639073.48,1.25
-2035,Lowry Field,1256163.62,1.66
-2035,Mar Lee,715104.67,1.82
-2035,Montbello,731601.27,1.96
-2035,Montclair,1106551.9,1.76
-2035,North Capitol Hill,657826.42,1.07
-2035,North Park Hill,1075659.88,1.76
-2035,Northeast Park Hill,745046.3,1.66
-2035,Overland,823888.99,1.77
-2035,Platt Park,1323581.2,1.75
-2035,Regis,962080.84,1.85
-2035,Rosedale,1108059.78,1.77
-2035,Ruby Hill,716670.87,1.85
-2035,Skyland,930375.38,1.66
-2035,Sloan Lake,1332441.11,1.81
-2035,South Park Hill,1519027.71,1.87
-2035,Southmoor Park,1159981.02,1.89
-2035,Speer,774874.84,1.38
-2035,Sunnyside,1097663.3,1.84
-2035,Union Station,805064.5,0.72
-2035,University,1064493.39,1.71
-2035,University Hills,931919.82,1.79
-2035,University Park,1736615.17,1.95
-2035,Valverde,652085.2,1.75
-2035,Villa Park,702961.43,1.8
-2035,Virginia Village,1001263.93,1.83
-2035,Washington Park,2020355.46,1.99
-2035,Washington Park West,1359985.38,1.73
-2035,Washington Virginia Vale,775203.98,1.81
-2035,Wellshire,1959848.99,2.14
-2035,West Colfax,1094570.17,1.72
-2035,West Highland,1289056.48,1.79
-2035,Westwood,615806.08,1.81
-2035,Whittier,1052198.37,1.6
-2035,Windsor,392611.85,1.62
+2024,Athmar Park,505390.14,
+2024,Auraria,895731.77,
+2024,Baker,671885.06,
+2024,Barnum,459317.52,
+2024,Barnum West,470907.83,
+2024,Bear Valley,586258.78,
+2024,Belcaro,1527504.58,
+2024,Berkeley,833551.92,
+2024,Berkley,476727.84,
+2024,Capitol Hill,371341.55,
+2024,Central Business District,448056.53,
+2024,Central Park,902785.11,
+2024,Chaffee Park,519540.67,
+2024,Cheesman Park,465825.32,
+2024,Cherry Creek,1230177.41,
+2024,City Park,816929.87,
+2024,City Park West,699774.36,
+2024,Civic Center,642891.77,
+2024,Clayton,548846.53,
+2024,Cole,620634.16,
+2024,College View - South Platte,463942.58,
+2024,Congress Park,890406.31,
+2024,Cory - Merrill,984156.88,
+2024,Country Club,1757461.54,
+2024,Denver International Airport,430639.07,
+2024,East Colfax,477992.04,
+2024,Elyria Swansea,411436.87,
+2024,Five Points,672849.93,
+2024,Fort Logan,624492.44,
+2024,Gateway - Green Valley Ranch,541538.69,
+2024,Globeville,437836.05,
+2024,Goldsmith,532128.37,
+2024,Hale,708392.53,
+2024,Hampden,570778.86,
+2024,Hampden South,561842.39,
+2024,Harvey Park,537586.73,
+2024,Harvey Park South,602574.71,
+2024,Highland,813508.98,
+2024,Hilltop,1634676.26,
+2024,Indian Creek,433513.7,
+2024,Jefferson Park,746462.75,
+2024,Lincoln Park,500550.85,
+2024,Lowry Field,915140.28,
+2024,Mar Lee,480600.43,
+2024,Montbello,478730.75,
+2024,Montclair,764197.25,
+2024,North Capitol Hill,532633.47,
+2024,North Park Hill,738432.29,
+2024,Northeast Park Hill,527077.69,
+2024,Overland,574106.97,
+2024,Platt Park,913364.43,
+2024,Regis,642953.69,
+2024,Rosedale,769992.56,
+2024,Ruby Hill,488263.73,
+2024,Skyland,663304.45,
+2024,Sloan Lake,902685.34,
+2024,South Park Hill,1019902.71,
+2024,Southmoor Park,771512.45,
+2024,Speer,591762.72,
+2024,Sunnyside,735723.37,
+2024,Union Station,727687.97,
+2024,University,746526.78,
+2024,University Hills,630640.81,
+2024,University Park,1134970.67,
+2024,Valverde,453867.88,
+2024,Villa Park,484065.77,
+2024,Virginia Village,675638.12,
+2024,Washington Park,1299777.08,
+2024,Washington Park West,938442.45,
+2024,Washington Virginia Vale,529972.25,
+2024,Wellshire,1203681.41,
+2024,West Colfax,763497.91,
+2024,West Highland,881762.1,
+2024,Westwood,420051.52,
+2024,Whittier,749166.84,
+2024,Windsor,270327.5,
+2025,Athmar Park,536861.96,6.23
+2025,Auraria,922328.33,2.97
+2025,Baker,705753.72,5.04
+2025,Barnum,488355.51,6.32
+2025,Barnum West,501305.76,6.46
+2025,Bear Valley,623373.71,6.33
+2025,Belcaro,1634836.1,7.03
+2025,Berkeley,884238.39,6.08
+2025,Berkley,465996.11,-2.25
+2025,Capitol Hill,384298.86,3.49
+2025,Central Business District,456190.1,1.82
+2025,Central Park,964444.86,6.83
+2025,Chaffee Park,550060.88,5.87
+2025,Cheesman Park,482348.0,3.55
+2025,Cherry Creek,1296973.01,5.43
+2025,City Park,857636.18,4.98
+2025,City Park West,731484.51,4.53
+2025,Civic Center,660758.98,2.78
+2025,Clayton,577879.05,5.29
+2025,Cole,655689.65,5.65
+2025,College View - South Platte,494228.96,6.53
+2025,Congress Park,940861.76,5.67
+2025,Cory - Merrill,1044189.13,6.1
+2025,Country Club,1875152.84,6.7
+2025,Denver International Airport,461770.19,7.23
+2025,East Colfax,506128.34,5.89
+2025,Elyria Swansea,438697.51,6.63
+2025,Five Points,704428.6,4.69
+2025,Fort Logan,665426.81,6.55
+2025,Gateway - Green Valley Ranch,578118.79,6.75
+2025,Globeville,465675.91,6.36
+2025,Goldsmith,562438.88,5.7
+2025,Hale,748407.18,5.65
+2025,Hampden,604904.62,5.98
+2025,Hampden South,593337.9,5.61
+2025,Harvey Park,571620.1,6.33
+2025,Harvey Park South,640969.55,6.37
+2025,Highland,859562.38,5.66
+2025,Hilltop,1763464.72,7.88
+2025,Indian Creek,457795.86,5.6
+2025,Jefferson Park,790193.0,5.86
+2025,Lincoln Park,524265.02,4.74
+2025,Lowry Field,970500.33,6.05
+2025,Mar Lee,510538.88,6.23
+2025,Montbello,509816.52,6.49
+2025,Montclair,810129.5,6.01
+2025,North Capitol Hill,550505.79,3.36
+2025,North Park Hill,781688.58,5.86
+2025,Northeast Park Hill,555398.46,5.37
+2025,Overland,608633.0,6.01
+2025,Platt Park,966545.95,5.82
+2025,Regis,681576.07,6.01
+2025,Rosedale,815711.75,5.94
+2025,Ruby Hill,518941.08,6.28
+2025,Skyland,701183.0,5.71
+2025,Sloan Lake,959320.71,6.27
+2025,South Park Hill,1084160.81,6.3
+2025,Southmoor Park,818485.22,6.09
+2025,Speer,619590.14,4.7
+2025,Sunnyside,780917.04,6.14
+2025,Union Station,750604.11,3.15
+2025,University,789391.85,5.74
+2025,University Hills,668181.57,5.95
+2025,University Park,1210106.46,6.62
+2025,Valverde,482738.26,6.36
+2025,Villa Park,515534.55,6.5
+2025,Virginia Village,715494.1,5.9
+2025,Washington Park,1387594.89,6.76
+2025,Washington Park West,991731.0,5.68
+2025,Washington Virginia Vale,561696.29,5.99
+2025,Wellshire,1290266.35,7.19
+2025,West Colfax,809669.81,6.05
+2025,West Highland,935784.0,6.13
+2025,Westwood,446441.34,6.28
+2025,Whittier,791473.3,5.65
+2025,Windsor,283962.86,5.04
+2026,Athmar Park,568094.98,5.82
+2026,Auraria,949360.59,2.93
+2026,Baker,739565.34,4.79
+2026,Barnum,517139.14,5.89
+2026,Barnum West,531515.2,6.03
+2026,Bear Valley,660264.12,5.92
+2026,Belcaro,1741377.56,6.52
+2026,Berkeley,934567.16,5.69
+2026,Berkley,455283.09,-2.3
+2026,Capitol Hill,397039.84,3.32
+2026,Central Business District,464054.25,1.72
+2026,Central Park,1026397.73,6.42
+2026,Chaffee Park,580051.18,5.45
+2026,Cheesman Park,498528.92,3.35
+2026,Cherry Creek,1363056.13,5.1
+2026,City Park,897908.97,4.7
+2026,City Park West,762713.82,4.27
+2026,Civic Center,678615.07,2.7
+2026,Clayton,606838.19,5.01
+2026,Cole,690607.62,5.33
+2026,College View - South Platte,524219.42,6.07
+2026,Congress Park,990893.99,5.32
+2026,Cory - Merrill,1103517.13,5.68
+2026,Country Club,1991728.45,6.22
+2026,Denver International Airport,492673.14,6.69
+2026,East Colfax,533988.53,5.5
+2026,Elyria Swansea,465729.52,6.16
+2026,Five Points,735675.34,4.44
+2026,Fort Logan,706037.23,6.1
+2026,Gateway - Green Valley Ranch,614454.35,6.29
+2026,Globeville,493533.28,5.98
+2026,Goldsmith,592506.28,5.35
+2026,Hale,788033.27,5.29
+2026,Hampden,638738.4,5.59
+2026,Hampden South,624481.2,5.25
+2026,Harvey Park,605402.32,5.91
+2026,Harvey Park South,679184.64,5.96
+2026,Highland,905188.31,5.31
+2026,Hilltop,1891069.1,7.24
+2026,Indian Creek,481974.16,5.28
+2026,Jefferson Park,833759.81,5.51
+2026,Lincoln Park,547899.3,4.51
+2026,Lowry Field,1025956.79,5.71
+2026,Mar Lee,540284.2,5.83
+2026,Montbello,540747.59,6.07
+2026,Montclair,855544.11,5.61
+2026,North Capitol Hill,568130.02,3.2
+2026,North Park Hill,824452.24,5.47
+2026,Northeast Park Hill,583473.05,5.05
+2026,Overland,642894.77,5.63
+2026,Platt Park,1019395.43,5.47
+2026,Regis,719951.09,5.63
+2026,Rosedale,861167.68,5.57
+2026,Ruby Hill,549329.2,5.86
+2026,Skyland,738703.29,5.35
+2026,Sloan Lake,1015693.48,5.88
+2026,South Park Hill,1147786.47,5.87
+2026,Southmoor Park,865035.79,5.69
+2026,Speer,647087.2,4.44
+2026,Sunnyside,825714.43,5.74
+2026,Union Station,773128.38,3.0
+2026,University,831864.41,5.38
+2026,University Hills,705405.58,5.57
+2026,University Park,1284375.07,6.14
+2026,Valverde,511396.91,5.94
+2026,Villa Park,546855.69,6.08
+2026,Virginia Village,754930.22,5.51
+2026,Washington Park,1474749.34,6.28
+2026,Washington Park West,1044374.01,5.31
+2026,Washington Virginia Vale,593161.01,5.6
+2026,Wellshire,1376525.54,6.69
+2026,West Colfax,855765.42,5.69
+2026,West Highland,989376.95,5.73
+2026,Westwood,472709.63,5.88
+2026,Whittier,833520.31,5.31
+2026,Windsor,297362.88,4.72
+2027,Athmar Park,599327.21,5.5
+2027,Auraria,976393.07,2.85
+2027,Baker,773376.46,4.57
+2027,Barnum,545921.94,5.57
+2027,Barnum West,561723.97,5.68
+2027,Bear Valley,697153.77,5.59
+2027,Belcaro,1847916.78,6.12
+2027,Berkeley,984894.8,5.39
+2027,Berkley,444570.39,-2.35
+2027,Capitol Hill,409780.21,3.21
+2027,Central Business District,471917.67,1.69
+2027,Central Park,1088350.69,6.04
+2027,Chaffee Park,610040.03,5.17
+2027,Cheesman Park,514708.82,3.25
+2027,Cherry Creek,1429137.42,4.85
+2027,City Park,938180.42,4.49
+2027,City Park West,793941.76,4.09
+2027,Civic Center,696470.82,2.63
+2027,Clayton,635796.98,4.77
+2027,Cole,725524.96,5.06
+2027,College View - South Platte,554208.94,5.72
+2027,Congress Park,1040924.91,5.05
+2027,Cory - Merrill,1162843.23,5.38
+2027,Country Club,2108300.99,5.85
+2027,Denver International Airport,523575.2,6.27
+2027,East Colfax,561847.84,5.22
+2027,Elyria Swansea,492760.81,5.8
+2027,Five Points,766921.08,4.25
+2027,Fort Logan,746646.63,5.75
+2027,Gateway - Green Valley Ranch,650789.13,5.91
+2027,Globeville,521390.41,5.64
+2027,Goldsmith,622572.93,5.07
+2027,Hale,827658.14,5.03
+2027,Hampden,672571.28,5.3
+2027,Hampden South,655623.45,4.99
+2027,Harvey Park,639183.72,5.58
+2027,Harvey Park South,717398.98,5.63
+2027,Highland,950813.06,5.04
+2027,Hilltop,2018670.49,6.75
+2027,Indian Creek,506152.16,5.02
+2027,Jefferson Park,877326.1,5.23
+2027,Lincoln Park,571533.16,4.31
+2027,Lowry Field,1081412.94,5.41
+2027,Mar Lee,570028.89,5.51
+2027,Montbello,571678.09,5.72
+2027,Montclair,900957.21,5.31
+2027,North Capitol Hill,585753.57,3.1
+2027,North Park Hill,867214.48,5.19
+2027,Northeast Park Hill,611546.87,4.81
+2027,Overland,677155.65,5.33
+2027,Platt Park,1072243.78,5.18
+2027,Regis,758325.36,5.33
+2027,Rosedale,906622.62,5.28
+2027,Ruby Hill,579716.4,5.53
+2027,Skyland,776222.47,5.08
+2027,Sloan Lake,1072065.36,5.55
+2027,South Park Hill,1211410.35,5.54
+2027,Southmoor Park,911585.21,5.38
+2027,Speer,674583.24,4.25
+2027,Sunnyside,870510.65,5.43
+2027,Union Station,795651.37,2.91
+2027,University,874335.71,5.11
+2027,University Hills,742628.66,5.28
+2027,University Park,1358641.37,5.78
+2027,Valverde,540054.81,5.6
+2027,Villa Park,578176.23,5.73
+2027,Virginia Village,794365.13,5.22
+2027,Washington Park,1561901.92,5.91
+2027,Washington Park West,1097015.27,5.04
+2027,Washington Virginia Vale,624624.9,5.3
+2027,Wellshire,1462783.8,6.27
+2027,West Colfax,901860.53,5.39
+2027,West Highland,1042968.56,5.42
+2027,Westwood,498977.46,5.56
+2027,Whittier,875566.44,5.04
+2027,Windsor,310762.41,4.51
+2028,Athmar Park,630459.27,5.19
+2028,Auraria,1004070.89,2.83
+2028,Baker,807295.04,4.39
+2028,Barnum,574578.19,5.25
+2028,Barnum West,591880.14,5.37
+2028,Bear Valley,733972.49,5.28
+2028,Belcaro,1954044.43,5.74
+2028,Berkeley,1035069.12,5.09
+2028,Berkley,433789.64,-2.42
+2028,Capitol Hill,422367.14,3.07
+2028,Central Business District,479555.69,1.62
+2028,Central Park,1150866.16,5.74
+2028,Chaffee Park,639629.9,4.85
+2028,Cheesman Park,530638.1,3.09
+2028,Cherry Creek,1494727.49,4.59
+2028,City Park,978209.01,4.27
+2028,City Park West,824828.22,3.89
+2028,Civic Center,714414.91,2.58
+2028,Clayton,664799.54,4.56
+2028,Cole,760458.88,4.81
+2028,College View - South Platte,584040.06,5.38
+2028,Congress Park,1090738.3,4.79
+2028,Cory - Merrill,1221687.22,5.06
+2028,Country Club,2224175.72,5.5
+2028,Denver International Airport,554414.68,5.89
+2028,East Colfax,589560.62,4.93
+2028,Elyria Swansea,519677.16,5.46
+2028,Five Points,797969.76,4.05
+2028,Fort Logan,787105.89,5.42
+2028,Gateway - Green Valley Ranch,687024.14,5.57
+2028,Globeville,549399.61,5.37
+2028,Goldsmith,652520.0,4.81
+2028,Hale,867074.65,4.76
+2028,Hampden,706253.04,5.01
+2028,Hampden South,686547.56,4.72
+2028,Harvey Park,672854.19,5.27
+2028,Harvey Park South,755609.01,5.33
+2028,Highland,996179.4,4.77
+2028,Hilltop,2145489.52,6.28
+2028,Indian Creek,530308.08,4.77
+2028,Jefferson Park,920880.3,4.96
+2028,Lincoln Park,595202.13,4.14
+2028,Lowry Field,1137210.25,5.16
+2028,Mar Lee,599700.83,5.21
+2028,Montbello,602584.29,5.41
+2028,Montclair,946048.01,5.0
+2028,North Capitol Hill,603208.06,2.98
+2028,North Park Hill,909659.75,4.89
+2028,Northeast Park Hill,639497.68,4.57
+2028,Overland,711306.62,5.04
+2028,Platt Park,1124980.95,4.92
+2028,Regis,796602.88,5.05
+2028,Rosedale,952022.73,5.01
+2028,Ruby Hill,609953.57,5.22
+2028,Skyland,813545.77,4.81
+2028,Sloan Lake,1128389.89,5.25
+2028,South Park Hill,1274648.53,5.22
+2028,Southmoor Park,957877.38,5.08
+2028,Speer,701880.97,4.05
+2028,Sunnyside,915094.28,5.12
+2028,Union Station,817923.08,2.8
+2028,University,916609.25,4.83
+2028,University Hills,779684.37,4.99
+2028,University Park,1432304.83,5.42
+2028,Valverde,568630.1,5.29
+2028,Villa Park,609490.35,5.42
+2028,Virginia Village,833538.04,4.93
+2028,Washington Park,1648699.77,5.56
+2028,Washington Park West,1149212.04,4.76
+2028,Washington Virginia Vale,655963.6,5.02
+2028,Wellshire,1548995.64,5.89
+2028,West Colfax,948065.62,5.12
+2028,West Highland,1096352.98,5.12
+2028,Westwood,525233.05,5.26
+2028,Whittier,917524.68,4.79
+2028,Windsor,323958.88,4.25
+2029,Athmar Park,661931.1,4.99
+2029,Auraria,1030667.46,2.65
+2029,Baker,841163.71,4.2
+2029,Barnum,603616.18,5.05
+2029,Barnum West,622278.07,5.14
+2029,Bear Valley,771087.43,5.06
+2029,Belcaro,2061375.95,5.49
+2029,Berkeley,1085755.59,4.9
+2029,Berkley,423057.91,-2.47
+2029,Capitol Hill,435324.45,3.07
+2029,Central Business District,487689.27,1.7
+2029,Central Park,1212525.9,5.36
+2029,Chaffee Park,670150.11,4.77
+2029,Cheesman Park,547160.78,3.11
+2029,Cherry Creek,1561523.09,4.47
+2029,City Park,1018915.31,4.16
+2029,City Park West,856538.37,3.84
+2029,Civic Center,732282.13,2.5
+2029,Clayton,693832.06,4.37
+2029,Cole,795514.38,4.61
+2029,College View - South Platte,614326.43,5.19
+2029,Congress Park,1141193.76,4.63
+2029,Cory - Merrill,1281719.47,4.91
+2029,Country Club,2341867.02,5.29
+2029,Denver International Airport,585545.8,5.62
+2029,East Colfax,617696.92,4.77
+2029,Elyria Swansea,546937.8,5.25
+2029,Five Points,829548.44,3.96
+2029,Fort Logan,828040.26,5.2
+2029,Gateway - Green Valley Ranch,723604.25,5.32
+2029,Globeville,577239.46,5.07
+2029,Goldsmith,682830.51,4.65
+2029,Hale,907089.3,4.61
+2029,Hampden,740378.81,4.83
+2029,Hampden South,718043.08,4.59
+2029,Harvey Park,706887.56,5.06
+2029,Harvey Park South,794003.85,5.08
+2029,Highland,1042232.8,4.62
+2029,Hilltop,2274277.97,6.0
+2029,Indian Creek,554590.24,4.58
+2029,Jefferson Park,964610.55,4.75
+2029,Lincoln Park,618916.29,3.98
+2029,Lowry Field,1192570.31,4.87
+2029,Mar Lee,629639.28,4.99
+2029,Montbello,633670.06,5.16
+2029,Montclair,991980.26,4.86
+2029,North Capitol Hill,621080.38,2.96
+2029,North Park Hill,952916.05,4.76
+2029,Northeast Park Hill,667818.45,4.43
+2029,Overland,745832.66,4.85
+2029,Platt Park,1178162.47,4.73
+2029,Regis,835225.26,4.85
+2029,Rosedale,997741.91,4.8
+2029,Ruby Hill,640630.92,5.03
+2029,Skyland,851424.32,4.66
+2029,Sloan Lake,1185025.26,5.02
+2029,South Park Hill,1338906.63,5.04
+2029,Southmoor Park,1004850.15,4.9
+2029,Speer,729708.39,3.96
+2029,Sunnyside,960287.94,4.94
+2029,Union Station,840839.23,2.8
+2029,University,959474.33,4.68
+2029,University Hills,817225.14,4.81
+2029,University Park,1507440.61,5.25
+2029,Valverde,597500.48,5.08
+2029,Villa Park,640959.13,5.16
+2029,Virginia Village,873394.01,4.78
+2029,Washington Park,1736517.59,5.33
+2029,Washington Park West,1202500.6,4.64
+2029,Washington Virginia Vale,687687.65,4.84
+2029,Wellshire,1635580.58,5.59
+2029,West Colfax,994237.52,4.87
+2029,West Highland,1150374.88,4.93
+2029,Westwood,551622.87,5.02
+2029,Whittier,959831.15,4.61
+2029,Windsor,337594.25,4.21
+2030,Athmar Park,693164.11,4.72
+2030,Auraria,1057699.72,2.62
+2030,Baker,874975.32,4.02
+2030,Barnum,632399.8,4.77
+2030,Barnum West,652487.52,4.85
+2030,Bear Valley,807977.84,4.78
+2030,Belcaro,2167917.4,5.17
+2030,Berkeley,1136084.36,4.64
+2030,Berkley,412344.89,-2.53
+2030,Capitol Hill,448065.43,2.93
+2030,Central Business District,495553.42,1.61
+2030,Central Park,1274478.78,5.11
+2030,Chaffee Park,700140.41,4.48
+2030,Cheesman Park,563341.69,2.96
+2030,Cherry Creek,1627606.21,4.23
+2030,City Park,1059188.11,3.95
+2030,City Park West,887767.67,3.65
+2030,Civic Center,750138.22,2.44
+2030,Clayton,722791.21,4.17
+2030,Cole,830432.34,4.39
+2030,College View - South Platte,644316.89,4.88
+2030,Congress Park,1191225.99,4.38
+2030,Cory - Merrill,1341047.47,4.63
+2030,Country Club,2458442.63,4.98
+2030,Denver International Airport,616448.75,5.28
+2030,East Colfax,645557.11,4.51
+2030,Elyria Swansea,573969.81,4.94
+2030,Five Points,860795.17,3.77
+2030,Fort Logan,868650.68,4.9
+2030,Gateway - Green Valley Ranch,759939.8,5.02
+2030,Globeville,605096.84,4.83
+2030,Goldsmith,712897.91,4.4
+2030,Hale,946715.39,4.37
+2030,Hampden,774212.58,4.57
+2030,Hampden South,749186.37,4.34
+2030,Harvey Park,740669.77,4.78
+2030,Harvey Park South,832218.95,4.81
+2030,Highland,1087858.73,4.38
+2030,Hilltop,2401882.36,5.61
+2030,Indian Creek,578768.55,4.36
+2030,Jefferson Park,1008177.36,4.52
+2030,Lincoln Park,642550.57,3.82
+2030,Lowry Field,1248026.77,4.65
+2030,Mar Lee,659384.6,4.72
+2030,Montbello,664601.12,4.88
+2030,Montclair,1037394.88,4.58
+2030,North Capitol Hill,638704.61,2.84
+2030,North Park Hill,995679.7,4.49
+2030,Northeast Park Hill,695893.04,4.2
+2030,Overland,780094.43,4.59
+2030,Platt Park,1231011.95,4.49
+2030,Regis,873600.28,4.59
+2030,Rosedale,1043197.85,4.56
+2030,Ruby Hill,671019.04,4.74
+2030,Skyland,888944.61,4.41
+2030,Sloan Lake,1241398.03,4.76
+2030,South Park Hill,1402532.3,4.75
+2030,Southmoor Park,1051400.71,4.63
+2030,Speer,757205.45,3.77
+2030,Sunnyside,1005085.34,4.66
+2030,Union Station,863363.49,2.68
+2030,University,1001946.89,4.43
+2030,University Hills,854449.14,4.55
+2030,University Park,1581709.22,4.93
+2030,Valverde,626159.12,4.8
+2030,Villa Park,672280.26,4.89
+2030,Virginia Village,912830.13,4.52
+2030,Washington Park,1823672.04,5.02
+2030,Washington Park West,1255143.6,4.38
+2030,Washington Virginia Vale,719152.36,4.58
+2030,Wellshire,1721839.78,5.27
+2030,West Colfax,1040333.13,4.64
+2030,West Highland,1203967.82,4.66
+2030,Westwood,577891.16,4.76
+2030,Whittier,1001878.15,4.38
+2030,Windsor,350994.27,3.97
+2031,Athmar Park,724396.34,4.51
+2031,Auraria,1084732.2,2.56
+2031,Baker,908786.45,3.86
+2031,Barnum,661182.61,4.55
+2031,Barnum West,682696.29,4.63
+2031,Bear Valley,844867.49,4.57
+2031,Belcaro,2274456.63,4.91
+2031,Berkeley,1186412.0,4.43
+2031,Berkley,401632.2,-2.6
+2031,Capitol Hill,460805.8,2.84
+2031,Central Business District,503416.84,1.59
+2031,Central Park,1336431.74,4.86
+2031,Chaffee Park,730129.26,4.28
+2031,Cheesman Park,579521.6,2.87
+2031,Cherry Creek,1693687.5,4.06
+2031,City Park,1099459.55,3.8
+2031,City Park West,918995.62,3.52
+2031,Civic Center,767993.97,2.38
+2031,Clayton,751749.99,4.01
+2031,Cole,865349.68,4.2
+2031,College View - South Platte,674306.41,4.65
+2031,Congress Park,1241256.91,4.2
+2031,Cory - Merrill,1400373.57,4.42
+2031,Country Club,2575015.17,4.74
+2031,Denver International Airport,647350.82,5.01
+2031,East Colfax,673416.42,4.32
+2031,Elyria Swansea,601001.1,4.71
+2031,Five Points,892040.91,3.63
+2031,Fort Logan,909260.08,4.67
+2031,Gateway - Green Valley Ranch,796274.59,4.78
+2031,Globeville,632953.97,4.6
+2031,Goldsmith,742964.55,4.22
+2031,Hale,986340.26,4.19
+2031,Hampden,808045.47,4.37
+2031,Hampden South,780328.63,4.16
+2031,Harvey Park,774451.18,4.56
+2031,Harvey Park South,870433.28,4.59
+2031,Highland,1133483.48,4.19
+2031,Hilltop,2529483.75,5.31
+2031,Indian Creek,602946.55,4.18
+2031,Jefferson Park,1051743.65,4.32
+2031,Lincoln Park,666184.44,3.68
+2031,Lowry Field,1303482.91,4.44
+2031,Mar Lee,689129.29,4.51
+2031,Montbello,695531.63,4.65
+2031,Montclair,1082807.98,4.38
+2031,North Capitol Hill,656328.15,2.76
+2031,North Park Hill,1038441.95,4.29
+2031,Northeast Park Hill,723966.86,4.03
+2031,Overland,814355.31,4.39
+2031,Platt Park,1283860.29,4.29
+2031,Regis,911974.55,4.39
+2031,Rosedale,1088652.79,4.36
+2031,Ruby Hill,701406.24,4.53
+2031,Skyland,926463.79,4.22
+2031,Sloan Lake,1297769.91,4.54
+2031,South Park Hill,1466156.18,4.54
+2031,Southmoor Park,1097950.13,4.43
+2031,Speer,784701.49,3.63
+2031,Sunnyside,1049881.56,4.46
+2031,Union Station,885886.48,2.61
+2031,University,1044418.19,4.24
+2031,University Hills,891672.22,4.36
+2031,University Park,1655975.53,4.7
+2031,Valverde,654817.03,4.58
+2031,Villa Park,703600.8,4.66
+2031,Virginia Village,952265.04,4.32
+2031,Washington Park,1910824.62,4.78
+2031,Washington Park West,1307784.86,4.19
+2031,Washington Virginia Vale,750616.25,4.38
+2031,Wellshire,1808098.03,5.01
+2031,West Colfax,1086428.24,4.43
+2031,West Highland,1257559.44,4.45
+2031,Westwood,604158.99,4.55
+2031,Whittier,1043924.28,4.2
+2031,Windsor,364393.8,3.82
+2032,Athmar Park,755528.4,4.3
+2032,Auraria,1112410.02,2.55
+2032,Baker,942705.03,3.73
+2032,Barnum,689838.85,4.33
+2032,Barnum West,712852.46,4.42
+2032,Bear Valley,881686.21,4.36
+2032,Belcaro,2380584.27,4.67
+2032,Berkeley,1236586.32,4.23
+2032,Berkley,390851.44,-2.68
+2032,Capitol Hill,473392.73,2.73
+2032,Central Business District,511054.86,1.52
+2032,Central Park,1398947.2,4.68
+2032,Chaffee Park,759719.13,4.05
+2032,Cheesman Park,595450.88,2.75
+2032,Cherry Creek,1759277.57,3.87
+2032,City Park,1139488.14,3.64
+2032,City Park West,949882.07,3.36
+2032,Civic Center,785938.06,2.34
+2032,Clayton,780752.55,3.86
+2032,Cole,900283.6,4.04
+2032,College View - South Platte,704137.53,4.42
+2032,Congress Park,1291070.3,4.01
+2032,Cory - Merrill,1459217.56,4.2
+2032,Country Club,2690889.9,4.5
+2032,Denver International Airport,678190.3,4.76
+2032,East Colfax,701129.21,4.12
+2032,Elyria Swansea,627917.45,4.48
+2032,Five Points,923089.6,3.48
+2032,Fort Logan,949719.34,4.45
+2032,Gateway - Green Valley Ranch,832509.6,4.55
+2032,Globeville,660963.16,4.43
+2032,Goldsmith,772911.63,4.03
+2032,Hale,1025756.78,4.0
+2032,Hampden,841727.22,4.17
+2032,Hampden South,811252.73,3.96
+2032,Harvey Park,808121.64,4.35
+2032,Harvey Park South,908643.31,4.39
+2032,Highland,1178849.82,4.0
+2032,Hilltop,2656302.77,5.01
+2032,Indian Creek,627102.47,4.01
+2032,Jefferson Park,1095297.85,4.14
+2032,Lincoln Park,689853.4,3.55
+2032,Lowry Field,1359280.23,4.28
+2032,Mar Lee,718801.23,4.31
+2032,Montbello,726437.83,4.44
+2032,Montclair,1127898.78,4.16
+2032,North Capitol Hill,673782.64,2.66
+2032,North Park Hill,1080887.22,4.09
+2032,Northeast Park Hill,751917.67,3.86
+2032,Overland,848506.28,4.19
+2032,Platt Park,1336597.46,4.11
+2032,Regis,950252.07,4.2
+2032,Rosedale,1134052.89,4.17
+2032,Ruby Hill,731643.41,4.31
+2032,Skyland,963787.09,4.03
+2032,Sloan Lake,1354094.44,4.34
+2032,South Park Hill,1529394.35,4.31
+2032,Southmoor Park,1144242.3,4.22
+2032,Speer,811999.22,3.48
+2032,Sunnyside,1094465.19,4.25
+2032,Union Station,908158.19,2.51
+2032,University,1086691.73,4.05
+2032,University Hills,928727.93,4.16
+2032,University Park,1729638.98,4.45
+2032,Valverde,683392.31,4.36
+2032,Villa Park,734914.92,4.45
+2032,Virginia Village,991437.95,4.11
+2032,Washington Park,1997622.47,4.54
+2032,Washington Park West,1359981.64,3.99
+2032,Washington Virginia Vale,781954.95,4.18
+2032,Wellshire,1894309.88,4.77
+2032,West Colfax,1132633.33,4.25
+2032,West Highland,1310943.86,4.25
+2032,Westwood,630414.58,4.35
+2032,Whittier,1085882.53,4.02
+2032,Windsor,377590.27,3.62
+2033,Athmar Park,787000.23,4.17
+2033,Auraria,1139006.58,2.39
+2033,Baker,976573.69,3.59
+2033,Barnum,718876.84,4.21
+2033,Barnum West,743250.38,4.26
+2033,Bear Valley,918801.15,4.21
+2033,Belcaro,2487915.79,4.51
+2033,Berkeley,1287272.79,4.1
+2033,Berkley,380119.71,-2.75
+2033,Capitol Hill,486350.04,2.74
+2033,Central Business District,519188.43,1.59
+2033,Central Park,1460606.95,4.41
+2033,Chaffee Park,790239.34,4.02
+2033,Cheesman Park,611973.56,2.77
+2033,Cherry Creek,1826073.17,3.8
+2033,City Park,1180194.45,3.57
+2033,City Park West,981592.23,3.34
+2033,Civic Center,803805.28,2.27
+2033,Clayton,809785.07,3.72
+2033,Cole,935339.1,3.89
+2033,College View - South Platte,734423.9,4.3
+2033,Congress Park,1341525.76,3.91
+2033,Cory - Merrill,1519249.81,4.11
+2033,Country Club,2808581.2,4.37
+2033,Denver International Airport,709321.42,4.59
+2033,East Colfax,729265.5,4.01
+2033,Elyria Swansea,655178.09,4.34
+2033,Five Points,954668.27,3.42
+2033,Fort Logan,990653.7,4.31
+2033,Gateway - Green Valley Ranch,869089.71,4.39
+2033,Globeville,688803.02,4.21
+2033,Goldsmith,803222.13,3.92
+2033,Hale,1065771.43,3.9
+2033,Hampden,875852.99,4.05
+2033,Hampden South,842748.25,3.88
+2033,Harvey Park,842155.02,4.21
+2033,Harvey Park South,947038.15,4.23
+2033,Highland,1224903.22,3.91
+2033,Hilltop,2785091.23,4.85
+2033,Indian Creek,651384.63,3.87
+2033,Jefferson Park,1139028.1,3.99
+2033,Lincoln Park,713567.57,3.44
+2033,Lowry Field,1414640.28,4.07
+2033,Mar Lee,748739.68,4.17
+2033,Montbello,757523.59,4.28
+2033,Montclair,1173831.03,4.07
+2033,North Capitol Hill,691654.96,2.65
+2033,North Park Hill,1124143.51,4.0
+2033,Northeast Park Hill,780238.44,3.77
+2033,Overland,883032.31,4.07
+2033,Platt Park,1389778.98,3.98
+2033,Regis,988874.45,4.06
+2033,Rosedale,1179772.08,4.03
+2033,Ruby Hill,762320.76,4.19
+2033,Skyland,1001665.64,3.93
+2033,Sloan Lake,1410729.81,4.18
+2033,South Park Hill,1593652.45,4.2
+2033,Southmoor Park,1191215.07,4.11
+2033,Speer,839826.64,3.43
+2033,Sunnyside,1139658.85,4.13
+2033,Union Station,931074.34,2.52
+2033,University,1129556.8,3.94
+2033,University Hills,966268.7,4.04
+2033,University Park,1804774.77,4.34
+2033,Valverde,712262.7,4.22
+2033,Villa Park,766383.7,4.28
+2033,Virginia Village,1031293.93,4.02
+2033,Washington Park,2085440.28,4.4
+2033,Washington Park West,1413270.19,3.92
+2033,Washington Virginia Vale,813679.0,4.06
+2033,Wellshire,1980894.82,4.57
+2033,West Colfax,1178805.23,4.08
+2033,West Highland,1364965.75,4.12
+2033,Westwood,656804.4,4.19
+2033,Whittier,1128188.99,3.9
+2033,Windsor,391225.63,3.61
+2034,Athmar Park,818233.25,3.97
+2034,Auraria,1166038.84,2.37
+2034,Baker,1010385.31,3.46
+2034,Barnum,747660.47,4.0
+2034,Barnum West,773459.83,4.06
+2034,Bear Valley,955691.56,4.02
+2034,Belcaro,2594457.25,4.28
+2034,Berkeley,1337601.56,3.91
+2034,Berkley,369406.69,-2.82
+2034,Capitol Hill,499091.02,2.62
+2034,Central Business District,527052.58,1.51
+2034,Central Park,1522559.83,4.24
+2034,Chaffee Park,820229.64,3.8
+2034,Cheesman Park,628154.47,2.64
+2034,Cherry Creek,1892156.28,3.62
+2034,City Park,1220467.24,3.41
+2034,City Park West,1012821.53,3.18
+2034,Civic Center,821661.37,2.22
+2034,Clayton,838744.22,3.58
+2034,Cole,970257.06,3.73
+2034,College View - South Platte,764414.36,4.08
+2034,Congress Park,1391557.99,3.73
+2034,Cory - Merrill,1578577.81,3.91
+2034,Country Club,2925156.82,4.15
+2034,Denver International Airport,740224.37,4.36
+2034,East Colfax,757125.69,3.82
+2034,Elyria Swansea,682210.1,4.13
+2034,Five Points,985915.01,3.27
+2034,Fort Logan,1031264.13,4.1
+2034,Gateway - Green Valley Ranch,905425.26,4.18
+2034,Globeville,716660.39,4.04
+2034,Goldsmith,833289.53,3.74
+2034,Hale,1105397.52,3.72
+2034,Hampden,909686.77,3.86
+2034,Hampden South,873891.54,3.7
+2034,Harvey Park,875937.23,4.01
+2034,Harvey Park South,985253.25,4.04
+2034,Highland,1270529.15,3.72
+2034,Hilltop,2912695.61,4.58
+2034,Indian Creek,675562.94,3.71
+2034,Jefferson Park,1182594.91,3.82
+2034,Lincoln Park,737201.85,3.31
+2034,Lowry Field,1470096.74,3.92
+2034,Mar Lee,778485.0,3.97
+2034,Montbello,788454.66,4.08
+2034,Montclair,1219245.65,3.87
+2034,North Capitol Hill,709279.2,2.55
+2034,North Park Hill,1166907.17,3.8
+2034,Northeast Park Hill,808313.03,3.6
+2034,Overland,917294.09,3.88
+2034,Platt Park,1442628.47,3.8
+2034,Regis,1027249.47,3.88
+2034,Rosedale,1225228.02,3.85
+2034,Ruby Hill,792708.88,3.99
+2034,Skyland,1039185.93,3.75
+2034,Sloan Lake,1467102.58,4.0
+2034,South Park Hill,1657278.12,3.99
+2034,Southmoor Park,1237765.63,3.91
+2034,Speer,867323.7,3.27
+2034,Sunnyside,1184456.25,3.93
+2034,Union Station,953598.61,2.42
+2034,University,1172029.36,3.76
+2034,University Hills,1003492.71,3.85
+2034,University Park,1879043.38,4.12
+2034,Valverde,740921.34,4.02
+2034,Villa Park,797704.84,4.09
+2034,Virginia Village,1070730.05,3.82
+2034,Washington Park,2172594.73,4.18
+2034,Washington Park West,1465913.2,3.72
+2034,Washington Virginia Vale,845143.71,3.87
+2034,Wellshire,2067154.02,4.35
+2034,West Colfax,1224900.84,3.91
+2034,West Highland,1418558.7,3.93
+2034,Westwood,683072.69,4.0
+2034,Whittier,1170236.0,3.73
+2034,Windsor,404625.65,3.43
+2035,Athmar Park,849465.47,3.82
+2035,Auraria,1193071.32,2.32
+2035,Baker,1044196.43,3.35
+2035,Barnum,776443.27,3.85
+2035,Barnum West,803668.6,3.91
+2035,Bear Valley,992581.2,3.86
+2035,Belcaro,2700996.47,4.11
+2035,Berkeley,1387929.2,3.76
+2035,Berkley,358694.0,-2.9
+2035,Capitol Hill,511831.39,2.55
+2035,Central Business District,534916.0,1.49
+2035,Central Park,1584512.79,4.07
+2035,Chaffee Park,850218.49,3.66
+2035,Cheesman Park,644334.38,2.58
+2035,Cherry Creek,1958237.58,3.49
+2035,City Park,1260738.69,3.3
+2035,City Park West,1044049.48,3.08
+2035,Civic Center,839517.11,2.17
+2035,Clayton,867703.0,3.45
+2035,Cole,1005174.41,3.6
+2035,College View - South Platte,794403.89,3.92
+2035,Congress Park,1441588.9,3.6
+2035,Cory - Merrill,1637903.91,3.76
+2035,Country Club,3041729.35,3.99
+2035,Denver International Airport,771126.44,4.17
+2035,East Colfax,784985.0,3.68
+2035,Elyria Swansea,709241.39,3.96
+2035,Five Points,1017160.75,3.17
+2035,Fort Logan,1071873.52,3.94
+2035,Gateway - Green Valley Ranch,941760.05,4.01
+2035,Globeville,744517.53,3.89
+2035,Goldsmith,863356.18,3.61
+2035,Hale,1145022.39,3.58
+2035,Hampden,943519.65,3.72
+2035,Hampden South,905033.8,3.56
+2035,Harvey Park,909718.64,3.86
+2035,Harvey Park South,1023467.58,3.88
+2035,Highland,1316153.9,3.59
+2035,Hilltop,3040297.0,4.38
+2035,Indian Creek,699740.94,3.58
+2035,Jefferson Park,1226161.19,3.68
+2035,Lincoln Park,760835.72,3.21
+2035,Lowry Field,1525552.89,3.77
+2035,Mar Lee,808229.69,3.82
+2035,Montbello,819385.17,3.92
+2035,Montclair,1264658.75,3.72
+2035,North Capitol Hill,726902.74,2.48
+2035,North Park Hill,1209669.42,3.66
+2035,Northeast Park Hill,836386.84,3.47
+2035,Overland,951554.97,3.73
+2035,Platt Park,1495476.81,3.66
+2035,Regis,1065623.73,3.74
+2035,Rosedale,1270682.96,3.71
+2035,Ruby Hill,823096.08,3.83
+2035,Skyland,1076705.11,3.61
+2035,Sloan Lake,1523474.46,3.84
+2035,South Park Hill,1720902.0,3.84
+2035,Southmoor Park,1284315.05,3.76
+2035,Speer,894819.74,3.17
+2035,Sunnyside,1229252.47,3.78
+2035,Union Station,976121.59,2.36
+2035,University,1214500.66,3.62
+2035,University Hills,1040715.78,3.71
+2035,University Park,1953309.68,3.95
+2035,Valverde,769579.24,3.87
+2035,Villa Park,829025.38,3.93
+2035,Virginia Village,1110164.95,3.68
+2035,Washington Park,2259747.31,4.01
+2035,Washington Park West,1518554.46,3.59
+2035,Washington Virginia Vale,876607.6,3.72
+2035,Wellshire,2153412.27,4.17
+2035,West Colfax,1270995.95,3.76
+2035,West Highland,1472150.32,3.78
+2035,Westwood,709340.52,3.85
+2035,Whittier,1212282.13,3.59
+2035,Windsor,418025.18,3.31
