@@ -61,5 +61,6 @@ We aim to forecast home values by neighborhood in Denver using time series data.
 ## Resources
 - **DU Bootcamp Modules:** Utilized challenge files and class materials from the bootcamp.
 - [**Zillow Data**](https://www.zillow.com/research/data/) 
-- [**Prophet Documentation**](https://facebook.github.io/prophet/docs/quick_start.html#python-api) 
+- [**Prophet Documentation**](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
+- [**Keras Documentation**](https://www.tensorflow.org/guide/keras)
 - **ChatGPT:** Assisted with code explanations and debugging.
