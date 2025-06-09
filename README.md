@@ -19,7 +19,7 @@ This project forecasts housing price trends across Denver neighborhoods through 
   - [Features](#features)
   - [Deployment](#deployment)
     - [Local Setup Instructions:](#local-setup-instructions)
-  - [🔍 Model Optimization](#-model-optimization)
+  - [Model Optimization](#model-optimization)
   - [Key Findings](#key-findings)
   - [Recommendations](#recommendations)
   - [Methodology](#methodology)
@@ -94,7 +94,7 @@ This project forecasts housing price trends across Denver neighborhoods through 
 
 ---
 
-## 🔍 Model Optimization
+##  Model Optimization
 
 - **Keras Models**:
   - The **yearly model** achieved **RMSE ≈ $39K**, offering stable long-term forecasting.
@@ -149,17 +149,18 @@ This project forecasts housing price trends across Denver neighborhoods through 
 - **RMSE** – Root Mean Squared Error  
 - **MPE** – Mean Percentage Error  
 - **R²** – Coefficient of Determination
-![Alt Text](Images\MAE_comparison.png) ![Alt Text](Images\RMSE_comparison.png)
+![Alt Text](Images/MAE_comparison.png) 
+![Alt Text](Images/RMSE_comparison.png)
 
 ### Visualization
 **Tableau**
 - Created Tableau dashboards with filters, tooltips, and map interactivity.
-![Alt Text](Images\Tableau.png)
+![Alt Text](Images/Tableau.png)
 
 **Flask App**
 - Interavtive Flask App end user can filter by year, neighborhood and price range targets. 
-![Alt Text](Images\Flask.png)
-![Alt Text](Images\Flask_2.png)
+![Alt Text](Images/Flask.png)
+![Alt Text](Images/Flask_2.png)
 ---
 
 ## Model Comparison
