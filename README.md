@@ -12,17 +12,26 @@ This project forecasts housing price trends across Denver neighborhoods through 
 ---
 
 ## Table of Contents
-- [Research Questions](#research-questions)
-- [Features](#features)
-- [Deployment](#deployment)
-- [Model Optimization](#model-optimization)
-- [Key Findings](#key-findings)
-- [Recommendations](#recommendations)
-- [Methodology](#methodology)
-- [Model Comparison](#model-comparison)
-- [Ethical Considerations](#ethical-considerations)
-- [Opportunities for Further Analysis](#opportunities-for-further-analysis)
-- [Resources](#resources)
+- [🏡 Denver Real Estate Forecasting with Machine Learning](#-denver-real-estate-forecasting-with-machine-learning)
+  - [Overview](#overview)
+  - [Table of Contents](#table-of-contents)
+  - [Research Questions](#research-questions)
+  - [Features](#features)
+  - [Deployment](#deployment)
+    - [Local Setup Instructions:](#local-setup-instructions)
+  - [🔍 Model Optimization](#-model-optimization)
+  - [Key Findings](#key-findings)
+  - [Recommendations](#recommendations)
+  - [Methodology](#methodology)
+    - [Data Preparation](#data-preparation)
+    - [Model Development](#model-development)
+    - [Evaluation Metrics](#evaluation-metrics)
+    - [Visualization](#visualization)
+  - [](#)
+  - [Model Comparison](#model-comparison)
+  - [Ethical Considerations](#ethical-considerations)
+  - [Opportunities for Further Analysis](#opportunities-for-further-analysis)
+  - [Resources](#resources)
 
 ---
 
@@ -62,11 +71,14 @@ This project forecasts housing price trends across Denver neighborhoods through 
     - `linear_regression_model.ipynb` — Linear Regression
     - `keras_model_yearly.ipynb` or `keras_model_quarterly.ipynb` — Keras annual and quarterly models
     - `prophet_model.ipynb` — Facebook Prophet
-**3. Run the Flask App locally (optional):**
-```bash
-python app.py
-```
-**4. Open the Tableau Workbook:**
+
+3. **Run the Flask App locally (optional):**
+
+   ```bash
+   python app.py
+
+
+4.**Open the Tableau Workbook:**
 - Open `forecast_dashboard.twbx` to interact with visualizations of future housing values.
 
 **Requirements include:**
@@ -137,11 +149,17 @@ python app.py
 - **RMSE** – Root Mean Squared Error  
 - **MPE** – Mean Percentage Error  
 - **R²** – Coefficient of Determination
+![Alt Text](Images\MAE_comparison.png) ![Alt Text](Images\RMSE_comparison.png)
 
 ### Visualization
-- Exported final predictions and joined them with geographic shapefiles.
+**Tableau**
 - Created Tableau dashboards with filters, tooltips, and map interactivity.
+![Alt Text](Images\Tableau.png)
 
+**Flask App**
+- Interavtive Flask App end user can filter by year, neighborhood and price range targets. 
+![Alt Text](Images\Flask_2.png)
+![Alt Text](Images\Flask.png)
 ---
 
 ## Model Comparison
