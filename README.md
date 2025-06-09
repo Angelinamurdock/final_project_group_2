@@ -158,8 +158,8 @@ This project forecasts housing price trends across Denver neighborhoods through 
 
 **Flask App**
 - Interavtive Flask App end user can filter by year, neighborhood and price range targets. 
-![Alt Text](Images\Flask_2.png)
 ![Alt Text](Images\Flask.png)
+![Alt Text](Images\Flask_2.png)
 ---
 
 ## Model Comparison
