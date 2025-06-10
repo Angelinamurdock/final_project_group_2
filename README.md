@@ -12,7 +12,7 @@ This project forecasts housing price trends across Denver neighborhoods through 
 ---
 
 ## Table of Contents
-- [🏡 Denver Real Estate Forecasting with Machine Learning](#-denver-real-estate-forecasting-with-machine-learning)
+- [Denver Real Estate Forecasting with Machine Learning](#-denver-real-estate-forecasting-with-machine-learning)
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
   - [Research Questions](#research-questions)
@@ -27,7 +27,6 @@ This project forecasts housing price trends across Denver neighborhoods through 
     - [Model Development](#model-development)
     - [Evaluation Metrics](#evaluation-metrics)
     - [Visualization](#visualization)
-  - [](#)
   - [Model Comparison](#model-comparison)
   - [Ethical Considerations](#ethical-considerations)
   - [Opportunities for Further Analysis](#opportunities-for-further-analysis)
