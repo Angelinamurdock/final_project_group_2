@@ -1,6 +1,6 @@
 # 🏡 Denver Real Estate Forecasting with Machine Learning
 
-**Creators**: Angelina Murdock, Kanchan Kumari, Luke Roberts  
+**Creators**: Angelina Murdock, Kanchan Ratan, Luke Roberts  
 **Date**: June 2025
 
 ---
